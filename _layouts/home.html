@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!--
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+    	Forty by HTML5 UP
+    	html5up.net | @ajlkn
+    	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+    -->
 <html>
 
 {% include head.html %}
@@ -20,14 +20,10 @@
             </header>
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
-                <ul class="actions">
-                    <li><a href="#one" class="button next scrolly special">Get Started</a></li>
-                </ul>
             </div>
         </div>
     </section>
 
-    
     <!-- about section -->
     <div id="main">
         {% if site.home-about == true %}
@@ -40,7 +36,7 @@
         {% endif %}
 
                 <!-- recent posts tiles -->
-        {% if site.post-tiles == true %}
+        <!-- {% if site.post-tiles == true %}
             <div class="inner">
                 <header class="major">
                     <h2>Recent Posts</h2>
@@ -50,7 +46,7 @@
             <div class="extra">
                 <a href="{{ site.url }}/blog" class="button">View All posts</a>
             </div>
-        {% endif %}
+        {% endif %} -->
 
         <!-- recent projects tiles -->
         {% if site.projects-tiles == true %}
@@ -65,7 +61,75 @@
             </div>
         {% endif %}
     </div>
-
+   
+    <!-- Contact -->
+    <section id="contact">
+      <div class="inner">
+        <section>
+        {% if site.home-about == false %}
+                    <header style="margin-top: -40px" class="major">
+                        <h2>About</h2>
+                    </header>
+                    <p>{{ site.about-text }}</p>
+        {% endif %}
+        For any Questions, enquiries, Contact me via the form below or send me a direct email. you can also get in touch with me via telegram then start your message, "Hi, I found you through your site..."<br/><br/>
+          <form action="https://formspree.io/{{ site.email }}" method="POST">
+            <div class="field half first">
+              <label for="name">Name</label>
+              <input type="text" name="name" id="name" />
+            </div>
+            <div class="field half">
+              <label for="email">Email</label>
+              <input type="text" name="_replyto" id="email" />
+            </div>
+            <div class="field">
+              <label for="message">Message</label>
+              <textarea name="message" id="message" rows="6"></textarea>
+            </div>
+            <ul class="actions">
+              <li><input type="submit" value="Send Message" class="special" /></li>
+              <li><input type="reset" value="Clear" /></li>
+            </ul>
+          </form>
+        </section>
+        <section class="split">
+          <section>
+            <div class="contact-method">
+              <span class="icon alt fa-envelope"></span>
+              <h3>Email</h3>
+              <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+            </div>
+          </section>
+          <section>
+            <div class="contact-method">
+              <span class="icon alt fa-instagram"></span>
+              <h3>Instagram</h3>
+              <span><a href="{{ site.socials.Instagram }}">{{ site.socials.Instagram | split: '/' | last | capitalize }}</a></span>
+            </div>
+          </section>
+          <section>
+            <div class="contact-method">
+              <span class="icon alt fa-home"></span>
+              <h3>Address</h3>
+              <span>
+                {% if site.street_address %}
+                {{ site.street_address }}<br />
+                {% endif %} {% if site.city %}
+                {{ site.city }}, {% endif %} {% if site.state %}
+                {{ site.state }}
+                {% endif %} {% if site.zip_code %}
+                {{ site.zip_code }}<br />
+                {% endif %} {% if site.country %}
+                {{ site.country }}
+                {% endif %}
+              </span>
+            </div>
+          </section>
+        </section>
+    
+      </div>
+    </section>
+    
     {% include footer.html %}
 
 </body>

@@ -44,9 +44,9 @@ nav-menu: true
       </section>
       <section>
         <div class="contact-method">
-          <span class="icon alt fa-telegram"></span>
-          <h3>Telegram</h3>
-          <span><a href="{{ site.telegram_url }}">{{ site.telegram_url | split: '/' | last | capitalize }}</a></span>
+          <span class="icon alt fa-instagram"></span>
+          <h3>Instagram</h3>
+          <span><a href="{{ site.socials.Instagram }}">{{ site.socials.Instagram | split: '/' | last | capitalize }}</a></span>
         </div>
       </section>
       <section>

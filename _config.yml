@@ -14,12 +14,12 @@ country: Hungary
 phone:
 logo: 'assets/images/logo.webp' # has to be a jpg image
 
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+# homepage config
 tiles-count: 6
 post-tiles: true
 projects-tiles: true
 home-about: false
+
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
@@ -28,21 +28,11 @@ home-about: false
 socials:
   GitHub: https://github.com/akospaha01
   GitLab:
-  Instagram: https://www.instagram.com/akos_paha/?hl=en
+  Instagram: https://www.instagram.com/akos_paha
   LinkedIn: https://hu.linkedin.com/in/akos-paha-886273220
   Twitter: 
   Facebook: https://www.facebook.com/Paha.Akos/
   Slack:
-
-# skills widget
-skills:
-  Designing: "50"
-  HTML: "80"
-  C#: "35"
-  C++: "15"
-  Office: "95"
-  Testing: "100"
-  Helping: "100"
 
 # build settings
 markdown: kramdown

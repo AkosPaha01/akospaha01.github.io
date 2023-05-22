@@ -12,8 +12,7 @@ nav-menu: true
       <header class="major">
         <h2>Akos Paha</h2>
       </header>
-      <p>
-      {{ site.year }} years old.
+      <p>21 years old.
       </p>
     </div>
   </section>

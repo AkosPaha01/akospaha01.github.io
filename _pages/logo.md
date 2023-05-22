@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Logo
-nav-menu: true
+nav-menu: false
 ---
 
 <div id="main" class="alt">

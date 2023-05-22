@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gboard Themes
-nav-menu: true
+nav-menu: false
 tags: Gboards Themes Google Morethemes 
 ---
 

@@ -42,6 +42,7 @@
 					'color #{_duration(transition)} ease-in-out'
 				));
 				background-color: _palette(fg-bold);
+				border-radius: 50px;
 				color: _palette(bg);
 				display: inline-block;
 				line-height: 1.65em;

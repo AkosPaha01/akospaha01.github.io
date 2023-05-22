@@ -110,17 +110,16 @@
 		}
 
 		&.special {
-			// background-color: _palette(fg-bold);
-			background: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+			// background-color: _palette(fg-bold);  
+			background: linear-gradient(120deg,  #f6d365 , #a6c0fe , #f68084 );
+			background-size: 200% 100%;
+			background-position: 100% 0;
 			box-shadow: none;
 			color: _palette(bg);
-
+  			transition: .5s;
+		
 			&:hover, &:active {
-				background-position: right center;
-				color: _palette(bg) !important;
-			}
-			&:active {
-				background-color: desaturate(darken(_palette(highlight), 15), 5);
+				background-position: 0 0;
 			}
 		}
 
