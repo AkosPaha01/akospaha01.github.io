@@ -62,7 +62,7 @@ nav-menu: true
     </header>
     <p>
       Creating lots of Gboard Themes
-      <a href="https://github.com/akospaha">Github</a>
+      <a href="https://github.com/akospaha01">Github</a>
       </p>
 
     <header class="major">
@@ -90,7 +90,7 @@ nav-menu: true
           </p>
           <ul class="actions">
             <li>
-              <a href="https://akospaha.tk/projects/Techindeep-translate-and-post-writing/" class="button">Read more....</a>
+              <a href="projects/Techindeep-translate-and-post-writing/" class="button">Read more....</a>
             </li>
           </ul>
         </div>
@@ -114,7 +114,7 @@ nav-menu: true
           </p>
           <ul class="actions">
             <li>
-              <a href="https://akospaha.tk/projects/gboard-themes/" class="button">Read more....</a>
+              <a href="projects/gboard-themes/" class="button">Read more....</a>
             </li>
           </ul>
         </div>
