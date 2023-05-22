@@ -1,0 +1,73 @@
+# site settings
+title: Akos Paha
+email: paha.akos@gmail.com
+description: Software Tester
+landing-title: Hello, My Name is Akos Paha
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address:
+city: Budapest
+state:
+zip_code:
+country: Hungary
+phone:
+logo: 'assets/images/logo.webp' # has to be a jpg image
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+post-tiles: true
+projects-tiles: true
+home-about: false
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/akospaha01
+  GitLab:
+  Instagram: https://www.instagram.com/akos_paha/?hl=en
+  LinkedIn: https://hu.linkedin.com/in/akos-paha-886273220
+  Twitter: 
+  Facebook: https://www.facebook.com/Paha.Akos/
+  Slack:
+
+# skills widget
+skills:
+  Designing: "50"
+  HTML: "80"
+  C#: "35"
+  C++: "15"
+  Office: "95"
+  Testing: "100"
+  Helping: "100"
+
+# build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+sass:
+  style: compressed
+
+include: ["_pages"]
+collections:
+  pages:
+    output: true
+    permalink: :path
+
+permalink: pretty
+permalink: /:title/
+
+jekyll_admin:
+  hidden_links:
+    - datafiles
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
