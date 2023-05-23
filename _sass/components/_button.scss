@@ -120,6 +120,7 @@
 		
 			&:hover, &:active {
 				background-position: 0 0;
+				
 			}
 		}
 
@@ -129,4 +130,8 @@
 			cursor: default;
 			opacity: 0.25;
 		}
+	}
+	a.special,
+	a.special:hover{
+		color: _palette(bg) !important;
 	}

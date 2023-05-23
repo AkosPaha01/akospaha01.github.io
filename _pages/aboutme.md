@@ -12,7 +12,7 @@ nav-menu: true
       <header class="major">
         <h2>Akos Paha</h2>
       </header>
-      <p>21 years old.
+      <p>21 years old Software Tester.
       </p>
     </div>
   </section>
@@ -23,7 +23,7 @@ nav-menu: true
       <h2>Backstory</h2>
     </header>
     <p>
-      TODO
+      I was born in 2001 December 30th in Hungary. For the first few years I lived at home. At the age of 3 my parents enrolled in kindergarten (The good old days). I went to kindergarten for 4 years. After I went to elementary school in Budapest for 7 years. ELTE Gyertyánffy István Practicing primary School. I've been here for 8 years. I left primary school with a medium average. After that, I went to high school in Budapest to BMSZC Ottó Titusz High School of Informatics. In my spare time I take photos and stuff.
     </p>
     <div class="row 200%">
       <div class="6u 12u$(medium)">
@@ -72,31 +72,7 @@ nav-menu: true
 
   <!-- Two -->
   <section id="two" class="spotlights">
-  <section>
-      <a href="" class="image">
-        <img
-          src="assets/images/Tech.webp"
-          alt=""
-          data-position="center center"
-        />
-      </a>
-      <div class="content">
-        <div class="inner">
-          <header class="major">
-            <h3> Techindeep website</h3>
-          </header>
-          <p>
-            Tech site for everyone
-          </p>
-          <ul class="actions">
-            <li>
-              <a href="projects/Techindeep-translate-and-post-writing/" class="button">Read more....</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </section>
-  <section>
+    <section>
       <a href="" class="image">
         <img
           src="assets/images/gboardthemes.webp"
@@ -114,7 +90,7 @@ nav-menu: true
           </p>
           <ul class="actions">
             <li>
-              <a href="projects/gboard-themes/" class="button">Read more....</a>
+              <a href="projects/gboard-themes/" class="button">Read more...</a>
             </li>
           </ul>
         </div>
@@ -134,11 +110,11 @@ nav-menu: true
             <h3>Photography</h3>
           </header>
           <p>
-            Photography and me
+            Photography
           </p>
           <ul class="actions">
             <li>
-              <a href="photography" class="button">Read more....</a>
+              <a href="photography" class="button">Read more...</a>
             </li>
           </ul>
          </div>
