@@ -2,7 +2,7 @@
 layout: post
 title: Gboard Themes
 description: Gboard Themes for Android
-image: /assets/images/gboardthemes.webp
+image: /assets/images/Banner_Rboard.webp
 project: true
 permalink: /projects/:title/
 tags: Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes
@@ -19,7 +19,7 @@ tags: Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes
                               <h4><b>DerTyp7214</b></h4>
                               <p>Lead Developer</p>
                               <ul class="actions card-button">
-                                    <li><a href="https://github.com/DerTyp7214" class="button">Github</a></li>
+                                    <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214" class="button">Github</a></li>
                               </ul>
                         </div>
                   </div>
@@ -31,7 +31,7 @@ tags: Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes
                               <h4><b>Akos Paha</b></h4>
                               <p>Developer & Themer</p>
                               <ul class="actions card-button">
-                                    <li><a href="https://github.com/AkosPaha01" class="button">Github</a></li>
+                                    <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/AkosPaha01" class="button">Github</a></li>
                               </ul>
                         </div>
                   </div>
@@ -43,13 +43,12 @@ tags: Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes
                               <h4><b>Radek Bledowski</b></h4>
                               <p>Themer</p>
                               <ul class="actions card-button">
-                                    <li><a href="https://github.com/RadekBledowski" class="button">Github</a></li>
+                                    <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/RadekBledowski" class="button">Github</a></li>
                               </ul>
                         </div>
                   </div>
       </div>
 </div>
-
 
 #### Introductions:
 
@@ -87,6 +86,5 @@ tags: Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes
       <li><a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="button">XDA</a></li>
 </ul>
 
-<br>
 <h4>License:</h4>
 Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="">LICENSE</a>

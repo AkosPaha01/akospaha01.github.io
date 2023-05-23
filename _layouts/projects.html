@@ -12,23 +12,24 @@
       {% for post in site.posts %} {% if post.project == true %}
       <section class="spotlights" id="two" style="padding: 10px">
         <section>
-          <a href="{{ post.url }}" class="image">
-            <img src="{{ post.image }}" alt="" data-position="center center" />
-          </a>
-          <div class="content">
-            <div class="inner">
-              <header class="major">
-                <h3>{{ post.title }}</h3>
-              </header>
-              <p>
-                {{ post.description }}
-              </p>
-              <ul class="actions">
-                <li><a href="{{ post.url }}" class="button special">Continue Reading</a></li>
-               <br><br>
-               <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta" class="button">Fork on Github</a></li>
-            </ul>
-            </div>
+        <div class="container-fluid-p">
+          <div class="column">
+                <div class="card">
+                  <a href="{{ post.url }}" class="image">
+                    <img src="{{ post.image }}" alt="" class="card-image-p" data-position="center center" />
+                  </a>
+                      <div class="container-card">
+                          <h3>{{ post.title }}</h3>
+                          <p>
+                            {{ post.description }}
+                          </p>
+                            <ul class="actions">
+                              <li style="padding: 0 0 0 0 !important;"><a href="{{ post.url }}" class="button special">Continue Reading</a></li>
+                             <br><br>
+                             <li style="padding: 0 0 0 0 !important;"><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta" class="button">Fork on Github</a></li>
+                          </ul>
+                      </div>
+                </div>
           </div>
         </section>
       </section>

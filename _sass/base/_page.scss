@@ -77,10 +77,26 @@ body {
 	text-align: center;
 	margin: 0 auto;
   }
+  .container-fluid {
+	padding-bottom: 26rem !important;
+  }
+ 
   .card-image {
 	width: 30%;
 	border-radius: 16px;
   }
   .card-button{
 	margin: 0;
+  }
+  .card-image-p{
+	border-radius: 12px;
+  }
+  .card-p {
+	padding: 24px;
+	text-align: center;
+	background-color: _palette(bg);
+	border-radius: 24px;
+  }
+  .main-p {
+	background-color: _palette(bg);
   }
