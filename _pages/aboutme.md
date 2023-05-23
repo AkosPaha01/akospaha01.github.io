@@ -12,30 +12,36 @@ nav-menu: true
       <header class="major">
         <h2>Akos Paha</h2>
       </header>
-      <p>21 years old Software Tester.
+      <p>I am 21 years old, Manual and Automated Software Tester.
       </p>
     </div>
   </section>
 
   
   <div class="inner">
-    <header class="major">
+    <!-- <header class="major">
       <h2>Backstory</h2>
     </header>
     <p>
       I was born in 2001 December 30th in Hungary. For the first few years I lived at home. At the age of 3 my parents enrolled in kindergarten (The good old days). I went to kindergarten for 4 years. After I went to elementary school in Budapest for 7 years. ELTE Gyertyánffy István Practicing primary School. I've been here for 8 years. I left primary school with a medium average. After that, I went to high school in Budapest to BMSZC Ottó Titusz High School of Informatics. In my spare time I take photos and stuff.
-    </p>
+    </p> -->
     <div class="row 200%">
       <div class="6u 12u$(medium)">
-        <h2>Timeline</h2>
-        <b>2001-2004 </b><br />
-        At home with parents<br>
-        <b>2004-2008 </b><br />
-        Kindergarten<br />
-        <b>2008-2016 </b><br />
-        Primary school<br />
-        <b>2016-2020 </b><br />
-        High school<br /><br />
+      <header class="major">
+          <h2>Timeline</h2>
+        </header>
+        <b>2001 - 2004 </b><br />
+        At home with parents<br/>
+        <b>2004 - 2008 </b><br/>
+        Kindergarten<br/>
+        <b>2008 - 2016 </b><br/>
+        Primary school<br/>
+        <b>2016 - 2020 </b><br/>
+        High school<br/>
+        <b>2020 - 2021 </b><br/>
+        Software Developer NVQ<br/>
+        <b>2021 - Present </b><br/>
+        Software Tester<br/><br/>
       </div>
     </div>
     <div class="row 200%">
@@ -44,7 +50,8 @@ nav-menu: true
           <h2>Hobbies</h2>
         </header>
         <p>
-          - Testing custom roms and custom kernel<br/>
+          - Testing webiste and applications<br/>
+          - 3D Rendering<br/>
           - <a href="gboard-themes ">Creating Google keyboard themes</a><br/>
           - Listening music<br />
           - Talking with friend<br />
@@ -71,13 +78,13 @@ nav-menu: true
       <li><a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="button">XDA</a></li>
       </ul>
     </p>
-    <header class="major">
+   <!--  <header class="major">
       <h2>Current Projects</h2>
-    </header>
+    </header> -->
   </div>
 
   <!-- Two -->
-  <section id="two" class="spotlights">
+  <!-- <section id="two" class="spotlights">
     <section>
       <a href="" class="image">
         <img
@@ -125,4 +132,4 @@ nav-menu: true
           </ul>
          </div>
       </div>
-  </section>
+  </section> -->
