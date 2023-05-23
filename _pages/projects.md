@@ -9,4 +9,4 @@ author: null
 show_tile: false
 ---
 
-<h1>projects</h1>
+<h1>Projects</h1>

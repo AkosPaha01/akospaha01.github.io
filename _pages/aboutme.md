@@ -39,12 +39,7 @@ nav-menu: true
       </div>
     </div>
     <div class="row 200%">
-      <div class="6u 12u$(medium)">
-        <span class="image fit">
-          <img src="assets/images/folio/2.webp" />
-        </span>
-      </div>
-      <div class="6u 12u$(medium)">
+            <div class="6u 12u$(medium)">
         <header class="major">
           <h2>Hobbies</h2>
         </header>
@@ -61,10 +56,21 @@ nav-menu: true
       <h2>Contributions</h2>
     </header>
     <p>
-      Creating lots of Gboard Themes
-      <a href="https://github.com/akospaha01">Github</a>
-      </p>
-
+      <h3>Creating lots of Gboard Themes.</h3><br>
+      <a href="https://github.com/akospaha01" class="special button">Github</a>
+    </p>
+    <p>
+    <header class="major">
+      <h3>Rboard Theme Manager</h3>
+    </header>
+    <span class="image main"><img src="/assets/images/Banner_Rboard.webp" alt="" /></span>
+      <h4>Manager app for Google Gboard keyboard app.</h4>
+      <ul class="actions">
+      <li><a href="https://github.com/DerTyp7214/RboardThemeManagerV3" class="special button">Github</a></li>
+      <li><a href="https://rboard.dev/rboard" class="button">Website</a></li>
+      <li><a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="button">XDA</a></li>
+      </ul>
+    </p>
     <header class="major">
       <h2>Current Projects</h2>
     </header>

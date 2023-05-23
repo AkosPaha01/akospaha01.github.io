@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Photography
-nav-menu: true
+nav-menu: false
 ---
 <div id="main" class="alt">
     <div class="inner">
    <h4><a href="" target="_blank"> What do I use for photography:</a></h4>
-   <li>Mobile: Xiaomi Redmi 5 Plus (Vince), 12MP F2.2 OV12A10 </li>
-   <li>Android OS: </li>
-   <li>Camera app: BSG Google Camera 8.1.101 (Need Android 9 or newer)</li>
+   <li>Mobile: Xiaomi 11 Lite 5GNE (Lisa)</li>
+   <li>Android OS: Android 13 </li>
+   <!-- <li>Camera app: BSG Google Camera 8.1.101 (Need Android 9 or newer)</li> -->
    <li>Edit app: Lightroom CC Mobile Premium</li>
 <br><br>
-<h2>BSG Google Camera 8.1.101:(Newest)</h2>
+<!-- <h2>BSG Google Camera 8.1.101:(Newest)</h2>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
 	<img
@@ -22,7 +22,7 @@ nav-menu: true
         />      
     <br><br>
     <h2>How to:</h2>
-    <li>Download the Google Camera (Latest 8.1.101 Stable) <br> (Working on all device I guess)</li>
+    <li>Download the Google Camera (Latest 8.1.101 Stable)</li>
 <li>Install Google Camera (Only for Android 9+)</li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
 <li>Setting up the App</li>
@@ -51,7 +51,7 @@ nav-menu: true
         />      
     <br><br>
     <h2>How to:</h2>
-    <li>Download the Google Camera (Latest 7.6.008 V9 Stable + Clone Version) <br> (Working on all device I guess)</li>
+    <li>Download the Google Camera (Latest 7.6.008 V9 Stable + Clone Version)</li>
 <li>Install Google Camera (Only for Android 10+)</li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
 <li>Setting up the App</li>
@@ -82,7 +82,7 @@ nav-menu: true
         />      
     <br><br>
     <h2>How to:</h2>
-    <li>Download the Google Camera (Latest 7.4.104 V5 Stable + Clone Version) <br> (Working on all device I guess)</li>
+    <li>Download the Google Camera (Latest 7.4.104 V5 Stable + Clone Version)</li>
 <li>Install Google Camera (Only for Android 10+)</li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
 <li>Setting up the App</li>
@@ -114,7 +114,7 @@ I don't found gcam 7.4 which support it on Redmi 5 Plus (Vince)</li>
         />      
     <br><br>
     <h2>How to:</h2>
-    <li>Download the Google Camera (Latest 7.3.020 V8 Stable + Clone Version) <br> (Working on all device I guess)</li>
+    <li>Download the Google Camera (Latest 7.3.020 V8 Stable + Clone Version)</li>
 <li>Install Google Camera (Need Android 9 or Android 10+)</li>
 <li><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwic1vu_lcbmAhWM6qQKHeIjDSgQFjAAegQIBhAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.airbeat.device.inspector%26hl%3Dhu&usg=AOvVaw3gEAe5p4qHtFogeASeA2-B">Check Camera2api "Level 3")</a></li> 
 <li>Setting up the App</li>
@@ -135,4 +135,4 @@ I don't found gcam 7.3 which support it on Redmi 5 Plus (Vince)</li>
             </ul>
         </div>
     </div>
-<br><h4>Credit:</h4> Parrot043 <a target="_blank" href="https://t.me/parrot043_googleCamera">Group</a>	    
+<br><h4>Credit:</h4> Parrot043 <a target="_blank" href="https://t.me/parrot043_googleCamera">Group</a>	     -->
