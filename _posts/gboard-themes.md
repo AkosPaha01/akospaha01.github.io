@@ -76,7 +76,7 @@ tags: Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes
 - Widgets
 - Search for Themes/Sounds
 - Module-less option (less features but will work on coloros)
-- Monet and blur for android 12+
+- Monet and blur for Android 12+
 - Exporting and importing themes
 
 #### Links:
