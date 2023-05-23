@@ -40,3 +40,47 @@ body {
 .text_color{
 	color: _palette(highlight);
 }
+.column {
+	float: left;
+	width: 33.33%;
+	padding: 0 10px;
+  }
+  
+  /* Remove extra left and right margins, due to padding */
+  .row {margin: 0 -5px;}
+  
+  /* Clear floats after the columns */
+  .row:after {
+	content: "";
+	display: table;
+	clear: both;
+  }
+  
+  /* Responsive columns */
+  @media screen and (max-width: 600px) {
+	.column {
+	  width: 100%;
+	  display: block;
+	  margin-bottom: 20px;
+	}
+  }
+  
+  /* Style the counter cards */
+  .card {
+	padding: 24px;
+	text-align: center;
+	background-color: _palette(bg-alt);
+	border-radius: 24px;
+  }
+  
+  .container-card {
+	text-align: center;
+	margin: 0 auto;
+  }
+  .card-image {
+	width: 30%;
+	border-radius: 16px;
+  }
+  .card-button{
+	margin: 0;
+  }

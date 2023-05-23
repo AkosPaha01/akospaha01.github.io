@@ -11,11 +11,45 @@ tags: Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes
 
 #### Info:
 > Rboard Theme Manager V3 is a theme manager for the Rboard keyboard.<br>
-<ul class="actions">
-      <li><a href="https://github.com/DerTyp7214" class="button">DerTyp7214</a></li>
-      <li><a href="https://github.com/AkosPaha01" class="button">Akos Paha</a></li>
-      <li><a href="https://github.com/RadekBledowski" class="button">Radek Bledowski</a></li>
-</ul>
+<div class="container-fluid">
+            <div class="column">
+                  <div class="card">
+                        <img class="card-image" src="https://avatars.githubusercontent.com/u/37804065?v=4" alt="DerTyp7214">
+                        <div class="container-card">
+                              <h4><b>DerTyp7214</b></h4>
+                              <p>Lead Developer</p>
+                              <ul class="actions card-button">
+                                    <li><a href="https://github.com/DerTyp7214" class="button">Github</a></li>
+                              </ul>
+                        </div>
+                  </div>
+            </div>
+            <div class="column">
+                  <div class="card">
+                        <img class="card-image" src="https://avatars.githubusercontent.com/u/131550765?v=4" alt="AkosPaha">
+                        <div class="container-card">
+                              <h4><b>Akos Paha</b></h4>
+                              <p>Developer & Themer</p>
+                              <ul class="actions card-button">
+                                    <li><a href="https://github.com/AkosPaha01" class="button">Github</a></li>
+                              </ul>
+                        </div>
+                  </div>
+            </div>
+            <div class="column">
+                  <div class="card">
+                        <img class="card-image" src="https://avatars.githubusercontent.com/u/22264125?v=4" alt="RadekBledowski">
+                        <div class="container-card">
+                              <h4><b>Radek Bledowski</b></h4>
+                              <p>Themer</p>
+                              <ul class="actions card-button">
+                                    <li><a href="https://github.com/RadekBledowski" class="button">Github</a></li>
+                              </ul>
+                        </div>
+                  </div>
+      </div>
+</div>
+
 
 #### Introductions:
 
