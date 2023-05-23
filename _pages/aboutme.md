@@ -64,7 +64,7 @@ nav-menu: true
     </header>
     <p>
       <h3>Creating lots of Gboard Themes.</h3><br>
-      <a href="https://github.com/akospaha01" class="special button">Github</a>
+      <a href="https://github.com/akospaha01" class="button">Github</a>
     </p>
     <p>
     <header class="major">

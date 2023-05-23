@@ -1,3 +1,6 @@
+[![Deploy Jekyll site to Pages](https://github.com/AkosPaha01/akospaha01.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/AkosPaha01/akospaha01.github.io/actions/workflows/jekyll.yml)
+
+
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
