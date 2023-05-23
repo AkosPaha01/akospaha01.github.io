@@ -1,4 +1,4 @@
-[![Deploy](https://github.com/AkosPaha01/akospaha01.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/AkosPaha01/akospaha01.github.io/actions/workflows/jekyll.yml)
+[![Deploy Jekyll site to Pages](https://github.com/AkosPaha01/akospaha01.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/AkosPaha01/akospaha01.github.io/actions/workflows/jekyll.yml)
 
 
 # Forty - Jekyll Theme
