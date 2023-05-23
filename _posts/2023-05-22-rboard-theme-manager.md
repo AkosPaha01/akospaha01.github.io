@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rboard Theme Manager
+title: Rboard Theme Manager V3
 description: Gboard Themes for Android
 image: /assets/images/Banner_Rboard.webp
 project: true
@@ -41,7 +41,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                         <img class="card-image" src="https://avatars.githubusercontent.com/u/22264125?v=4" alt="RadekBledowski">
                         <div class="container-card">
                               <h4><b>Radek Bledowski</b></h4>
-                              <p>Themer</p>
+                              <p>Owner & Themer</p>
                               <ul class="actions card-button">
                                     <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/RadekBledowski" class="button">Github</a></li>
                               </ul>
