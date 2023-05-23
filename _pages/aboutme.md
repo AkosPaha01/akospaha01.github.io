@@ -70,10 +70,10 @@ nav-menu: true
     <header class="major">
       <h3>Rboard Theme Manager</h3>
     </header>
-    <span class="image main"><img src="/assets/images/Banner_Rboard.webp" alt="" /></span>
+    <span class="image main"><img src="/assets/images/Banner_Rboard.webp" alt="Rboard Theme Manager" /></span>
       <h4>Manager app for Google Gboard keyboard app.</h4>
       <ul class="actions">
-      <li><a href="https://github.com/DerTyp7214/RboardThemeManagerV3" class="special button">Github</a></li>
+      <li><a href="https://github.com/DerTyp7214/RboardThemeManagerV3" class="button">Github</a></li>
       <li><a href="https://rboard.dev/rboard" class="button">Website</a></li>
       <li><a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="button">XDA</a></li>
       </ul>
