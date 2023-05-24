@@ -1,16 +1,26 @@
 {% assign projects = site.posts | where: 'project', 'true' %}
-<section class="tiles" id="one">
+<section class="spotlights" id="one" style="padding: 10px">
+    <section>
     {% for post in projects limit: site.tiles-count %}
     <article>
-        <span class="image">
-            <img src="{{ post.image }}" alt="{{ post.title }}" />
-        </span>
-        <header class="major">
-            <h3>
-                <a href="{{ post.url | relative_url }}" class="link">{{ post.title }}</a>
-            </h3>
-            <p>{{ post.description }}</p>
-        </header>
+        <div class="container-fluid-card">
+            <div class="column">    
+                  <div class="card-p">
+                    <span class="image">
+                        <img src="{{ post.image }}" alt="{{ post.title }}" />
+                    </span>
+                        <div class="container-card">
+                            <header class="major" style="margin-bottom: 0px;">
+                                <h3 style="text-align: start;">
+                                    <a href="{{ post.url | relative_url }}" class="link">{{ post.title }}</a>
+                                </h3>
+                                <p>{{ post.description }}</p>
+                            </header>
+                        </div>
+                </div>
+            </div>
+        </div>
     </article>
     {% endfor %}
+</section>
 </section>

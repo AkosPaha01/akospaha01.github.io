@@ -57,7 +57,7 @@ body {
   }
   
   /* Responsive columns */
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 834px) {
 	.column {
 	  width: 100%;
 	  display: block;
@@ -77,8 +77,8 @@ body {
 	text-align: center;
 	margin: 0 auto;
   }
-  .container-fluid {
-	padding-bottom: 26rem !important;
+  .container-fluid-card {
+	padding-bottom: 18rem !important;
   }
  
   .card-image {
