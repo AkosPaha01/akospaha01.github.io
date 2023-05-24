@@ -77,9 +77,45 @@ body {
 	text-align: center;
 	margin: 0 auto;
   }
-  .container-fluid-card {
-	padding-bottom: 18rem !important;
+  @media screen and (min-width: 1366px){
+	.card-projects {
+		padding-bottom: 24rem !important;
+	  }
   }
+  @media screen and (min-width: 1001px) and (max-width: 1365px){
+	.card-projects {
+		padding-bottom: 20rem !important;
+	  }
+  }
+  @media screen and (min-width: 835px) and (max-width: 1000px){
+	.card-projects {
+		padding-bottom: 22rem !important;
+	  }
+  }
+  
+  @media screen and (min-width: 737px) and (max-width: 834px){
+	.card-projects {
+		padding-bottom: 29rem !important;
+	  }
+  }
+
+  @media screen and (min-width: 600px) and (max-width: 736px){
+	.card-projects {
+		padding-bottom: 26rem !important;
+	  }
+  }
+
+  @media screen and (min-width: 400px) and (max-width: 599px) {
+	.card-projects {
+		padding-bottom: 23rem !important;
+	  }
+  }
+
+  @media screen and (max-width: 399px) {
+	.card-projects {
+		padding-bottom: 19rem !important;
+	  }
+  } 
  
   .card-image {
 	width: 30%;

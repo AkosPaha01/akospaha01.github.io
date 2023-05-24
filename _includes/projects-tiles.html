@@ -3,18 +3,18 @@
     <section>
     {% for post in projects limit: site.tiles-count %}
     <article>
-        <div class="container-fluid-card">
+        <div class="card-projects">
             <div class="column">    
                   <div class="card-p">
                     <span class="image">
                         <img src="{{ post.image }}" alt="{{ post.title }}" />
                     </span>
-                        <div class="container-card">
+                        <div class="container-card" >
                             <header class="major" style="margin-bottom: 0px;">
                                 <h3 style="text-align: start;">
                                     <a href="{{ post.url | relative_url }}" class="link">{{ post.title }}</a>
                                 </h3>
-                                <p>{{ post.description }}</p>
+                                <p style="text-align: start;">{{ post.description }}</p>
                             </header>
                         </div>
                 </div>

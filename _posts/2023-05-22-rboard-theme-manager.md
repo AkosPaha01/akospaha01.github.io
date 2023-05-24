@@ -11,6 +11,8 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 
 #### Info:
 > Rboard Theme Manager V3 is a theme manager for the "Gboard - the Google Keyboard".<br>
+
+#### Teams:
 <div class="container-fluid">
             <div class="column">
                   <div class="card">
@@ -48,7 +50,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                         </div>
                   </div>
       </div>
-</div>
+</div><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 #### Introductions:
 
@@ -78,6 +80,31 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 - Monet and blur for Android 12+
 - Exporting and importing themes
 
+#### Downloads:
+
+<div class="container-fluid" style="margin: 0 auto; justify-content: center; 	display: flex;">
+      <div class="column">
+            <div class="card">
+                  <div class="container-card">
+                        <h4><b>Android 6 and up</b></h4>
+                        <ul class="actions card-button">
+                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible"><img src="https://img.shields.io/github/v/release/DerTyp7214/RboardThemeManagerV3" alt="Android 6 and Up Version"></a></li>
+                        </ul>
+                  </div>
+            </div>
+      </div>
+      <div class="column">
+             <div class="card">
+                  <div class="container-card">
+                        <h4><b>Android 12 and up</b></h4>
+                        <ul class="actions card-button">
+                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest"><img src="https://img.shields.io/github/v/release/DerTyp7214/RboardThemeManagerV3" alt="Android 12 and Up Version"></a></li>
+                        </ul>
+                  </div>
+            </div>
+      </div>  
+</div>
+
 #### Links:
 
 <ul class="actions">
@@ -85,6 +112,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
       <li><a href="https://rboard.dev/rboard" class="button">Website</a></li>
       <li><a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="button">XDA</a></li>
 </ul>
+
 
 <h4>License:</h4>
 Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="">LICENSE</a>
