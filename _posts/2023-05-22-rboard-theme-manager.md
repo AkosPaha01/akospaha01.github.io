@@ -87,8 +87,9 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
             <div class="card">
                   <div class="container-card">
                         <h4><b>Android 6 and up</b></h4>
+                        <img src="https://img.shields.io/github/v/release/DerTyp7214/RboardThemeManagerV3" style="padding-bottom: 1em; !important" alt="Android 6 and Up Version">
                         <ul class="actions card-button">
-                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible"><img src="https://img.shields.io/github/v/release/DerTyp7214/RboardThemeManagerV3" alt="Android 6 and Up Version"></a></li>
+                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible" class="button special">Download</a></li>
                         </ul>
                   </div>
             </div>
@@ -97,8 +98,9 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
              <div class="card">
                   <div class="container-card">
                         <h4><b>Android 12 and up</b></h4>
+                        <img src="https://img.shields.io/github/v/release/DerTyp7214/RboardThemeManagerV3" style="padding-bottom: 1em; !important"  alt="Android 12 and Up Version">
                         <ul class="actions card-button">
-                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest"><img src="https://img.shields.io/github/v/release/DerTyp7214/RboardThemeManagerV3" alt="Android 12 and Up Version"></a></li>
+                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest" class="button special">Download</a></li>
                         </ul>
                   </div>
             </div>
