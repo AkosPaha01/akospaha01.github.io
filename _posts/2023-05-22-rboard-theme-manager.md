@@ -14,7 +14,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 
 #### Teams:
 <div class="container-fluid">
-            <div class="column">
+            <div class="column-rboard">
                   <div class="card">
                         <img class="card-image" src="https://avatars.githubusercontent.com/u/37804065?v=4" alt="DerTyp7214">
                         <div class="container-card">
@@ -26,7 +26,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                         </div>
                   </div>
             </div>
-            <div class="column">
+            <div class="column-rboard">
                   <div class="card">
                         <img class="card-image" src="https://avatars.githubusercontent.com/u/131550765?v=4" alt="AkosPaha">
                         <div class="container-card">
@@ -38,7 +38,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                         </div>
                   </div>
             </div>
-            <div class="column">
+            <div class="column-rboard">
                   <div class="card">
                         <img class="card-image" src="https://avatars.githubusercontent.com/u/22264125?v=4" alt="RadekBledowski">
                         <div class="container-card">
@@ -83,7 +83,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 #### Downloads:
 
 <div class="container-fluid" style="margin: 0 auto; justify-content: center; 	display: flex;">
-      <div class="column">
+      <div class="column-rboard">
             <div class="card">
                   <div class="container-card">
                         <h4><b>Android 6 and up</b></h4>
@@ -94,7 +94,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                   </div>
             </div>
       </div>
-      <div class="column">
+      <div class="column-rboard">
              <div class="card">
                   <div class="container-card">
                         <h4><b>Android 12 and up</b></h4>
