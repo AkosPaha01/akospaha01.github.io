@@ -14,8 +14,10 @@
 		}
 
 		> section {
-			@include vendor('display', 'flex');
-			@include vendor('flex-direction', 'row');
+			@include vendor('display', 'grid');
+			@include vendor('grid-template-columns', 'auto auto auto');
+			grid-template-columns: repeat(3, 1fr);
+			grid-auto-rows: auto;
 
 			> .image {
 				background-position: center center;
@@ -45,8 +47,8 @@
 			}
 
 			> .content {
-				@include vendor('display', 'flex');
-				@include vendor('flex-direction', 'column');
+				@include vendor('display', 'grid');
+				@include vendor('grid-template-columns', 'auto auto auto');
 				@include vendor('justify-content', 'center');
 				@include vendor('align-items', 'center');
 				@include padding(2em, 3em);
@@ -59,8 +61,8 @@
 				}
 			}
 			> .content-p {
-				@include vendor('display', 'flex');
-				@include vendor('flex-direction', 'column');
+				@include vendor('display', 'grid');
+				@include vendor('grid-template-columns', 'auto auto auto');
 				@include vendor('justify-content', 'center');
 				@include vendor('align-items', 'center');
 				margin: 0 auto;
@@ -115,7 +117,8 @@
 
 		@include breakpoint(medium) {
 			> section {
-				display: block;
+				@include vendor('display', 'grid');
+				@include vendor('grid-template-columns', 'auto auto');
 
 				> .image {
 					width: 100%;
@@ -133,8 +136,11 @@
 
 		@include breakpoint(small) {
 			> section {
+				@include vendor('display', 'flex');
+				@include vendor('flex-direction', 'column');
 				> .content {
 					@include padding(3em, 1.5em);
+					width: 100%;
 				}
 			}
 		}
