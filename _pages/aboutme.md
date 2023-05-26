@@ -114,7 +114,7 @@ nav-menu: true
           <h2>Hobbies</h2>
         </header>
         <p>
-          - Testing webiste and applications<br/>
+          - Testing website and applications<br/>
           - 3D Rendering<br/>
           - <a href="gboard-themes ">Creating Google keyboard themes</a><br/>
           - Listening music<br />
