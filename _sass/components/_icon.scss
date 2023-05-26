@@ -38,12 +38,23 @@
 			&:hover {
 				&:before {
 					background-color: _palette(highlight);
+					background-size: 200% 100%;
+					background-position: 0% 0;
+					moz-transition: all .4s ease-in-out;
+					-o-transition: all .4s ease-in-out;
+					-webkit-transition: all .4s ease-in-out;
+					transition: all .4s ease-in-out;
 				}
 			}
 
 			&:active {
 				&:before {
 					background-color: desaturate(darken(_palette(highlight), 15), 5);
+					background-position: 100% 0;
+					moz-transition: all .4s ease-in-out;
+					-o-transition: all .4s ease-in-out;
+					-webkit-transition: all .4s ease-in-out;
+					transition: all .4s ease-in-out;
 				}
 			}
 		}

@@ -48,17 +48,34 @@
 				line-height: 1.65em;
 				margin-right: 0.325em;
 				padding: 0 0.125em 0 (_font(letter-spacing-alt) + 0.125em);
+				background-size: 200% 100%;
+				background-position: 0% 0;
+				moz-transition: all .4s ease-in-out;
+				-o-transition: all .4s ease-in-out;
+				-webkit-transition: all .4s ease-in-out;
+				transition: all .4s ease-in-out;
+		
 			}
 
 			&:hover {
 				strong {
 					background-color: _palette(highlight);
+					background-position: 100% 0;
+					moz-transition: all .4s ease-in-out;
+					-o-transition: all .4s ease-in-out;
+					-webkit-transition: all .4s ease-in-out;
+					transition: all .4s ease-in-out;
 				}
 			}
 
 			&:active {
 				strong {
 					background-color: desaturate(darken(_palette(highlight), 15), 5);
+					background-position: 100% 0;
+					moz-transition: all .4s ease-in-out;
+					-o-transition: all .4s ease-in-out;
+					-webkit-transition: all .4s ease-in-out;
+					transition: all .4s ease-in-out;
 				}
 			}
 		}

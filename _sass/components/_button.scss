@@ -34,11 +34,22 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+		background-size: 200% 100%;
+		background-position: 0% 0;
+		moz-transition: all .4s ease-in-out;
+		-o-transition: all .4s ease-in-out;
+		-webkit-transition: all .4s ease-in-out;
+		transition: all .4s ease-in-out;
 
 		&:hover, &:active {
 			background-position: right center; /* change the direction of the change here */
 			box-shadow: inset 0 0 0 2px _palette(highlight);
 			color: _palette(highlight);
+			background-position: 100% 0;
+			moz-transition: all .4s ease-in-out;
+			-o-transition: all .4s ease-in-out;
+			-webkit-transition: all .4s ease-in-out;
+			transition: all .4s ease-in-out;
 		}
 
 		&:active {
@@ -110,17 +121,24 @@
 		}
 
 		&.special {
-			// background-color: _palette(fg-bold);  
-			background: linear-gradient(120deg,  #f6d365 , #a6c0fe , #f68084 );
-			background-size: 200% 100%;
-			background-position: 100% 0;
+			// background-color: _palette(fg-bold);
+			background: linear-gradient(120deg,  #a6c0fe , #5a8afd, #336ffd );
 			box-shadow: none;
 			color: _palette(bg);
-  			transition: .5s;
-		
+			transition: .5s;
+			background-size: 200% 100%;
+			background-position: 0% 0;
+			moz-transition: all .4s ease-in-out;
+			-o-transition: all .4s ease-in-out;
+			-webkit-transition: all .4s ease-in-out;
+			transition: all .4s ease-in-out;
+			
 			&:hover, &:active {
-				background-position: 0 0;
-				
+				background-position: 100% 0;
+				moz-transition: all .4s ease-in-out;
+				-o-transition: all .4s ease-in-out;
+				-webkit-transition: all .4s ease-in-out;
+				transition: all .4s ease-in-out;
 			}
 		}
 
