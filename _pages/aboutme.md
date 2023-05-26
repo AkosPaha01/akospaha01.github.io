@@ -54,7 +54,7 @@ nav-menu: true
                     <span>HTML</span>
                 </div>
                 <div class="bar">
-                    <div class="tooltip" id="html-bar"><span class="tooltiptext">25%</span></div>
+                    <div class="tooltip" id="html-bar"><span class="tooltiptext">40%</span></div>
                 </div>
             </div>
             <div class="skills">
@@ -62,7 +62,7 @@ nav-menu: true
                     <span>CSS</span>
                 </div>
                 <div class="bar">
-                    <div class="tooltip" id="css-bar"><span class="tooltiptext">25%</span></div>
+                    <div class="tooltip" id="css-bar"><span class="tooltiptext">40%</span></div>
                 </div>
             </div>
             <div class="skills">
@@ -70,15 +70,15 @@ nav-menu: true
                     <span>Python</span>
                 </div>
                 <div class="bar">
-                    <div class="tooltip" id="python-bar"><span class="tooltiptext">8.5%</span></div>
+                    <div class="tooltip" id="python-bar"><span class="tooltiptext">20%</span></div>
                 </div>
             </div>
             <div class="skills">
                 <div class="details">
-                    <span>GIT</span>
+                    <span>Git</span>
                 </div>
                 <div class="bar">
-                    <div class="tooltip" id="git-bar"><span class="tooltiptext">50%</span></div>
+                    <div class="tooltip" id="git-bar"><span class="tooltiptext">70%</span></div>
                 </div>
             </div>
             <div class="skills">
@@ -86,7 +86,7 @@ nav-menu: true
                     <span>SQL</span>
                 </div>
                 <div class="bar">
-                    <div class="tooltip" id="sql-bar"><span class="tooltiptext">35%</span></div>
+                    <div class="tooltip" id="sql-bar"><span class="tooltiptext">30%</span></div>
                 </div>
             </div>
             <div class="skills">

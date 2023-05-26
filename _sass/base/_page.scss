@@ -197,7 +197,7 @@ body {
 }
 @keyframes html-fill{
     100%{
-        width: 25%;
+        width: 40%;
     }
 }
 
@@ -206,7 +206,7 @@ body {
 }
 @keyframes css-fill{
     100%{
-        width: 25%;
+        width: 40%;
     }
 }
 #python-bar{
@@ -214,15 +214,25 @@ body {
 }
 @keyframes python-fill{
     100%{
-        width: 8.5%;
+        width: 20%;
     }
 } 
+
+#sql-bar{
+    animation: sql-fill 2s forwards;
+}
+@keyframes sql-fill{
+    100%{
+        width: 30%;
+    }
+} 
+
 #git-bar{
     animation: git-fill 2s forwards;
 }
 @keyframes git-fill{
     100%{
-        width: 55%;
+        width: 70%;
     }
 } 
 #figma-bar{
@@ -248,14 +258,6 @@ body {
     }
 } 
 
-#sql-bar{
-    animation: sql-fill 2s forwards;
-}
-@keyframes sql-fill{
-    100%{
-        width: 35%;
-    }
-} 
 .tooltip {
 	position: relative;
 	display: block;
