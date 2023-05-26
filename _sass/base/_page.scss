@@ -141,18 +141,155 @@ body {
 	width: 30%;
 	border-radius: 16px;
   }
+
   .card-button{
 	margin: 0;
   }
+
   .card-image-p{
 	border-radius: 12px;
   }
+
   .card-p {
 	padding: 24px;
 	text-align: center;
 	background-color: _palette(bg);
 	border-radius: 24px;
   }
+
   .main-p {
 	background-color: _palette(bg);
+  }
+
+  .details{
+    width: 100%;
+    display: flex;  
+    justify-content: space-between;
+    margin-bottom: 10px;
+	font-weight: 900;
+}
+
+.bar{
+    position: relative;
+    background-color: _palette(bg-alt);
+    border-radius: 20px;
+  
+}
+
+.bar div{
+    position: relative;
+    width: 0;
+    height: 16px;
+    border-radius: 10px;
+	background: linear-gradient(120deg,  #a6c0fe , #5a8afd );
+
+   
+ 
+}
+
+.skills:not(:last-child){
+    margin-bottom: 30px;
+}
+
+
+#html-bar{
+    animation: html-fill 2s forwards;
+}
+@keyframes html-fill{
+    100%{
+        width: 25%;
+    }
+}
+
+#css-bar{
+    animation: css-fill 2s forwards;
+}
+@keyframes css-fill{
+    100%{
+        width: 25%;
+    }
+}
+#python-bar{
+    animation: python-fill 2s forwards;
+}
+@keyframes python-fill{
+    100%{
+        width: 8.5%;
+    }
+} 
+#git-bar{
+    animation: git-fill 2s forwards;
+}
+@keyframes git-fill{
+    100%{
+        width: 55%;
+    }
+} 
+#figma-bar{
+    animation: figma-fill 2s forwards;
+}
+@keyframes figma-fill{
+    100%{
+        width: 90%;
+    }
+} 
+
+#adobe-xd-bar{
+    animation: adobe-xd-fill 2s forwards;
+}
+@keyframes adobe-xd-fill{
+    100%{
+        width: 70%;
+    }
+} 
+@keyframes figma-fill{
+    100%{
+        width: 90%;
+    }
+} 
+
+#sql-bar{
+    animation: sql-fill 2s forwards;
+}
+@keyframes sql-fill{
+    100%{
+        width: 35%;
+    }
+} 
+.tooltip {
+	position: relative;
+	display: block;
+	border-bottom: 1px dotted _palette(bg-alt);
+  }
+  
+  .tooltip .tooltiptext {
+	visibility: hidden;
+	width: auto;
+	background-color: _palette(bg-alt);
+	color: #fff;
+	text-align: center;
+	border-radius: 6px;
+	padding: 10px;
+	position: absolute;
+	z-index: 1;
+	bottom: 150%;
+	left: 50%;
+	margin-left: -25px;
+	font-size: medium;
+	font-weight: 900;
+  }
+  
+  .tooltip .tooltiptext::after {
+	content: "";
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	margin-left: -5px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: _palette(bg-alt) transparent transparent transparent;
+  }
+  
+  .tooltip:hover .tooltiptext {
+	visibility: visible;
   }

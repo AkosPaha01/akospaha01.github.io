@@ -44,6 +44,70 @@ nav-menu: true
         Software Tester<br/><br/>
       </div>
     </div>
+     <div class="row 200%">
+      <div class="6u 12u$(medium)">
+      <header class="major">
+          <h2>Skills</h2>
+        </header>
+        <div class="skills">
+                <div class="details">
+                    <span>HTML</span>
+                </div>
+                <div class="bar">
+                    <div class="tooltip" id="html-bar"><span class="tooltiptext">25%</span></div>
+                </div>
+            </div>
+            <div class="skills">
+                <div class="details">
+                    <span>CSS</span>
+                </div>
+                <div class="bar">
+                    <div class="tooltip" id="css-bar"><span class="tooltiptext">25%</span></div>
+                </div>
+            </div>
+            <div class="skills">
+                <div class="details">
+                    <span>Python</span>
+                </div>
+                <div class="bar">
+                    <div class="tooltip" id="python-bar"><span class="tooltiptext">8.5%</span></div>
+                </div>
+            </div>
+            <div class="skills">
+                <div class="details">
+                    <span>GIT</span>
+                </div>
+                <div class="bar">
+                    <div class="tooltip" id="git-bar"><span class="tooltiptext">50%</span></div>
+                </div>
+            </div>
+            <div class="skills">
+                <div class="details">
+                    <span>SQL</span>
+                </div>
+                <div class="bar">
+                    <div class="tooltip" id="sql-bar"><span class="tooltiptext">35%</span></div>
+                </div>
+            </div>
+            <div class="skills">
+                <div class="details">
+                    <span>Figma</span>
+                </div>
+                <div class="bar">
+                    <div class="tooltip" id="figma-bar"><span class="tooltiptext">90%</span></div>
+                </div>
+            </div>
+            <div class="skills">
+                <div class="details">
+                    <span>Adobe XD</span>
+                </div>
+                <div class="bar">
+                    <div class="tooltip" id="adobe-xd-bar"><span class="tooltiptext">70%</span></div>
+                </div>
+            </div>
+      </div>
+    </div>
+    <br/><br/>
     <div class="row 200%">
             <div class="6u 12u$(medium)">
         <header class="major">
