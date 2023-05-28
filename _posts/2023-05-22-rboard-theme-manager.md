@@ -20,8 +20,27 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                         <div class="container-card">
                               <h4><b>DerTyp7214</b></h4>
                               <p>Lead Developer</p>
-                              <ul class="actions card-button">
-                                    <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214" class="button">Github</a></li>
+                              <ul class="icons actions card-button">
+                                    <li>
+                                          <a href="https://dertyp7214.de/" class="icon alt fa-globe" target="_blank" rel="noopener noreferrer" aria-label="Website">
+                                                <span class="label">Website</span>
+                                          </a>
+                                    </li>
+                                    <li>
+                                          <a href="https://github.com/DerTyp7214" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
+                                                <span class="label">Github</span>
+                                          </a>
+                                    </li>
+                                    <li>
+                                          <a href="https://www.linkedin.com/in/dertyp7214" class="icon alt fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                                                <span class="label">LinkedIn</span>
+                                          </a>
+                                    </li>
+                                    <li>
+                                          <a href="https://twitter.com/DerTyp7214" class="icon alt fa-twitter" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+                                                <span class="label">Twitter</span>
+                                          </a>
+                                    </li>
                               </ul>
                         </div>
                   </div>
@@ -32,8 +51,16 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                         <div class="container-card">
                               <h4><b>Akos Paha</b></h4>
                               <p>Developer & Themer</p>
-                              <ul class="actions card-button">
-                                    <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/AkosPaha01" class="button">Github</a></li>
+                              <ul class="icons actions card-button">
+                                    {% for key_value in site.socials %}
+                                          {% if key_value[1] %}
+                                                <li>
+                                                      <a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+                                                            <span class="label">{{ key_value[0] }}</span>
+                                                      </a>
+                                                </li>
+                                          {% endif %}
+                                    {% endfor %}
                               </ul>
                         </div>
                   </div>
@@ -44,8 +71,27 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                         <div class="container-card">
                               <h4><b>Radek Bledowski</b></h4>
                               <p>Owner & Themer</p>
-                              <ul class="actions card-button">
-                                    <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/RadekBledowski" class="button">Github</a></li>
+                              <ul class="icons actions card-button">
+                                    <li>
+                                          <a href="https://dribbble.com/RKBDI" class="icon alt fa-dribbble" target="_blank" rel="noopener noreferrer" aria-label="Dribbble">
+                                                <span class="label">Dribbble</span>
+                                          </a>
+                                    </li>
+                                    <li>
+                                          <a href="https://github.com/RadekBledowski" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
+                                                <span class="label">Github</span>
+                                          </a>
+                                    </li>
+                                    <li>
+                                          <a href="https://t.me/rkbdi" class="icon alt fa fa-paper-plane" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
+                                                <span class="label">Telegram</span>
+                                          </a>
+                                    </li>
+                                    <li>
+                                          <a href="https://twitter.com/RKBDI" class="icon alt fa-twitter" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+                                                <span class="label">Twitter</span>
+                                          </a>
+                                    </li>
                               </ul>
                         </div>
                   </div>
@@ -82,7 +128,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 
 #### Downloads:
 
-<div class="container-fluid" style="margin: 0 auto; justify-content: center; 	display: flex;">
+<div class="container-fluid-download">
       <div class="column-rboard">
             <div class="card">
                   <div class="container-card">
