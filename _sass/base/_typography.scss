@@ -44,7 +44,7 @@
 
 		&:hover {
 			border-bottom-color: transparent;
-			color: _palette(highlight) !important;
+			color: _palette(accent1) !important;
 			background-position: 100% 0;
 			moz-transition: all .4s ease-in-out;
 			-o-transition: all .4s ease-in-out;
@@ -53,7 +53,7 @@
 		}
 
 		&:active {
-			color: desaturate(darken(_palette(highlight), 15), 5) !important;
+			color: desaturate(darken(_palette(accent1), 15), 5) !important;
 			background-position: 100% 0;
 			moz-transition: all .4s ease-in-out;
 			-o-transition: all .4s ease-in-out;

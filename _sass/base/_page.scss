@@ -181,10 +181,7 @@ body {
     width: 0;
     height: 16px;
     border-radius: 10px;
-	background: linear-gradient(120deg,  #a6c0fe , #5a8afd );
-
-   
- 
+	background-color: _palette(accent1);
 }
 
 .skills:not(:last-child){
@@ -308,5 +305,6 @@ body {
 		display: flex;
 	}
   }
+  
 
 
