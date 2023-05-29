@@ -2,6 +2,8 @@
 layout: page
 title: Logo
 nav-menu: false
+description: Logo
+image: /assets/images/og_image.webp
 ---
 
 <div id="main" class="alt">

@@ -2,6 +2,8 @@
 layout: page
 title: Hidden
 nav-menu: false
+description: Hidden
+image: /assets/images/og_image.webp
 ---
 
 <div id="main" class="alt">

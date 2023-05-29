@@ -3,8 +3,8 @@ layout: blog
 title: Blog
 landing-title: "blog"
 nav-menu: false
-description: null
-image: null
+description: Blog
+image: /assets/images/og_image.webp
 author: null
 show_tile: false
 ---

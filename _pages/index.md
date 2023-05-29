@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-description: null
-image: null
+description: Home
+image: /assets/images/og_image.webp
 author: null
 show_tile: false
 ---

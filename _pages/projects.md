@@ -3,8 +3,8 @@ layout: projects
 title: Projects
 landing-title: "Projects"
 nav-menu: false
-description: null
-image: null
+description: Projects
+image: /assets/images/og_image.webp
 author: null
 show_tile: false
 ---
