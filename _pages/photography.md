@@ -19,7 +19,7 @@ image: /assets/images/og_image.webp
 	<img
           width="100%"
           src="assets/images/gcam_bsg8.1.webp"
-          alt=""
+          alt="Gcm BSG 8.1"
           data-position="center center"
         />      
     <br><br>
@@ -48,7 +48,7 @@ image: /assets/images/og_image.webp
 	<img
           width="100%"
           src="assets/images/gcam_parrot7.6.webp"
-          alt=""
+          alt="Gcam Parrot 7.6"
           data-position="center center"
         />      
     <br><br>
@@ -79,7 +79,7 @@ image: /assets/images/og_image.webp
 	<img
           width="75%"
           src="assets/images/gcam_parrot4.webp"
-          alt=""
+          alt="Gcam Parrot"
           data-position="center center"
         />      
     <br><br>
@@ -111,7 +111,7 @@ I don't found gcam 7.4 which support it on Redmi 5 Plus (Vince)</li>
 	<img
           width="75%"
           src="assets/images/gcam_parrot.webp"
-          alt=""
+          alt="Gcam Parrot"
           data-position="center center"
         />      
     <br><br>

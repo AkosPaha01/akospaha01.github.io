@@ -9,17 +9,13 @@ image: /assets/images/Banner_Rboard.webp
 
 <div id="main" class="alt">
     <div class="inner">
-    <span class="image main"><img src="/assets/images/Banner_Gboard.webp" alt="" /></span>
+    <span class="image main"><img src="/assets/images/Banner_Gboard.webp" alt="Gboard Banner" /></span>
     <h3>About:</h3>
     <p> Some Gboard Themes for android. Need Magisk root for use the themes. (Need the Rboard manager app (Thanks the app for Radek Bledowski (RKBDI), Marcin Slusarek (Nylonw) and Josua (DerTyp7214) <a href="https://t.me/rkbdigboard/1085"> App Link</a>))</p>
     <ul class="icons">
         <li>
-            <a href="https://github.com/AkosPaha/Rboard-ColorsTheme" class="icon alt fa fa-github" target="_blank">
+            <a href="https://github.com/AkosPaha01/PackRepoBeta" class="icon alt fa fa-github" target="_blank">
             <span class="label">GitHub</span></a>
-        </li>
-        <li>
-            <a href="https://t.me/paha_akos_channel" class="icon alt fa fa-telegram-plane" target="_blank">
-            <span class="label">Telegram</span></a>
         </li>
         <br>
         <br>
@@ -47,7 +43,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/rounded_Pack.webp"
-          alt=""
+          alt="Rounded Pack"
           data-position="center center"
         />
     <h2>Rounded Pack Themes</h2>
@@ -67,7 +63,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  712 KB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Rounded_Pack.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Rounded_Pack.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/711" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -82,7 +78,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/logo_pack.webp"
-          alt=""
+          alt="Logo Pack"
           data-position="center center"
         />
     <h2>Logo Pack Themes</h2>
@@ -102,7 +98,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  1.27 MB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Logo_Pack.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Logo_Pack.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/708" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -117,7 +113,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/exclusive4.webp"
-          alt=""
+          alt="Exclusive 4 Pack"
           data-position="center center"
         />
     <h2>Exclusive 4 Themes</h2>
@@ -140,7 +136,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  506 KB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive_4.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive_4.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/703" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -155,7 +151,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/Minecraft.webp"
-          alt=""
+          alt="Minecraft Pack"
           data-position="center center"
         />
     <h2>Minecraft Themes</h2>
@@ -175,7 +171,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  878 KB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Minecraft_Pack.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Minecraft_Pack.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/700" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -190,7 +186,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/exclusive3.webp"
-          alt=""
+          alt="Exclusive 3 Pack"
           data-position="center center"
         />
     <h2>Exclusive 3 Themes</h2>
@@ -212,7 +208,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  1.52 MB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive_3.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive_3.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/694" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -227,7 +223,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/exclusive2.webp"
-          alt=""
+          alt="Exclusive 2 Pack"
           data-position="center center"
         />
     <h2>Exclusive 2 Themes</h2>
@@ -249,7 +245,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  1.44 MB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive_2.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive_2.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/684" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -264,7 +260,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/arctic.webp"
-          alt=""
+          alt="Arctic Pack"
           data-position="center center"
         />
     <h2>Arctic Themes</h2>
@@ -286,7 +282,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  656 KB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Arctic_Themes.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Arctic_Themes.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/679" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -301,7 +297,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/nightlight.webp"
-          alt=""
+          alt="Night Light Pack"
           data-position="center center"
         />
     <h2>NightLight Themes</h2>
@@ -323,7 +319,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  627 KB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/NightLight_Themes.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/NightLight_Themes.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/663" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -338,7 +334,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/Exclusive.webp"
-          alt=""
+          alt="Exclusive Pack"
           data-position="center center"
         />
     <h2>Exclusive Pack:</h2>
@@ -362,7 +358,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  3.98 MB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Exclusive.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/652" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -377,7 +373,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/borderless.webp"
-          alt=""
+          alt="Borderless Pack"
           data-position="center center"
         />
     <h2>Borderless Material Pack:</h2>
@@ -398,7 +394,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>   663 KB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Borderless_Material.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Borderless_Material.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/646" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -413,7 +409,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/pitchblack.webp"
-          alt=""
+          alt="Pitch Black Pack"
           data-position="center center"
         />
     <h2>PitchBlack Pack:</h2>
@@ -434,7 +430,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  291 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/PitchBlack.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/PitchBlack.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/630" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -449,7 +445,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/feather.webp"
-          alt=""
+          alt="Feather Pack"
           data-position="center center"
         />
     <h2>Feather Pack:</h2>
@@ -471,7 +467,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  397 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Feather_Pack.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Feather_Pack.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/615?single" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -487,7 +483,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/darkgrey.webp"
-          alt=""
+          alt="Dark Grey Pack"
           data-position="center center"
         />
     <h2>DarkGrey Pack:</h2>
@@ -508,7 +504,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  258 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/DarkGrey.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/DarkGrey.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/581" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -523,7 +519,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/dracula.webp"
-          alt=""
+          alt="Dracula Pack"
           data-position="center center"
         />
     <h2>Dracula Pack:</h2>
@@ -552,7 +548,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  1.66 MB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Dracula_Theme_Pack.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Dracula_Theme_Pack.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/543" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -566,7 +562,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/desaturated_pack.webp"
-          alt=""
+          alt="Desaturated Pack"
           data-position="center center"
         />
     <h2>Desaturated Pack:</h2>
@@ -589,7 +585,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  2.36 MB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Desaturated_pack.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Desaturated_pack.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel/507" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -602,7 +598,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/Redesign.webp"
-          alt=""
+          alt="Redesign Pack"
           data-position="center center"
         />
     <h2>Redesign Pack:</h2>
@@ -623,7 +619,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  116 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Redesigns_pack.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Redesigns_pack.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -636,7 +632,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/Material_lively.webp"
-          alt=""
+          alt="Material Lively Pack"
           data-position="center center"
         />
     <h2>Material Oceans Themes Lively:</h2>
@@ -658,7 +654,6 @@ image: /assets/images/Banner_Rboard.webp
             <h3>Downloads:</h3>
             <ul class="actions">
                 <li><a target="_blank" href="https://github.com/AkosPaha/Material-ocean-gboard-theme/raw/master/Material_ocean_lively.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -669,7 +664,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/Colorful.webp"
-          alt=""
+          alt="Colorful Pack"
           data-position="center center"
         />
       <h2>Colorful Themes:</h2>
@@ -691,7 +686,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  229 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/e3b73bfa7e339d8f6297650b81675838e36a4b32/Colorful.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/e3b73bfa7e339d8f6297650b81675838e36a4b32/Colorful.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -703,7 +698,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/Snowys.webp"
-          alt=""
+          alt="Snowys Pack"
           data-position="center center"
         />
       <h2>Snowys Themes:</h2>
@@ -725,7 +720,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  222 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/d723a1e776a168f42bcefd795ef4b68b65b688e9/Snowys.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/d723a1e776a168f42bcefd795ef4b68b65b688e9/Snowys.zip" class="button special">Github</a></li>
                 <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
 <li>
 </li>
@@ -737,7 +732,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/Black_Themes_V2.webp"
-          alt=""
+          alt="Black Themes V2 Pack"
           data-position="center center"
         />
       <h2>Black Themes:</h2>
@@ -759,7 +754,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  244 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Black_Themes_V2.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Black_Themes_V2.zip" class="button special">Github</a></li>
 <li>
 </li>
             </ul>
@@ -770,7 +765,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/White_themes.webp"
-          alt=""
+          alt="White Themes Pack"
           data-position="center center"
         />
       <h2>White Themes:</h2>
@@ -792,7 +787,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  489 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/White_themes.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/White_themes.zip" class="button special">Github</a></li>
 <li>
 </li>
             </ul>
@@ -803,7 +798,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/Névtelen.webp"
-          alt=""
+          alt="Image"
           data-position="center center"
         />
       <h2>Material Oceans Themes:</h2>
@@ -825,7 +820,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong>  320 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Material_ocean_themes.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Material_ocean_themes.zip" class="button special">Github</a></li>
 <li>
 </li>
             </ul>
@@ -836,7 +831,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/mix.webp"
-          alt=""
+          alt="Mix Pack"
           data-position="center center"
         />
       <h2>Mix Themes:</h2>
@@ -859,7 +854,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong> 1.3 MB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Mix.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Mix.zip" class="button special">Github</a></li>
             </ul>
         </div>
     </div>
@@ -868,7 +863,7 @@ image: /assets/images/Banner_Rboard.webp
         <div class="6u 12u$(medium)">
 	<img
           src="assets/images/Nord_Themes.webp"
-          alt=""
+          alt="Nord Themes"
           data-position="center center"
         />
       <h2>Nord Themes:</h2>
@@ -890,7 +885,7 @@ image: /assets/images/Banner_Rboard.webp
             <strong>File Size:</strong> 346 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Rboard-ColorsTheme/raw/master/Nord_Themes.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Nord_Themes.zip" class="button special">Github</a></li>
             </ul>
         </div>
     </div>

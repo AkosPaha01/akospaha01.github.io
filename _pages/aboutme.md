@@ -155,7 +155,7 @@ image: /assets/images/og_image.webp
       <a href="" class="image">
         <img
           src="assets/images/gboardthemes.webp"
-          alt=""
+          alt="Gboard Themes"
           data-position="center center"
         />
       </a>
@@ -179,7 +179,7 @@ image: /assets/images/og_image.webp
       <a href="" class="image">
         <img
           src="assets/images/kép.webp"
-          alt=""
+          alt="image"
           data-position="center center"
         />
       </a>

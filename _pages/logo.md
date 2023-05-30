@@ -14,7 +14,7 @@ image: /assets/images/og_image.webp
         <div class="6u 12u$(medium)">
         <img
           src="assets/images/Icons.webp"
-          alt=""
+          alt="icons"
           data-position="center center"
         />
         </div>
