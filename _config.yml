@@ -22,7 +22,7 @@ home-about: false
 
 
 theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance: "light" # can be "light", "dark" or "auto"
   appearance_toggle: true
 
 # social settings (key must match name of font awesome icon)
