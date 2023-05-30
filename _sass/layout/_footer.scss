@@ -13,8 +13,8 @@
 			padding-left: 0;
 
 			li {
-				border-left: solid 1px _palette(border);
-				color: _palette(fg-light);
+				border-left: solid 1px var(--border);
+				color: var(--fg-light);
 				display: inline-block;
 				line-height: 1;
 				margin-left: 1em;

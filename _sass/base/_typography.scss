@@ -7,7 +7,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: _palette(fg);
+		color: var(--fg);
 		font-family: _font(family);
 		font-size: 17pt;
 		font-weight: _font(weight);
@@ -44,7 +44,7 @@
 
 		&:hover {
 			border-bottom-color: transparent;
-			color: _palette(accent1) !important;
+			color: var(--accent1) !important;
 			background-position: 100% 0;
 			moz-transition: all .4s ease-in-out;
 			-o-transition: all .4s ease-in-out;
@@ -53,7 +53,7 @@
 		}
 
 		&:active {
-			color: desaturate(darken(_palette(accent1), 15), 5) !important;
+			color: var(--accent1-desaturated) !important;
 			background-position: 100% 0;
 			moz-transition: all .4s ease-in-out;
 			-o-transition: all .4s ease-in-out;
@@ -64,7 +64,7 @@
 	
 
 	strong, b {
-		color: _palette(fg-bold);
+		color: var(--fg-bold);
 		font-weight: _font(weight-bold);
 	}
 
@@ -81,7 +81,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: _palette(fg-bold);
+		color: var(--fg-bold);
 		font-weight: _font(weight-bold);
 		line-height: 1.65;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
@@ -143,14 +143,14 @@
 	}
 
 	blockquote {
-		border-left: solid 4px _palette(border);
+		border-left: solid 4px var(--border);
 		font-style: italic;
 		margin: 0 0 _size(element-margin) 0;
 		padding: (_size(element-margin) * 0.25) 0 (_size(element-margin) * 0.25) _size(element-margin);
 	}
 
 	code {
-		background: _palette(border-bg);
+		background: var(--border-bg);
 		font-family: _font(family-fixed);
 		font-size: 0.9em;
 		margin: 0 0.25em;
@@ -173,7 +173,7 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 1px _palette(border);
+		border-bottom: solid 1px var(--border);
 		margin: _size(element-margin) 0;
 
 		&.major {

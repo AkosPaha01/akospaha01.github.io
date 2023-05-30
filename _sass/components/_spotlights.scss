@@ -33,7 +33,7 @@
 				}
 
 				&:before {
-					background: transparentize(_palette(bg), 0.1);
+					background: (var(--bg), 0.9);
 					content: '';
 					display: block;
 					height: 100%;
@@ -73,7 +73,7 @@
 
 			&:nth-child(2n) {
 				@include vendor('flex-direction', 'row-reverse');
-				background-color: desaturate(lighten(_palette(bg-alt), 4), 2);
+				background-color: var(--bg-alt-desaturated);
 
 				> .content {
 					@include vendor('align-items', 'flex-end');

@@ -24,7 +24,7 @@
 	}
 
 body {
-	background: _palette(bg);
+	background: var(--bg);
 
 	// Prevents animation/transition "flicker" on page load.
 	// Automatically added/removed by js/main.js.
@@ -38,7 +38,7 @@ body {
 }
 
 .text_color{
-	color: _palette(highlight);
+	color: var(--highlight);
 }
 .column {
 	float: left;
@@ -80,7 +80,7 @@ body {
   .card {
 	padding: 24px;
 	text-align: center;
-	background-color: _palette(bg-alt);
+	background-color: var(--bg-alt);
 	border-radius: 24px;
   }
   
@@ -153,12 +153,12 @@ body {
   .card-p {
 	padding: 24px;
 	text-align: center;
-	background-color: _palette(bg);
+	background-color: var(--bg);
 	border-radius: 24px;
   }
 
   .main-p {
-	background-color: _palette(bg);
+	background-color: var(--bg);
   }
 
   .details{
@@ -171,7 +171,7 @@ body {
 
 .bar{
     position: relative;
-    background-color: _palette(bg-alt);
+    background-color: var(--bg-alt);
     border-radius: 20px;
   
 }
@@ -181,7 +181,7 @@ body {
     width: 0;
     height: 16px;
     border-radius: 10px;
-	background-color: _palette(accent1);
+	background-color: var(--accent1);
 }
 
 .skills:not(:last-child){
@@ -258,13 +258,13 @@ body {
 .tooltip {
 	position: relative;
 	display: block;
-	border-bottom: 1px dotted _palette(bg-alt);
+	border-bottom: 1px dotted var(--bg-alt);
   }
   
   .tooltip .tooltiptext {
 	visibility: hidden;
 	width: auto;
-	background-color: _palette(bg-alt);
+	background-color: var(--bg-alt);
 	color: #fff;
 	text-align: center;
 	border-radius: 6px;
@@ -286,7 +286,7 @@ body {
 	margin-left: -5px;
 	border-width: 5px;
 	border-style: solid;
-	border-color: _palette(bg-alt) transparent transparent transparent;
+	border-color: var(--bg-alt) transparent transparent transparent;
   }
   
   .tooltip:hover .tooltiptext {
@@ -305,6 +305,5 @@ body {
 		display: flex;
 	}
   }
-  
 
 

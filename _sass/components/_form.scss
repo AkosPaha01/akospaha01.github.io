@@ -61,7 +61,7 @@
 	}
 
 	label {
-		color: _palette(fg-bold);
+		color: var(--fg-bold);
 		display: block;
 		font-size: 0.8em;
 		font-weight: _font(weight-bold);
@@ -77,7 +77,7 @@
 	select,
 	textarea {
 		@include vendor('appearance', 'none');
-		background: _palette(border-bg);
+		background: var(--border-bg);
 		border: none;
 		border-radius: 0;
 		color: inherit;
@@ -92,8 +92,8 @@
 		}
 
 		&:focus {
-			border-color: _palette(highlight);
-			box-shadow: 0 0 0 2px _palette(highlight);
+			border-color: var(--highlight);
+			box-shadow: 0 0 0 2px var(--highlight);
 		}
 	}
 
@@ -103,7 +103,7 @@
 		position: relative;
 
 		&:before {
-			color: _palette(border);
+			color: var(--border);
 			content: '\f078';
 			display: block;
 			height: _size(element-height);
@@ -144,7 +144,7 @@
 
 		& + label {
 			@include icon;
-			color: _palette(fg);
+			color: var(--fg);
 			cursor: pointer;
 			display: inline-block;
 			font-weight: _font(weight);
@@ -153,7 +153,7 @@
 			position: relative;
 
 			&:before {
-				background: _palette(border-bg);
+				background: var(--border-bg);
 				content: '';
 				display: inline-block;
 				height: (_size(element-height) * 0.6);
@@ -169,16 +169,16 @@
 
 		&:checked + label {
 			&:before {
-				background: _palette(fg-bold);
-				border-color: _palette(highlight);
+				background: var(--fg-bold);
+				border-color: var(--highlight);
 				content: '\f00c';
-				color: _palette(bg);
+				color: var(--bg);
 			}
 		}
 
 		&:focus + label {
 			&:before {
-				box-shadow: 0 0 0 2px _palette(highlight);
+				box-shadow: 0 0 0 2px var(--highlight);
 			}
 		}
 	}
@@ -199,26 +199,26 @@
 	}
 
 	::-webkit-input-placeholder {
-		color: _palette(fg-light) !important;
+		color: var(--fg-light) !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: _palette(fg-light) !important;
+		color: var(--fg-light) !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: _palette(fg-light) !important;
+		color: var(--fg-light) !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: _palette(fg-light) !important;
+		color: var(--fg-light) !important;
 		opacity: 1.0;
 	}
 
 	.formerize-placeholder {
-		color: _palette(fg-light) !important;
+		color: var(--fg-light) !important;
 		opacity: 1.0;
 	}

@@ -8,10 +8,13 @@
       <span>{{ site.subtitle }}</span>
     </a>
     <nav>
+      {% if site.theme_config.appearance_toggle %}
+      <a class="icon fa-solid fa-circle-half-stroke theme-toggle"></a>
+      {% endif %}
       {%- if page.title != "Search" -%}
       <a href="{{ site.url }}/search" class="icon fa fa-search"></a>
       {%- endif -%}
-      <a href="#menu"></a>
+      <a href="#menu" class="icon"></a>
     </nav>
   </header>
 

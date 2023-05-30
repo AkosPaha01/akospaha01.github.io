@@ -17,9 +17,9 @@
 
 		&.alt {
 			&:before {
-				background-color: _palette(fg-bold);
+				background-color: var(--fg-bold);
 				border-radius: 100%;
-				color: _palette(bg);
+				color: var(--bg);
 				display: inline-block;
 				height: 2em;
 				line-height: 2em;
@@ -37,7 +37,7 @@
 
 			&:hover {
 				&:before {
-					background-color: _palette(highlight);
+					background-color: var(--highlight);
 					background-size: 200% 100%;
 					background-position: 0% 0;
 					moz-transition: all .4s ease-in-out;
@@ -49,7 +49,7 @@
 
 			&:active {
 				&:before {
-					background-color: desaturate(darken(_palette(highlight), 15), 5);
+					background-color: var(--highlight-desaturated);
 					background-position: 100% 0;
 					moz-transition: all .4s ease-in-out;
 					-o-transition: all .4s ease-in-out;
