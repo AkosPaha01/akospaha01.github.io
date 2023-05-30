@@ -1,4 +1,3 @@
-<script type="text/javascript">
   window.addEventListener('load', themeChange);
   const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
   if (currentTheme)
@@ -27,5 +26,4 @@
       }, 1000);
     }
   }
-</script>
 

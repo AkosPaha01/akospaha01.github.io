@@ -29,6 +29,10 @@
 	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
 	<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
 	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/extra.js" | absolute_url }}"></script>
+	{% if site.theme_config.appearance_toggle %}
+		<script src="{{ "assets/js/toggle.js" | absolute_url }}"></script>
+	{% endif %}
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
 	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
 	<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
