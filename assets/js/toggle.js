@@ -10,12 +10,12 @@
       let currentTheme = document.documentElement.getAttribute('data-theme');
       if (currentTheme === 'dark') {
         transition();
-        document.documentElement.setAttribute('data-theme', 'dark');
-        localStorage.setItem('theme', 'dark');
-      } else {
-        transition();
         document.documentElement.setAttribute('data-theme', 'light');
         localStorage.setItem('theme', 'light');
+      } else {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
       }
     });
 
