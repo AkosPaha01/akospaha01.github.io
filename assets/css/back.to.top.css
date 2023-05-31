@@ -5,7 +5,7 @@
   cursor: pointer;
   width: 40px;
   height: 40px;
-  background-color: #ffffff;
+  background-color: var(--fg);
   text-indent: -9999px;
   display: none;
   -webkit-border-radius: 60px;
@@ -22,11 +22,10 @@
   height: 0;
   width: 0;
   border: 8px solid transparent;
-  border-bottom-color: #0f111a;
+  border-bottom-color: var(--bg);
 }
 #scroll:hover {
-  background-color: #99accc;
-  opacity: 1;
+  background-color: var(--highlight);
   filter: "alpha(opacity=100)";
   -ms-filter: "alpha(opacity=100)";
 }
