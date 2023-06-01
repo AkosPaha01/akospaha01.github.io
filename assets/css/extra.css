@@ -69,7 +69,11 @@
 }
 
 .lunrsearchresult .title {
-  color: #ffffff;
+  color: var(--fg);
+  font-weight: bold;
+}
+.lunrsearchresult .title:hover {
+  color: var(--accent1);
   font-weight: bold;
 }
 .lunrsearchresult .url {

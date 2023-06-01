@@ -163,12 +163,12 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
 
 #### Links:
 
-<ul class="actions">
-      <li><a href="https://github.com/DerTyp7214/RboardThemeManagerV3" class="button" target="_blank">Github</a></li>
-      <li><a href="https://rboard.dev/rboard" class="button" target="_blank">Website</a></li>
-      <li><a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="button" target="_blank">XDA</a></li>
-      <li><a href="https://t.me/rkbdigboard" class="button" target="_blank">Telegram Channel</a></li>
-      <li><a href="https://t.me/gboardthemes" class="button" target="_blank">Telegram Group</a></li>
+<ul class="actions" style="margin-bottom: 0 !important;">
+      <li style="padding-bottom: 1em !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3" class="button" target="_blank">Github</a></li>
+      <li style="padding-bottom: 1em !important;"><a href="https://rboard.dev/rboard" class="button" target="_blank">Website</a></li>
+      <li style="padding-bottom: 1em !important;"><a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="button" target="_blank">XDA</a></li>
+      <li style="padding-bottom: 1em !important;"><a href="https://t.me/rkbdigboard" class="button" target="_blank">Telegram Channel</a></li>
+      <li style="padding-bottom: 1em !important;"><a href="https://t.me/gboardthemes" class="button" target="_blank">Telegram Group</a></li>
 </ul>
 
 <h4>License:</h4>
