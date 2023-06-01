@@ -17,10 +17,10 @@
 			'box-shadow #{_duration(transition)} ease-in-out',
 			'color #{_duration(transition)} ease-in-out'
 		));
-		background-color: transparent;
+		background-color: var(--fg-bold-opacity);
 		border: 0;
 		border-radius: 50px;
-		box-shadow: inset 0 0 0 2px var(--fg-bold);
+		box-shadow: inset 0 0 0 3px var(--fg-bold);
 		color: var(--fg-bold);
 		cursor: pointer;
 		display: inline-block;
@@ -43,7 +43,8 @@
 
 		&:hover, &:active {
 			background-position: right center; /* change the direction of the change here */
-			box-shadow: inset 0 0 0 2px var(--accent1);
+			box-shadow: inset 0 0 0 3px var(--accent1);
+			background-color: var(--accent1-opacity);
 			color: var(--accent1);
 			background-position: 100% 0;
 			moz-transition: all .4s ease-in-out;
@@ -53,8 +54,8 @@
 		}
 
 		&:active {
-			background-color: (var(--accent1), 0.1);
-			box-shadow: inset 0 0 0 2px var(--accent1-desaturated);
+			background-color: var(--accent1-opacity);
+			box-shadow: inset 0 0 0 3px var(--accent1-desaturated);
 			color: var(--accent1-desaturated);
 		}
 

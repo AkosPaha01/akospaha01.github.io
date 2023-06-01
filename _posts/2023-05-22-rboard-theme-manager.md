@@ -10,9 +10,9 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 <span class="image main"><img src="/assets/images/Banner_Rboard.png" alt="Rboard Theme Manager" /></span>
 
 #### Info:
-> Rboard Theme Manager V3 is a theme manager for the "Gboard - the Google Keyboard".<br>
+> Rboard Theme Manager V3 is a theme manager for the <a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" target="_blank">"Gboard - the Google Keyboard"</a>.<br>
 
-#### Teams:
+#### Team:
 <div class="container-fluid">
             <div class="column-rboard">
                   <div class="card">
@@ -100,7 +100,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 
 #### Introductions:
 
-- Make sure you are using Magisk ROOTED android 6.0+
+- Make sure you are using Magisk ROOTED Android 6.0+
 - Download and Install the Rboard Theme Manager
 - Grant root and choose option for Module/Gboard (Gboard option should be used in case the module one doesn't)
 - Setting up the Rboard Theme Manager.
@@ -114,7 +114,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 - Applying themes
 - Deleting themes
 - In-app app updater
-- Light/Dark for system theme switch (android 10 and above)
+- Light/Dark for system theme switch (Android 10 and above)
 - Gboard flags import/export/edit
 - Gboard preferences import/export/edit
 - 3rd party theme repos support
@@ -126,16 +126,24 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 - Monet and blur for Android 12+
 - Exporting and importing themes
 
+#### Known bugs:
+
+- MIUI users have to reboot each time they download themes or do the same what Color OS does
+Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
+- App won't work properly if you don't have connection to github
+- Crashes on stock nubia rom
+- Sounds doesn't work on non AOSP roms
+
 #### Downloads:
 
 <div class="container-fluid-download">
       <div class="column-rboard">
             <div class="card">
                   <div class="container-card">
-                        <h4><b>Android 6 and up</b></h4>
+                        <h4><b>Android 6 and Up</b></h4>
                         <img src="https://img.shields.io/github/v/release/DerTyp7214/RboardThemeManagerV3" style="padding-bottom: 1em; !important" alt="Android 6 and Up Version">
                         <ul class="actions card-button">
-                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible" class="button special">Download</a></li>
+                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible" class="button special" target="_blank">Download</a></li>
                         </ul>
                   </div>
             </div>
@@ -143,10 +151,10 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
       <div class="column-rboard">
              <div class="card">
                   <div class="container-card">
-                        <h4><b>Android 12 and up</b></h4>
+                        <h4><b>Android 12 and Up</b></h4>
                         <img src="https://img.shields.io/github/v/release/DerTyp7214/RboardThemeManagerV3" style="padding-bottom: 1em; !important"  alt="Android 12 and Up Version">
                         <ul class="actions card-button">
-                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest" class="button special">Download</a></li>
+                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest" class="button special" target="_blank">Download</a></li>
                         </ul>
                   </div>
             </div>
@@ -156,11 +164,12 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 #### Links:
 
 <ul class="actions">
-      <li><a href="https://github.com/DerTyp7214/RboardThemeManagerV3" class="button">Github</a></li>
-      <li><a href="https://rboard.dev/rboard" class="button">Website</a></li>
-      <li><a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="button">XDA</a></li>
+      <li><a href="https://github.com/DerTyp7214/RboardThemeManagerV3" class="button" target="_blank">Github</a></li>
+      <li><a href="https://rboard.dev/rboard" class="button" target="_blank">Website</a></li>
+      <li><a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="button" target="_blank">XDA</a></li>
+      <li><a href="https://t.me/rkbdigboard" class="button" target="_blank">Telegram Channel</a></li>
+      <li><a href="https://t.me/gboardthemes" class="button" target="_blank">Telegram Group</a></li>
 </ul>
-
 
 <h4>License:</h4>
 Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="">LICENSE</a>

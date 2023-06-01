@@ -3,7 +3,7 @@ layout: page
 title: Hidden
 nav-menu: false
 description: Hidden
-image: /assets/images/og_image.webp
+image: /assets/images/og_image.png
 ---
 
 <div id="main" class="alt">

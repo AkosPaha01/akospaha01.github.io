@@ -3,7 +3,7 @@ layout: page
 title: Photography
 nav-menu: false
 description: Photography
-image: /assets/images/og_image.webp
+image: /assets/images/og_image.png
 ---
 <div id="main" class="alt">
     <div class="inner">

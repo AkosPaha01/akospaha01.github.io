@@ -4,7 +4,7 @@ title: Blog
 landing-title: "blog"
 nav-menu: false
 description: Blog
-image: /assets/images/og_image.webp
+image: /assets/images/og_image.png
 author: null
 show_tile: false
 ---
