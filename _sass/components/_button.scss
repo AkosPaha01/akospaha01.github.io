@@ -124,7 +124,7 @@
 		&.special {
 			background-color: var(--highlight);
 			box-shadow: none;
-			color: var(--bg);
+			color: #000000;
 			transition: .5s;
 			background-size: 200% 100%;
 			background-position: 0% 0;
@@ -135,11 +135,13 @@
 			
 			&:hover, &:active {
 				background-position: 100% 0;
-				background-color: var(--highlight_dark);
 				moz-transition: all .4s ease-in-out;
 				-o-transition: all .4s ease-in-out;
 				-webkit-transition: all .4s ease-in-out;
 				transition: all .4s ease-in-out;
+				box-shadow: 
+				  0 0 30px 2px var(--highlight),
+				  0.5rem 0.5rem 30px mix(#202020, #5990D9, 50%);
 			}
 		}
 
@@ -152,5 +154,5 @@
 	}
 	a.special,
 	a.special:hover{
-		color: var(--bg) !important;
+		color: #000000 !important;
 	}
