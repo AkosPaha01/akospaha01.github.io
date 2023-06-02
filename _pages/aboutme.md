@@ -118,7 +118,7 @@ image: /assets/images/og_image.png
         <p>
           - Testing website and applications<br/>
           - 3D Rendering<br/>
-          - <a href="gboard-themes">Creating Google keyboard themes</a><br/>
+          <!-- - <a href="gboard-themes">Creating Google keyboard themes</a><br/> -->
           - Listening music<br />
           - Talking with friend<br />
           - <a href="https://www.instagram.com/akos_paha/" target="_blank">Photography</a><br/>
