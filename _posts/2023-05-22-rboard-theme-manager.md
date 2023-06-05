@@ -7,7 +7,7 @@ project: true
 permalink: /projects/:title/
 tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes
 ---
-<span class="image main"><img src="/assets/images/Banner_Rboard.png" alt="Rboard Theme Manager" /></span>
+<span class="image main" ><img src="/assets/images/Banner_Rboard.png" style="border-radius: 24px;" alt="Rboard Theme Manager" /></span>
 
 #### Info:
 > Rboard Theme Manager V3 is a theme manager for the <a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" target="_blank">"Gboard - the Google Keyboard"</a>.<br>

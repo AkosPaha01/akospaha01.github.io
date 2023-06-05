@@ -20,18 +20,18 @@ image: /assets/images/og_image.png
       <form action="https://formspree.io/f/meqwwedl" method="POST">
         <div class="field half first">
           <label for="name">Name</label>
-          <input type="text" name="name" id="name" />
+          <input type="text" name="name" id="name" style="border-radius: 48px;"/>
         </div>
         <div class="field half">
           <label for="email">Email</label>
-          <input type="text" name="_replyto" id="email" />
+          <input type="text" name="_replyto" id="email" style="border-radius: 48px;" />
         </div>
         <div class="field">
           <label for="message">Message</label>
-          <textarea name="message" id="message" rows="6"></textarea>
+          <textarea name="message" id="message" rows="6" style="border-radius: 24px;"></textarea>
         </div>
         <ul class="actions">
-          <li><input type="submit" value="Send Message" class="special" /></li>
+          <li><input type="submit" value="Send Message" class="special" style="color: var(--accent1) !important;"/></li>
           <li><input type="reset" value="Clear" /></li>
         </ul>
       </form>

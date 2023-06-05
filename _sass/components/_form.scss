@@ -77,7 +77,7 @@
 	select,
 	textarea {
 		@include vendor('appearance', 'none');
-		background: var(--border-bg);
+		background: var(--bg-alt);
 		border: none;
 		border-radius: 0;
 		color: inherit;
@@ -92,8 +92,8 @@
 		}
 
 		&:focus {
-			border-color: var(--highlight);
-			box-shadow: 0 0 0 2px var(--highlight);
+			border-color: var(--accent1);
+			box-shadow: 0 0 0 2px var(--accent1);
 		}
 	}
 

@@ -59,3 +59,7 @@
 			}
 		}
 	}
+
+	.icon:hover, .icon:active{
+		color: var(--highlight) !important;
+	}

@@ -14,17 +14,17 @@
         <section>
         <div class="container-fluid-p content-p" style="padding: 0 !important; ">
           <div class="column inner">
-                <div class="card">
+                <div class="p-card">
                   <a href="{{ post.url }}" class="image">
-                    <img src="{{ post.image }}" alt="" data-position="center center" />
+                    <img src="{{ post.image }}" alt="" class="img-card-p" data-position="center center" />
                   </a>
                       <div class="container-card">
-                          <h3>{{ post.title }}</h3>
+                          <h3  style="padding: 24px 0 0 0 !important;">{{ post.title }}</h3>
                           <p>
                             {{ post.description }}
                           </p>
                             <ul class="actions">
-                              <li style="padding: 0 0 0 0 !important;"><a href="{{ post.url }}" class="button special">Read More...</a></li>
+                              <li style="padding: 0 0 0 0 !important;"><a href="{{ post.url }}" class="button special read-more">Read More...</a></li>
                              <br><br>
                              <li style="padding: 0 0 0 0 !important;"><a target="_blank" href="https://github.com/DerTyp7214/RboardThemeManagerV3" class="button">Github</a></li>
                           </ul>
