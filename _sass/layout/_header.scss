@@ -42,7 +42,7 @@
 					'color #{_duration(transition)} ease-in-out'
 				));
 				background-color: var(--fg-bold);
-				border-radius: 50px;
+				border-radius: 48px;
 				color: var(--bg);
 				display: inline-block;
 				line-height: 1.65em;
@@ -70,7 +70,6 @@
 
 			&:active {
 				strong {
-					// background-color: desaturate(darken(var(--highlight), 15), 5);
 					background-color: var(--highlight);
 					background-position: 100% 0;
 					moz-transition: all .4s ease-in-out;

@@ -7,4 +7,4 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.8.1"
-gem 'wdm', '>= 0.1.0'
+gem 'wdm', '>= 0.1.1'

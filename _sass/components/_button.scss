@@ -36,10 +36,10 @@
 		white-space: nowrap;
 		background-size: 200% 100%;
 		background-position: 0% 0;
-		moz-transition: all .4s ease-in-out;
-		-o-transition: all .4s ease-in-out;
-		-webkit-transition: all .4s ease-in-out;
-		transition: all .4s ease-in-out;
+		moz-transition: all .2s ease-in-out;
+		-o-transition: all .2s ease-in-out;
+		-webkit-transition: all .2s ease-in-out;
+		transition: all .2s ease-in-out;
 
 		&:hover, &:active {
 			background-position: right center; /* change the direction of the change here */
@@ -47,16 +47,17 @@
 			background-color: var(--accent1-opacity);
 			color: var(--btn-text);
 			background-position: 100% 0;
-			moz-transition: all .4s ease-in-out;
-			-o-transition: all .4s ease-in-out;
-			-webkit-transition: all .4s ease-in-out;
-			transition: all .4s ease-in-out;
+			moz-transition: all .2s ease-in-out;
+			-o-transition: all .2s ease-in-out;
+			-webkit-transition: all .2s ease-in-out;
+			transition: all .2s ease-in-out;
 		}
 
 		&:active {
 			background-color: var(--accent1-opacity);
 			box-shadow: inset 0 0 0 3px var(--accent1-desaturated);
 			color: var(--accent1-desaturated);
+			border-radius: 16px !important;
 		}
 
 		&.icon {
@@ -128,19 +129,22 @@
 			transition: .5s;
 			background-size: 200% 100%;
 			background-position: 0% 0;
-			moz-transition: all .4s ease-in-out;
-			-o-transition: all .4s ease-in-out;
-			-webkit-transition: all .4s ease-in-out;
-			transition: all .4s ease-in-out;
+			moz-transition: all .2s ease-in-out;
+			-o-transition: all .2s ease-in-out;
+			-webkit-transition: all .2s ease-in-out;
+			transition: all .2s ease-in-out;
 			
 			&:hover, &:active {
 				background-position: 100% 0;
-				moz-transition: all .4s ease-in-out;
-				-o-transition: all .4s ease-in-out;
-				-webkit-transition: all .4s ease-in-out;
-				transition: all .4s ease-in-out;
+				moz-transition: all .2s ease-in-out;
+				-o-transition: all .2s ease-in-out;
+				-webkit-transition: all .2s ease-in-out;
+				transition: all .2s ease-in-out;
 				box-shadow: 
 				  0 0 30px 2px var(--highlight);
+			}
+			&:active {
+			border-radius: 16px !important;
 			}
 		}
 
