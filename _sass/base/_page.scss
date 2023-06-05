@@ -354,3 +354,13 @@ body {
 	}
   }
 
+	input,
+	textarea,
+	button,
+	select,
+	a,
+	#scroll,
+	.icon {
+		-webkit-tap-highlight-color: transparent;
+	}
+
