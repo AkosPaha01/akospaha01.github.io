@@ -52,6 +52,7 @@ $size: (
 		--accent4: #184877;
 		--accent5: #715617;
 		--accent6: #783a5b;
+		--btn-text: #ffffff;
 	}
 
 	@mixin dark-appearance {
@@ -78,7 +79,8 @@ $size: (
 		--accent3: #ec8d81;
 		--accent4: #e7b788;
 		--accent5: #8ea9e8;
-		--accent6: #87c5a4;
+		--accent6: #87c5a4;		
+		--btn-text: #062e6f;
 	};
 	}
 	html[data-theme="dark"] { @include dark-appearance; }

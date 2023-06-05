@@ -31,7 +31,7 @@ image: /assets/images/og_image.png
           <textarea name="message" id="message" rows="6" style="border-radius: 24px;"></textarea>
         </div>
         <ul class="actions">
-          <li><input type="submit" value="Send Message" class="special" style="color: var(--accent1) !important;"/></li>
+          <li><input type="submit" value="Send Message" class="special" style="color: var(--btn-text) !important;"/></li>
           <li><input type="reset" value="Clear" /></li>
         </ul>
       </form>

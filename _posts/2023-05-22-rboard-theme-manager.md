@@ -143,7 +143,7 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
                         <h4><b>Android 6 and Up</b></h4>
                         <img src="https://img.shields.io/github/v/release/DerTyp7214/RboardThemeManagerV3" style="padding-bottom: 1em; !important" alt="Android 6 and Up Version">
                         <ul class="actions card-button">
-                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible" class="button special" target="_blank">Download</a></li>
+                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible" class="button special" target="_blank" style="color: var(--btn-text) !important;">Download</a></li>
                         </ul>
                   </div>
             </div>
@@ -154,7 +154,7 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
                         <h4><b>Android 12 and Up</b></h4>
                         <img src="https://img.shields.io/github/v/release/DerTyp7214/RboardThemeManagerV3" style="padding-bottom: 1em; !important"  alt="Android 12 and Up Version">
                         <ul class="actions card-button">
-                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest" class="button special" target="_blank">Download</a></li>
+                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest" class="button special" target="_blank" style="color: var(--btn-text) !important;">Download</a></li>
                         </ul>
                   </div>
             </div>
