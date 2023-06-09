@@ -14,7 +14,7 @@ image: /assets/images/og_image.png
       <header class="major">
         <h2>About</h2>
       </header>
-      <p>My name is Akos Paha and I'm 21 years old, Manual and Automated Software Tester. I've been manual testing for a little over 7 years now and for about 1 year I've been automated testing in Python with Selenium (Selenium framework). The main testing areas are website and mobile application testing, but I have knowledge in testing Mobile Operating Systems and many more.
+      <p>My name is Akos Paha and I'm 21 years old, Manual and Automated Software Tester. I've been manual testing for a little over 7 years now and for about 1 year I've been automated testing in Python with Selenium (SeleniumBase framework). The main testing areas are website and mobile application testing, but I have knowledge in testing Mobile Operating Systems and many more.
       </p>
     </div>
   </section>
