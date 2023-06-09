@@ -2,6 +2,7 @@
 title: Akos Paha
 email: paha.akos@gmail.com
 description: Software Tester
+# landing-title: Hello, My Name is <span class="name-color"> Akos Paha</span>
 landing-title: Hello, My Name is Akos Paha
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -34,7 +35,7 @@ socials:
   GitLab:
   LinkedIn: https://hu.linkedin.com/in/akos-paha-886273220
   Instagram: https://www.instagram.com/akos_paha
-  Twitter: 
+  Twitter: https://twitter.com/akos_paha
   Facebook: https://www.facebook.com/Paha.Akos/
   Slack:
 
