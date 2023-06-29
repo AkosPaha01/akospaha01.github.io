@@ -3,6 +3,7 @@
     <section>
     {% for post in projects limit: site.tiles-count %}
     <article>
+        <a href="{{ post.url | relative_url }}" class="link" >
         <div class="card-projects">
             <div class="column">    
                   <div class="card-p">
@@ -12,14 +13,14 @@
                         <div class="container-card" >
                             <header class="major" style="margin-bottom: 0px;">
                                 <h3 style="text-align: start;">
-                                    <a href="{{ post.url | relative_url }}" class="link" style="color: var(--fg-bold) !important;">{{ post.title }}</a>
+                                    <p style="color: var(--fg-bold) !important; margin: 0;">{{ post.title }}</p>
                                 </h3>
-                                <p style="text-align: start;">{{ post.description }}</p>
+                                <p style="color: var(--fg-bold) !important; text-align: start;">{{ post.description }}</p>
                             </header>
                         </div>
                 </div>
             </div>
-        </div>
+        </div></a>
     </article>
     {% endfor %}
 </section>

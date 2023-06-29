@@ -2,8 +2,8 @@
 title: Akos Paha
 email: paha.akos@gmail.com
 description: Software Tester
-# landing-title: Hello, My Name is <span class="name-color"> Akos Paha</span>
-landing-title: Hello, My Name is Akos Paha
+landing-title: Hello, My Name is <span class="name-color"> Akos Paha</span>
+# landing-title: Hello, My Name is Akos Paha
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:

@@ -25,7 +25,7 @@
   border-bottom-color: var(--bg);
 }
 #scroll:hover {
-  background-color: var(--accent1);
+  background-color: var(--highlight);
   filter: "alpha(opacity=100)";
   -ms-filter: "alpha(opacity=100)";
 }

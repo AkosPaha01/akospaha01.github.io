@@ -63,8 +63,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  712 KB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Rounded_Pack.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/711" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Rounded_Pack.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/711" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -98,8 +98,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  1.27 MB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Logo_Pack.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/708" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Logo_Pack.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/708" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -136,8 +136,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  506 KB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive_4.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/703" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive_4.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/703" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -171,8 +171,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  878 KB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Minecraft_Pack.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/700" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Minecraft_Pack.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/700" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -208,8 +208,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  1.52 MB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive_3.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/694" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive_3.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/694" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -245,8 +245,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  1.44 MB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive_2.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/684" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive_2.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/684" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -282,8 +282,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  656 KB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Arctic_Themes.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/679" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Arctic_Themes.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/679" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -319,8 +319,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  627 KB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/NightLight_Themes.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/663" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/NightLight_Themes.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/663" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -358,8 +358,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  3.98 MB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/652" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/652" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -394,8 +394,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>   663 KB <br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Borderless_Material.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/646" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Borderless_Material.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/646" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -430,8 +430,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  291 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/PitchBlack.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/630" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/PitchBlack.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/630" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -467,8 +467,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  397 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Feather_Pack.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/615?single" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Feather_Pack.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/615?single" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -504,8 +504,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  258 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/DarkGrey.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/581" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/DarkGrey.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/581" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -548,8 +548,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  1.66 MB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Dracula_Theme_Pack.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/543" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Dracula_Theme_Pack.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/543" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -585,8 +585,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  2.36 MB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Desaturated_pack.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel/507" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Desaturated_pack.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel/507" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -619,8 +619,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  116 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Redesigns_pack.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Redesigns_pack.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -653,7 +653,7 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  2.2 MB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha/Material-ocean-gboard-theme/raw/master/Material_ocean_lively.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha/Material-ocean-gboard-theme/raw/master/Material_ocean_lively.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
 <li>
 </li>
             </ul>
@@ -686,8 +686,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  229 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/e3b73bfa7e339d8f6297650b81675838e36a4b32/Colorful.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/e3b73bfa7e339d8f6297650b81675838e36a4b32/Colorful.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -720,8 +720,8 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  222 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/d723a1e776a168f42bcefd795ef4b68b65b688e9/Snowys.zip" class="button special">Github</a></li>
-                <li><a target="_blank" href="https://t.me/paha_akos_channel" class="button special">Telegram</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/d723a1e776a168f42bcefd795ef4b68b65b688e9/Snowys.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
+                <li><a target="_blank" href="https://t.me/paha_akos_channel" style="color: var(--btn-text) !important;" class="button special read-more">Telegram</a></li>
 <li>
 </li>
             </ul>
@@ -754,7 +754,7 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  244 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Black_Themes_V2.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Black_Themes_V2.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
 <li>
 </li>
             </ul>
@@ -787,7 +787,7 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  489 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/White_themes.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/White_themes.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
 <li>
 </li>
             </ul>
@@ -820,7 +820,7 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong>  320 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Material_ocean_themes.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Material_ocean_themes.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
 <li>
 </li>
             </ul>
@@ -854,7 +854,7 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong> 1.3 MB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Mix.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Mix.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
             </ul>
         </div>
     </div>
@@ -885,7 +885,7 @@ image: /assets/images/Banner_Rboard.png
             <strong>File Size:</strong> 346 KB<br></p>
             <h3>Downloads:</h3>
             <ul class="actions">
-                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Nord_Themes.zip" class="button special">Github</a></li>
+                <li><a target="_blank" href="https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Nord_Themes.zip" style="color: var(--btn-text) !important;" class="button special read-more">Github</a></li>
             </ul>
         </div>
     </div>
