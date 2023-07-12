@@ -38,12 +38,14 @@ image: /assets/images/og_image.png
         Kindergarten<br/>
         <b>2008 - 2016 </b><br/>
         Primary school<br/>
+        <b>2016 - Present </b><br/>
+        Start dealing with Software Testing<br/>
         <b>2016 - 2020 </b><br/>
-        High school<br/>
+        Informatics High school<br/>
         <b>2020 - 2021 </b><br/>
         Software Developer NVQ<br/>
         <b>2021 - Present </b><br/>
-        Software Tester<br/><br/>
+        Working as a Software Tester<br/><br/>
       </div>
     </div>
      <div class="row 200%">
