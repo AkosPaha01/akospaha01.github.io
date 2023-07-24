@@ -135,31 +135,69 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
 - Sounds doesn't work on non AOSP roms
 
 #### Downloads:
+<div class="site-wrapper">
+<section class="tabs-wrapper">
+				<div class="tabs-container">
+					<div class="tabs-block">
+						<div class="tabs">
+							<input type="radio" name="tabs" id="tab1" checked="checked" />
+							<label for="tab1">Release Builds</label>
+							<div class="tab">
+								<div class="container-fluid-download">
+                                                      <div class="column-rboard">
+                                                            <div class="card">
+                                                                  <div class="container-card">
+                                                                        <h4><b>Android 6 and Up</b></h4>
+                                                                        <ul class="actions card-button">
+                                                                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible" class="button special read-more" target="_blank" style="color: var(--btn-text) !important;">A6+ Release</a></li>
+                                                                        </ul>
+                                                                  </div>
+                                                            </div>
+                                                      </div>
+                                                      <div class="column-rboard">
+                                                            <div class="card">
+                                                                  <div class="container-card">
+                                                                        <h4><b>Android 12 and Up</b></h4>
+                                                                        <ul class="actions card-button">
+                                                                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest" class="button special read-more" target="_blank" style="color: var(--btn-text) !important;">A12+ Release</a></li>
+                                                                        </ul>
+                                                                  </div>
+                                                            </div>
+                                                      </div>  
+                                                </div>
+							</div>
+							<input type="radio" name="tabs" id="tab2" />
+							<label for="tab2">Debug Builds</label>
+							<div class="tab">
+								<div class="container-fluid-download">
+                                                      <div class="column-rboard">
+                                                            <div class="card">
+                                                                  <div class="container-card">
+                                                                        <h4><b>Android 6 and Up</b></h4>
+                                                                        <ul class="actions card-button">
+                                                                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible-debug" class="button special read-more" target="_blank" style="color: var(--btn-text) !important;">A6+ Debug</a></li>
+                                                                        </ul>
+                                                                  </div>
+                                                            </div>
+                                                      </div>
+                                                      <div class="column-rboard">
+                                                            <div class="card">
+                                                                  <div class="container-card">
+                                                                        <h4><b>Android 12 and Up</b></h4>
+                                                                        <ul class="actions card-button">
+                                                                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-debug" class="button special read-more" target="_blank" style="color: var(--btn-text) !important;">A12+ Debug</a></li>
+                                                                        </ul>
+                                                                  </div>
+                                                            </div>
+                                                      </div>  
+                                                </div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+	</div>
 
-<div class="container-fluid-download">
-      <div class="column-rboard">
-            <div class="card">
-                  <div class="container-card">
-                        <h4><b>Android 6 and Up</b></h4>
-                        <img src="https://img.shields.io/github/v/release/DerTyp7214/RboardThemeManagerV3" style="padding-bottom: 1em; !important" alt="Android 6 and Up Version">
-                        <ul class="actions card-button">
-                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible" class="button special read-more" target="_blank" style="color: var(--btn-text) !important;">Download</a></li>
-                        </ul>
-                  </div>
-            </div>
-      </div>
-      <div class="column-rboard">
-             <div class="card">
-                  <div class="container-card">
-                        <h4><b>Android 12 and Up</b></h4>
-                        <img src="https://img.shields.io/github/v/release/DerTyp7214/RboardThemeManagerV3" style="padding-bottom: 1em; !important"  alt="Android 12 and Up Version">
-                        <ul class="actions card-button">
-                              <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest" class="button special read-more" target="_blank" style="color: var(--btn-text) !important;">Download</a></li>
-                        </ul>
-                  </div>
-            </div>
-      </div>  
-</div>
 
 #### Links:
 
