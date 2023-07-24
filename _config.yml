@@ -66,9 +66,3 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
-
-webserver_headers:
-  - - Access-Control-Allow-Origin
-    - "*"
-  - - Access-Control-Allow-Methods
-    - GET, OPTIONS, HEAD
