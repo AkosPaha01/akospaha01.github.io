@@ -148,6 +148,7 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
                                                             <div class="card">
                                                                   <div class="container-card">
                                                                         <h4><b>Android 6 and Up</b></h4>
+                                                                        <div id="rboardversion-a6-release" class="rboard-text">Latest Version: </div>
                                                                         <ul class="actions card-button">
                                                                               <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible" class="button special read-more" target="_blank" style="color: var(--btn-text) !important;">A6+ Release</a></li>
                                                                         </ul>
@@ -158,6 +159,7 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
                                                             <div class="card">
                                                                   <div class="container-card">
                                                                         <h4><b>Android 12 and Up</b></h4>
+                                                                        <div id="rboardversion-a12-release" class="rboard-text">Latest Version: </div>
                                                                         <ul class="actions card-button">
                                                                               <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest" class="button special read-more" target="_blank" style="color: var(--btn-text) !important;">A12+ Release</a></li>
                                                                         </ul>
@@ -174,6 +176,7 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
                                                             <div class="card">
                                                                   <div class="container-card">
                                                                         <h4><b>Android 6 and Up</b></h4>
+                                                                        <div id="rboardversion-a6-debug" class="rboard-text">Latest Version: </div>
                                                                         <ul class="actions card-button">
                                                                               <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible-debug" class="button special read-more" target="_blank" style="color: var(--btn-text) !important;">A6+ Debug</a></li>
                                                                         </ul>
@@ -184,6 +187,7 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
                                                             <div class="card">
                                                                   <div class="container-card">
                                                                         <h4><b>Android 12 and Up</b></h4>
+                                                                        <div id="rboardversion-a12-debug" class="rboard-text">Latest Version: </div>
                                                                         <ul class="actions card-button">
                                                                               <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-debug" class="button special read-more" target="_blank" style="color: var(--btn-text) !important;">A12+ Debug</a></li>
                                                                         </ul>
