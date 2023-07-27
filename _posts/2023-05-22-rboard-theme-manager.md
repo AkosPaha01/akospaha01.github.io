@@ -252,7 +252,7 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
         </summary>
         <div class="faq-content">
           <p>
-            MIUI users have to reboot each time they download themes or do the same what Color OS does Color OS, Realme OS needs to turn off “Use Magisk” in settings to get it working
+            MIUI users have to reboot each time they download themes or do the same what Color OS does Color OS, Realme OS needs to turn off <strong>“Use Magisk”</strong> in settings to get it working
           </p>
         </div>
       </details>
@@ -273,7 +273,7 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
         <div class="faq-content">
           <p>
             If you have problem with Rboard Theme Manager V3 not loading use VPN.
-            <a href="https://twitter.com/squeal/status/1609515053237309448" targat="_blank">India blocked GitHub</a> and Gitlab and this is where we are hosting everything Rboard related.
+            <a href="https://twitter.com/squeal/status/1609515053237309448" target="_blank">India blocked GitHub</a> and Gitlab and this is where we are hosting everything Rboard related.
           </p>
         </div>
       </details>
