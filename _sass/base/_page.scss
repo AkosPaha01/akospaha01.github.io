@@ -602,8 +602,10 @@ label[for=rboard-debug] {
 @media screen and (max-width: 1023px) {
 	img {
   		max-width: 100%;
-		padding: 0 0 2em 0;
   	}
+	.rboard-image {
+		padding: 0 0 2em 0;
+	}
 }
 
 @media screen and (max-width: 1023px) {
