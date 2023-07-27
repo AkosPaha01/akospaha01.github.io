@@ -226,29 +226,30 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
 <div class="faq-container">
       <details class="faq-box">
         <summary class="faq-header">
-          What can I do if my Gboard Flags are not working?
+          <ul class="ul-summary"><li>What can I do if my Gboard Flags are not working?</li></ul>
         </summary>
         <div class="faq-content">
           <p>
-            In principle, in some way the flags can be fixed again in the usual way from <a href="#rboard-downloads">Rboard Theme Manager V3</a> if necessary.<br>
+            In principle, in some way the flags can be fixed again in the usual way from <a href="#rboard-downloads">Rboard Theme Manager V3</a> if necessary.<br><br>
             The simple steps are:
             <ul>
                   <li>Clear Gboard Data</li>
-                  <li>Open Rboard Setting and Click "Fix Flags"</li>
-                  <li>Go back and open "Gboard Flags" option</li>
+                  <li>Open Rboard Setting and Click <strong>"Fix Flags"</strong></li>
+                  <li>Go back and open <strong>"Gboard Flags"</strong> option</li>
                   <li>Change one of the flags</li>
                   <li>Go back and Open Rboard Settings again</li>
-                  <li>Click "Copy flags"</li>
-                  <li>Go back open Gboard Flags option and scroll down, open "All flags" (Only required if you are not using the latest <a href="#rboard-downloads">Rboard Theme Manager V3 Debug</a> version).</li>
-                  <li>Edit crowdsource_uri and change it to blank (Only required if you are not using the latest <a href="#rboard-downloads">Rboard Theme Manager V3 Debug</a> version).</li>
-                  <li>Go back and after that, any flag will work normallyIt should work with the latest Beta (And a couple of beta versions before it).</li>
+                  <li>Click <strong>"Copy flags"</strong></li>
+                  <li>Go back open Gboard Flags option and scroll down, open <strong>"All flags"</strong> (Only required if you are not using the latest <a href="#rboard-downloads">Rboard Theme Manager V3 Debug</a> version).</li>
+                  <li>Edit <strong>crowdsource_uri</strong> and change it to blank (Only required if you are not using the latest <a href="#rboard-downloads">Rboard Theme Manager V3 Debug</a> version).</li>
+                  <li>Go back and after that, any flag will work normally</li>
             </ul>
+            It should work with the latest <a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" target="_blank">Gboard</a> Beta (and a couple of beta versions before it).
           </p>
         </div>
       </details>
       <details class="faq-box">
         <summary class="faq-header">
-          What can I do if the theme cannot be used on MIUI and other devices after downloading?
+          <ul class="ul-summary"><li>What can I do if the theme cannot be used on MIUI and other devices after downloading?</li></ul>
         </summary>
         <div class="faq-content">
           <p>
@@ -258,32 +259,32 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
       </details>
       <details class="faq-box">
         <summary class="faq-header">
-          What can I do if the bottom of the keyboard is rounded?
+          <ul class="ul-summary"><li>What can I do if the bottom of the keyboard is rounded?</li></ul>
         </summary>
         <div class="faq-content">
           <p>
-            Remove from /system/build.prop (or somewhere else on color os) line line with <strong>ro.com.google.ime.corner_key_r</strong> or remove module from manager if you installed it.
+            Remove from <strong>/system/build.prop</strong> (or somewhere else on color os) line line with <strong>ro.com.google.ime.corner_key_r</strong> or remove module from manager if you installed it.
           </p>
         </div>
       </details>
       <details class="faq-box">
         <summary class="faq-header">
-          What can I do if Rboard Theme Manager V3 only loading and is empty and does not load or the themes do not appear?
+          <ul class="ul-summary"><li>What can I do if Rboard Theme Manager V3 only loading and is empty and does not load or the themes do not appear?</li></ul>
         </summary>
         <div class="faq-content">
           <p>
-            If you have problem with Rboard Theme Manager V3 not loading use VPN.
+            If you have problem with Rboard Theme Manager V3 not loading use <strong>VPN</strong>.
             <a href="https://twitter.com/squeal/status/1609515053237309448" target="_blank">India blocked GitHub</a> and Gitlab and this is where we are hosting everything Rboard related.
           </p>
         </div>
       </details>
       <details class="faq-box">
         <summary class="faq-header">
-          What can I do if the custom keyboard sounds don't work?
+          <ul class="ul-summary"><li>What can I do if the custom keyboard sounds don't work?</li></ul>
         </summary>
         <div class="faq-content">
           <p>
-            Custom keyboard sounds are only for AOSP based ROMs.
+            Custom keyboard sounds are only for <strong>AOSP based ROMs</strong>.
           </p>
         </div>
       </details>

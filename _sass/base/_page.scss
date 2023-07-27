@@ -644,19 +644,29 @@ label[for=rboard-debug] {
 		width: 62.5%;
 	}
 }
-
 .faq-header {
 	padding: 1.2em 1em;
-
+	list-style-type: none;
 	font-weight: 600;
+	padding-right: 2.5em !important;
 
 	background-color: var(--bg-alt-2);
 	user-select: none;
 	cursor: pointer;
 }
-
+.ul-summary{
+	margin: 0 0 0 0;
+}
+.faq-box[open] .ul-summary {
+	list-style: disclosure-open !important;
+}.faq-box .ul-summary {
+	list-style: disclosure-closed !important;
+}
 .faq-content {
-	padding: 1em;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	padding-left: 2.5em !important;
+	padding-right: 2.5em !important;
 	background-color: var(--bg-alt-2);
 }
 .faq-box {
