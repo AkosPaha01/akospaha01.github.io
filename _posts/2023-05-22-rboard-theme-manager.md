@@ -122,18 +122,18 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 - Apply Theme
 - Enjoy
 
-<!-- <div class="container-rboard">
+<div class="container-rboard">
       <div class="image-rboard">
             <img class="rboard-image" src="/assets/images/rboard_app_3.png" data-position="center center"/>
       </div>
       <div class="text-rboard">
-            <h1 style="margin-bottom: 1.5rem !important">Hundreds of Gboard themes</h1>
-            <p>Rboard Theme Manager includes tens of theme packs and hundreds of beautiful unique Gboard themes from different theme creators.</p>
+            <h2 style="margin-bottom: 1.5rem !important">Hundreds of themes for <span class="highlight-text">Gboard</span></h2>
+            <p>Rboard Theme Manager V3 includes tens of theme packs and hundreds of beautiful unique <strong><a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" target="_blank">"Gboard - the Google Keyboard"</a></strong> themes from different theme creators.</p>
       <ul class="actions card-button">
-            <li style="padding: 0 0 0 0 !important;"><a href="#rboard-downloads" class="button special read-more" style="color: var(--btn-text) !important;">Get Rboard</a></li>
+            <li style="padding: 0 0 0 0 !important;"><a href="#rboard-downloads" class="button special read-more" style="color: var(--btn-text) !important;">Get Rboard V3</a></li>
       </ul>
       </div>  
-</div> -->
+</div>
 
 #### Features:
 
@@ -240,7 +240,7 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
         </summary>
         <div class="faq-content">
           <p>
-            Without ROOT it's not possible yet. That means no ADB tricks no nothing. We tried everything but doesn't work.
+            <strong>Without ROOT</strong> it's not possible yet. That means no ADB tricks no nothing. We tried everything but doesn't work.
           </p>
         </div>
       </details>
