@@ -16,7 +16,6 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 #### Team:
 
 <div class="container-fluid">
-
             <div class="column-rboard">
                   <div class="card">
                         <img class="card-image" src="https://avatars.githubusercontent.com/u/37804065?v=4" alt="DerTyp7214">
@@ -54,16 +53,27 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                         <div class="container-card">
                               <h4><b>Akos Paha</b></h4>
                               <p>Developer & Themer</p>
-                              <ul class="icons actions card-button">
-                                    {% for key_value in site.socials %}
-                                          {% if key_value[1] %}
-                                                <li>
-                                                      <a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
-                                                            <span class="label">{{ key_value[0] }}</span>
-                                                      </a>
-                                                </li>
-                                          {% endif %}
-                                    {% endfor %}
+                               <ul class="icons actions card-button">
+                                    <li>
+                                          <a href="https://github.com/akospaha01" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
+                                                <span class="label">Github</span>
+                                          </a>
+                                    </li>
+                                    <li>
+                                          <a href="https://www.instagram.com/akos_paha" class="icon alt fa fa-instagram" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                                                <span class="label">Instagram</span>
+                                          </a>
+                                    </li>
+                                    <li>
+                                          <a href="https://www.linkedin.com/in/akos-paha" class="icon alt fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                                                <span class="label">LinkedIn</span>
+                                          </a>
+                                    </li>
+                                    <li>
+                                          <a href="https://t.me/akospaha" class="icon alt fa-paper-plane" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
+                                                <span class="label">Telegram</span>
+                                          </a>
+                                    </li>
                               </ul>
                         </div>
                   </div>
@@ -224,6 +234,16 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
 
 #### Frequently Asked Questions:
 <div class="faq-container">
+      <details class="faq-box" open>
+        <summary class="faq-header">
+          <ul class="ul-summary"><li>Does Rboard Theme Manager V3 work without ROOT?</li></ul>
+        </summary>
+        <div class="faq-content">
+          <p>
+            Without ROOT it's not possible yet. That means no ADB tricks no nothing. We tried everything but doesn't work.
+          </p>
+        </div>
+      </details>
       <details class="faq-box">
         <summary class="faq-header">
           <ul class="ul-summary"><li>What can I do if my Gboard Flags are not working?</li></ul>
@@ -254,6 +274,33 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
         <div class="faq-content">
           <p>
             MIUI users have to reboot each time they download themes or do the same what Color OS does Color OS, Realme OS needs to turn off <strong>“Use Magisk”</strong> in settings to get it working
+          </p>
+        </div>
+      </details>
+      <details class="faq-box">
+        <summary class="faq-header">
+          <ul class="ul-summary"><li>How can I enable flags within Rboard Theme Manager V3?</li></ul>
+        </summary>
+        <div class="faq-content">
+          <p>
+            Open Rboard Theme Manager V3, pull up the bottomshelf and open the <strong>"Gboard Flags"</strong> option. For more flags open the <strong>"Show all flags"</strong> option inside the previous one.
+          </p>
+        </div>
+      </details>
+      <details class="faq-box">
+        <summary class="faq-header">
+          <ul class="ul-summary"><li>How can I create my own theme?</li></ul>
+        </summary>
+        <div class="faq-content">
+        <p>
+            <ul>
+                  <li>Find location of this theme by name at <strong>/system/etc/gboard_themes</strong> or Gboard data (Non Module) <br><strong>/data/data/com.google.android.inputmethod.latin/files/themes</strong> (or go to module location <strong>/data/adb/modules/rboard-themes</strong> and to the same location as above)</li>
+                  <li>Open the <strong>theme ZIP</strong> you want to modify</li>
+                  <li>Open <strong>.css files</strong> and find the color you want to replace with hex pipette</li>
+                  <li>Change the colors as you like</li>
+                  <li>Open <strong>metadata.json</strong> and change ID of theme to something else because without it gboard will think it's previous theme and will load from cache</li>
+                  <li>Later you can put this theme zip to another zip and change .zip to .pack and import using <strong>Rboard Theme Manager V3</strong></li>
+            </ul>
           </p>
         </div>
       </details>
