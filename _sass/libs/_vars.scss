@@ -28,8 +28,8 @@ $size: (
 		letter-spacing-alt:	0.25em
 	);
 
-	
-	html {
+	@mixin light-appearance {
+	html, body {
 		--bg: #FFFFFF;
 		--bg-alt: #F3F6FC;
 		--bg-alt-2: #F8FAFD;
@@ -55,8 +55,8 @@ $size: (
 		--accent6: #0bd067;
 		--btn-text: #ffffff;
 		scroll-behavior: smooth;
+	};
 	}
-
 	@mixin dark-appearance {
 		html, body  {
 			
@@ -87,8 +87,22 @@ $size: (
 		scroll-behavior: smooth;
 	};
 	}
-	html[data-theme="dark"] { @include dark-appearance; }
-
+	html[data-theme="dark"] {
+		@include dark-appearance;
+	}
+	
+	html[data-theme="light"] {
+		@include light-appearance;
+	}
+	
 	@media (prefers-color-scheme: dark) {
-	body[data-theme="auto"] { @include dark-appearance; }
+		body[data-theme="dark"] {
+			@include dark-appearance;
+		}
+	}
+	
+	@media (prefers-color-scheme: light) {
+		body[data-theme="light"] {
+			@include light-appearance;
+		}
 	}
