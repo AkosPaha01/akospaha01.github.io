@@ -1,4 +1,6 @@
 $.getJSON('/debug-output-metadata.json', function(data) {
-        var content = data.elements[0].versionName;
-        $("#rboardversion-a6-debug").append(content);
+        var versionName = data.elements[0].versionName;
+        var versionCode = data.elements[0].versionCode;
+        $("#rboardversion-a6-debug-name").append(versionName);
+        $("#rboardversion-a6-debug-code").append(versionCode);
    });
