@@ -457,7 +457,7 @@ body {
 .tabs [type=radio]+label {
 	padding-left: 1em !important;
 	padding-right: 1em !important;
-	width: 65%;
+	width: 70%;
 	text-align: center;
 	font-weight: 600 !important;
 }
@@ -554,6 +554,7 @@ label[for=rboard-debug] {
 .rboard-text{
 	color: var(--fg-bold);
 	margin: 0 0 1em 0;
+	font-size: 0.8em;
 }
 @media screen and (min-width: 1440px) {
 	.container-rboard {

@@ -1,4 +1,6 @@
 $.getJSON('/release-output-metadata.json', function(data) {
-        var content = data.elements[0].versionName;
-        $("#rboardversion-a6-release").append(content);
+        var versionName = data.elements[0].versionName;
+        var versionCode = data.elements[0].versionCode;
+        $("#rboardversion-a6-release-name").append(versionName);
+        $("#rboardversion-a6-release-code").append(versionCode);
    });
