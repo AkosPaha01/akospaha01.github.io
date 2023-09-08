@@ -166,7 +166,7 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
 #### Downloads:
 
 <div class="site-wrapper">
-      <section class="tabs-wrapper">
+      <section id="rboard-download-section" class="tabs-wrapper">
 		<div class="tabs-container">
 			<div class="tabs-block">
 				<div class="tabs">
