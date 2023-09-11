@@ -701,3 +701,7 @@ label[for=rboard-debug] {
 .highlight-text{
 	color: var(--highlight);
 }
+
+html{
+	scroll-behavior: smooth;
+}
