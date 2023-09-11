@@ -54,7 +54,6 @@ $size: (
 		--accent5: #0b46d0;
 		--accent6: #0bd067;
 		--btn-text: #ffffff;
-		scroll-behavior: smooth;
 	};
 	}
 	@mixin dark-appearance {
@@ -84,7 +83,6 @@ $size: (
 		--accent5: #8ea9e8;
 		--accent6: #87c5a4;		
 		--btn-text: #062e6f;
-		scroll-behavior: smooth;
 	};
 	}
 	html[data-theme="dark"] {

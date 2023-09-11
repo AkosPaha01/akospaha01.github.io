@@ -39,7 +39,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                                           </a>
                                     </li>
                                     <li>
-                                          <a href="https://twitter.com/DerTyp7214" class="icon alt fa-twitter" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+                                          <a href="https://twitter.com/DerTyp7214" class="icon alt fa-x-twitter" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
                                                 <span class="label">Twitter</span>
                                           </a>
                                     </li>
@@ -70,7 +70,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                                           </a>
                                     </li>
                                     <li>
-                                          <a href="https://t.me/akospaha" class="icon alt fa-paper-plane" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
+                                          <a href="https://t.me/akospaha" class="icon alt fa-telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
                                                 <span class="label">Telegram</span>
                                           </a>
                                     </li>
@@ -96,12 +96,12 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                                           </a>
                                     </li>
                                     <li>
-                                          <a href="https://t.me/rkbdi" class="icon alt fa fa-paper-plane" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
+                                          <a href="https://t.me/rkbdi" class="icon alt fa fa-telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
                                                 <span class="label">Telegram</span>
                                           </a>
                                     </li>
                                     <li>
-                                          <a href="https://twitter.com/RKBDI" class="icon alt fa-twitter" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+                                          <a href="https://twitter.com/RKBDI" class="icon alt fa-x-twitter" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
                                                 <span class="label">Twitter</span>
                                           </a>
                                     </li>
