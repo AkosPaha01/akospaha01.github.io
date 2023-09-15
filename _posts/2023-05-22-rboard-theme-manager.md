@@ -124,7 +124,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 
 <div class="container-rboard">
       <div class="image-rboard">
-            <img class="rboard-image" src="/assets/images/rboard_app_3.png" data-position="center center"/>
+            <img class="rboard-image" data-position="center center"/>
       </div>
       <div class="text-rboard">
             <h2 style="margin-bottom: 1.5rem !important">Hundreds of themes for <span class="highlight-text">Gboard</span></h2>
