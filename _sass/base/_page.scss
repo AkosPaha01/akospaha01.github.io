@@ -705,3 +705,10 @@ label[for=rboard-debug] {
 html{
 	scroll-behavior: smooth;
 }
+
+html[data-theme='dark'] .rboard-image {
+	content: url("/assets/images/rboard_app_dark.png");
+}
+html[data-theme='light'] .rboard-image {
+	content: url("/assets/images/rboard_app_light.png");
+}
