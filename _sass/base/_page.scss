@@ -561,6 +561,10 @@ label[for=rboard-debug] {
 		display: flex;
 		padding: 2em 0 2em 0;
 		align-items: center;
+		margin-bottom: 2em;
+    	background-color: var(--bg-alt-2);	
+	
+		border-radius: 24px;
 	}
 }
 
@@ -589,7 +593,10 @@ label[for=rboard-debug] {
 	.container-rboard{
 		display: flex;
 		padding: 2em 0 2em 0;
+		margin-bottom: 2em;
 		align-items: center;
+    	background-color: var(--bg-alt-2);	
+		border-radius: 24px;
 	}
 }
 @media screen and (min-width: 1024px) and (max-width: 1439px) {
@@ -615,7 +622,10 @@ label[for=rboard-debug] {
 @media screen and (max-width: 1023px) {
 	.container-rboard {
   		display: block;
-  		padding: 2em 0 2em 0;
+  		padding: 2em 0 0.5em 0;
+		margin-bottom: 2em;
+    	background-color: var(--bg-alt-2);	
+		border-radius: 24px;
   	}
 }
 
@@ -632,6 +642,7 @@ label[for=rboard-debug] {
 	.text-rboard {
   		font-size: 20px;
 		text-align: center;
+		padding: 0em 1.5em 1.5em 1.5em;
   	}
 }
 
