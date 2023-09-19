@@ -141,7 +141,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 - Applying themes
 - Deleting themes
 - In-app app updater
-- Light/Dark for system theme switch (Android 10 and above)
+- Light/Dark for system theme switch (Android 10+)
 - Gboard flags import/export/edit
 - Gboard preferences import/export/edit
 - 3rd party theme repos support
@@ -244,6 +244,18 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
         <div class="faq-content">
           <p>
             <strong>Without ROOT</strong> it's not possible yet. That means no ADB tricks no nothing. We tried everything but doesn't work.
+          </p>
+        </div>
+      </details>
+      <details class="faq-box">
+        <summary class="faq-header">
+          <ul class="ul-summary"><li>Why are there two separate versions of Rboard Theme Manager V3?</li></ul>
+        </summary>
+        <div class="faq-content">
+          <p>
+            Actually <strong>Rboard Theme Manager V3</strong> at the very beginning, it was made for <strong>Android 12 and above</strong> (It works from Android 12 to the latest Android) by <strong>DerTyp7214</strong> (Main Developer) and was later backported till <strong>Android 6</strong> (It works from Android 6 to the latest Android) by <strong>Akos Paha</strong> and <strong>DerTyp7214</strong>, but somehow it turned out to be two separate APKs.<br><br>            
+            Both <strong>Rboard Theme Manager V3s</strong> know the same thing.<br><br>            
+            The difference is that the <strong>Android 12+ version</strong> is developed by <strong>DerTyp7214</strong> (and this is the regular Rboard Theme Manager V3), the <strong>Android 6+ version</strong> is just maintained by <strong>Akos Paha</strong> and sometimes <strong>DerTyp7214</strong> to work properly on all Androids back to <strong>Android 6</strong> and of course the other difference given by the Android version.<br><br>A port was made so that <strong>Rboard Theme Manager V3</strong> can be used retroactively on older devices back to <strong>Android 6</strong> and not only on <strong>Android 12 and above</strong>.
           </p>
         </div>
       </details>

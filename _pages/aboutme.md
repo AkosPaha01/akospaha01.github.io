@@ -54,7 +54,7 @@ image: /assets/images/og_image.png
           <h2>Skills</h2>
         </header>
         <div class="skills">
-                <div class="details">
+                <div class="">
                     <span>HTML</span>
                 </div>
                 <div class="bar">
