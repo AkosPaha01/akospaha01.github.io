@@ -140,7 +140,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 - Downloading themes
 - Applying themes
 - Deleting themes
-- In-app app updater
+- In-app App updater
 - Light/Dark for system theme switch (Android 10+)
 - Gboard flags import/export/edit
 - Gboard preferences import/export/edit
@@ -149,15 +149,15 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 - Theme/Sound preview
 - Widgets
 - Search for Themes/Sounds
-- Module-less option (less features but will work on coloros)
-- Monet and blur for Android 12+
+- Module-less option (less features but will work on Color OS)
+- Monet and blur (Android 12+)
 - Exporting and importing themes
 
 #### Known bugs:
 
 - MIUI users have to reboot each time they download themes or do the same what Color OS does
 Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
-- App won't work properly if you don't have connection to github
+- App won't work properly if you don't have connection to github (Use VPN)
 - Crashes on stock nubia rom
 - Sounds doesn't work on non AOSP roms
 
@@ -278,7 +278,7 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
                   <li>Edit <strong>crowdsource_uri</strong> and change it to blank (Only required if you are not using the latest <a href="#rboard-downloads">Rboard Theme Manager V3 Debug</a> version).</li>
                   <li>Go back and after that, any flag will work normally</li>
             </ul>
-            It should work with the latest <a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" target="_blank">Gboard</a> Beta (and a couple of beta versions before it).
+            It should work with the latest <a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" target="_blank">Gboard</a> Beta & Stable (and a couple of beta & stable versions before it).
           </p>
         </div>
       </details>
