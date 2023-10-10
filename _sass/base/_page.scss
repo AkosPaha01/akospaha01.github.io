@@ -510,15 +510,15 @@ label[for=rboard-debug] {
 		font-size: 1.125rem;
 	}
 	label[for=rboard-release] {
-		border-top-left-radius: 48px;
-		border-bottom-left-radius: 48px;
+		border-top-left-radius: 24px;
+		border-bottom-left-radius: 24px;
 		border-top-right-radius: 0px !important;
 		margin-bottom: 1em !important;
 	}
 	
 	label[for=rboard-debug] {
-		border-top-right-radius: 48px;
-		border-bottom-right-radius: 48px;
+		border-top-right-radius: 24px;
+		border-bottom-right-radius: 24px;
 		border-bottom-left-radius: 0px !important;
 	}
 	.tabs [type=radio]+label {
