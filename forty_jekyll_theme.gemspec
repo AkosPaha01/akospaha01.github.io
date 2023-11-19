@@ -13,5 +13,5 @@ Gem::Specification.new do |spec|
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
 
   spec.add_development_dependency "jekyll", "~> 4.3.2"
-  spec.add_development_dependency "bundler", "~> 2.4.21"
+  spec.add_development_dependency "bundler", "~> 2.4.22"
 end
