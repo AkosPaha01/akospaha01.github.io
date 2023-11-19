@@ -274,8 +274,6 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
                   <li>Change one of the flags</li>
                   <li>Go back and Open Rboard Settings again</li>
                   <li>Click <strong>"Copy flags"</strong></li>
-                  <li>Go back open Gboard Flags option and scroll down, open <strong>"All flags"</strong> (Only required if you are not using the latest <a href="#rboard-downloads">Rboard Theme Manager V3 Debug</a> version).</li>
-                  <li>Edit <strong>crowdsource_uri</strong> and change it to blank (Only required if you are not using the latest <a href="#rboard-downloads">Rboard Theme Manager V3 Debug</a> version).</li>
                   <li>Go back and after that, any flag will work normally</li>
             </ul>
             It should work with the latest <a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" target="_blank">Gboard</a> Beta & Stable (and a couple of beta & stable versions before it).

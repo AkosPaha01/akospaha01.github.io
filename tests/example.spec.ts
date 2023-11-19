@@ -31,8 +31,8 @@ test.describe('Test', async() => {
     });
 
     await expect(page.getByRole('heading', { name: 'Akos Paha' }).locator('b')).toBeVisible();
-    await expect(page.getByText('DerTyp7214')).toBeVisible();
-    await expect(page.getByText('Radek Bledowski')).toBeVisible();
+    await expect(page.getByRole('heading', { name: 'DerTyp7214' }).locator('b')).toBeVisible();
+    await expect(page.getByRole('heading', { name: 'Radek Bledowski' }).locator('b')).toBeVisible();
   })
 
   test('has download section', async ({page}) => {
