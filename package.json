@@ -5,13 +5,13 @@
   "main": "index.js",
   "devDependencies": {
     "@playwright/test": "^1.40.1",
-    "@types/node": "^20.10.3"
+    "@types/node": "^20.10.5"
   },
   "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "npm": "^10.2.4"
+    "npm": "^10.2.5"
   }
 }
