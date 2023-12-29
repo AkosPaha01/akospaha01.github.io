@@ -14,7 +14,7 @@ image: /assets/images/og_image.png
       <header class="major">
         <h2>About</h2>
       </header>
-      <p>My name is Akos Paha and I'm 21 years old, Manual and Automated Software Tester. I've been manual testing for a little over 7 years now and for about 1 year I've been automated testing in Python with Selenium (SeleniumBase framework). My main testing areas are website and mobile application testing, but I have knowledge in testing Mobile Operating Systems and many more.
+      <p>My name is Akos Paha and I'm 22 years old, Manual and Automated Software Tester. I've been manual testing for a little over 7 years now and for about 1 year I've been automated testing in Python with Selenium (SeleniumBase framework). My main testing areas are website and mobile application testing, but I have knowledge in testing Mobile Operating Systems and many more.
       </p>
     </div>
   </section>
@@ -54,7 +54,7 @@ image: /assets/images/og_image.png
           <h2>Skills</h2>
         </header>
         <div class="skills">
-                <div class="">
+                <div class="details">
                     <span>HTML</span>
                 </div>
                 <div class="bar">
@@ -75,6 +75,14 @@ image: /assets/images/og_image.png
                 </div>
                 <div class="bar">
                     <div class="tooltip" id="python-bar"><span class="tooltiptext">20%</span></div>
+                </div>
+            </div>
+        <div class="skills">
+                <div class="details">
+              <span>Typescript</span>
+                </div>
+                <div class="bar">
+                    <div class="tooltip" id="ts-bar"><span class="tooltiptext">5%</span></div>
                 </div>
             </div>
             <div class="skills">
