@@ -261,6 +261,15 @@ body {
     }
 }
 
+#ts-bar{
+    animation: ts-fill 2s forwards;
+}
+@keyframes ts-fill{
+    100%{
+        width: 5%;
+    }
+}
+
 #css-bar{
     animation: css-fill 2s forwards;
 }
@@ -310,11 +319,6 @@ body {
 @keyframes adobe-xd-fill{
     100%{
         width: 70%;
-    }
-} 
-@keyframes figma-fill{
-    100%{
-        width: 90%;
     }
 } 
 
