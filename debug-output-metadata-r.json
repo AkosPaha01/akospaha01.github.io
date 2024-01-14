@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "de.dertyp7214.rboardthememanager.debug",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 391008,
+      "versionName": "3.9.1",
+      "outputFile": "app-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}
