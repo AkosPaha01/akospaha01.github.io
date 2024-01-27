@@ -30,10 +30,10 @@ $size: (
 
 	@mixin light-appearance {
 	html, body {
-		--bg: #FFFFFF;
-		--bg-alt: #F3F6FC;
-		--bg-alt-2: #F8FAFD;
-		--bg-alt-desaturated: #ffffff;
+		--bg: rgb(230 214 218);
+		--bg-alt:rgb(250 234 238);
+		--bg-alt-2: rgb(244 228 232);
+		--bg-alt-desaturated: rgb(238 223 226);
 		--fg: #000000;
 		--fg-alt: #00000050;
 		--fg-bold: #000000;
@@ -41,28 +41,28 @@ $size: (
 		--fg-light:	rgba(11,11,0,0.8);
 		--border: rgba(43,43,0,0.1);
 		--border-bg:rgba(43,43,0,0.015);
-		--highlight: #0B57D0;
-		--highlight-opacity: #0B57D01A;
-		--highlight-desaturated: #0e60e1;
-		--highlight-dark: #073987;
-		--accent1: #c2e7ff;
-		--accent1-opacity: #c2e7ff1A;
-		--accent1-desaturated: #d3efff;
+		--highlight: rgb(86 63 0);
+		--highlight-opacity: #563f001A;
+		--highlight-desaturated: rgb(80 65 30);
+		--highlight-dark: rgb(137 103 11);
+		--accent1: rgb(255 209 82);
+		--accent1-opacity: #ffd1521A;
+		--accent1-desaturated: rgb(251 210 101);
 		--accent2: #2c0bd0;
 		--accent3: #d00b0b;
 		--accent4: #d06e0b;
 		--accent5: #0b46d0;
 		--accent6: #0bd067;
-		--btn-text: #ffffff;
+		--btn-text: rgb(255 255 255);
 	};
 	}
 	@mixin dark-appearance {
 		html, body  {
 			
-		--bg: #1f1f1f;
-		--bg-alt: #2D2F31;
-		--bg-alt-2: #28292A;
-		--bg-alt-desaturated: #38393a;
+		--bg: rgb(25 17 20);
+		--bg-alt: rgb(38 29 32);
+		--bg-alt-2: rgb(48 40 43);
+		--bg-alt-desaturated: rgb(60 50 53);
 		--fg: #ffffff;
 		--fg-alt: #ffffff50;
 		--fg-bold: #ffffff;
@@ -70,19 +70,19 @@ $size: (
 		--fg-light:	rgba(244,244,255,0.2);
 		--border:rgba(212,212,255,0.1);
 		--border-bg:rgba(212,212,255,0.015);
-		--highlight: #A8C7FA;
-		--highlight-opacity: #A8C7FA1A;
-		--highlight-desaturated: #bcd4fa;
-		--highlight-dark: #6098f6;
-		--accent1: #004A77;
-		--accent1-opacity: #004A771A;
-		--accent1-desaturated: #01568a;
+		--highlight: rgb(241 197 101);
+		--highlight-opacity: #f1c5651A;
+		--highlight-desaturated: rgb(224 200 155);
+		--highlight-dark: rgb(177 139 49);
+		--accent1:rgb(67 52 19);
+		--accent1-opacity: #4334131A;
+		--accent1-desaturated: rgb(71 51 0);
 		--accent2: #8d82c4;
 		--accent3: #ec8d81;
 		--accent4: #e7b788;
 		--accent5: #8ea9e8;
 		--accent6: #87c5a4;		
-		--btn-text: #062e6f;
+		--btn-text: rgb(25 16 0);
 	};
 	}
 	html[data-theme="dark"] {
