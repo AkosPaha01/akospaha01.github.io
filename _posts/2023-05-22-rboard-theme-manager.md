@@ -276,7 +276,6 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
                   <li>Click <strong>"Copy flags"</strong></li>
                   <li>Go back and after that, any flag will work normally</li>
             </ul>
-            It should work with the latest <a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" target="_blank">Gboard</a> Beta & Stable (and a couple of beta & stable versions before it).
           </p>
         </div>
       </details>

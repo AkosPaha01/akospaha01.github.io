@@ -1,11 +1,11 @@
 {
   "name": "akospaha01.github.io",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[![Deploy Jekyll site to Pages](https://github.com/AkosPaha01/akospaha01.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/AkosPaha01/akospaha01.github.io/actions/workflows/jekyll.yml)",
   "main": "index.js",
   "devDependencies": {
     "@playwright/test": "^1.41.1",
-    "@types/node": "^20.11.6"
+    "@types/node": "^20.11.8"
   },
   "scripts": {},
   "keywords": [],
