@@ -11,8 +11,8 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 390000,
-      "versionName": "3.9.0",
+      "versionCode": 392000,
+      "versionName": "3.9.2",
       "outputFile": "app-release-unsigned.apk"
     }
   ],
