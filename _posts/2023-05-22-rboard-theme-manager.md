@@ -7,7 +7,8 @@ project: true
 permalink: /projects/:title/
 tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes
 ---
-<span class="image main" ><img src="/assets/images/Banner_Rboard.png" style="border-radius: 24px;" alt="Rboard Theme Manager" /></span>
+
+<span class="image main" ><img src="/assets/images/Banner_Rboard.png" style="border-radius: 24px; " alt="Rboard Theme Manager" /></span>
 
 #### Info:
 
@@ -16,6 +17,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 #### Team:
 
 <div class="container-fluid">
+
             <div class="column-rboard">
                   <div class="card">
                         <img class="card-image" src="https://avatars.githubusercontent.com/u/37804065?v=4" alt="DerTyp7214">
@@ -114,15 +116,16 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 
 #### Introductions:
 
-- Make sure you are using Magisk ROOTED Android 6.0+
-- Download and Install the Rboard Theme Manager
-- Grant root and choose option for Module/Gboard (Gboard option should be used in case the module one doesn't)
-- Setting up the Rboard Theme Manager.
-- After you done the setting up, Go to the middle button with the arrow down called download and pick the theme packs you want to download and then click fab button to install
-- Apply Theme
-- Enjoy
+* Make sure you are using Magisk ROOTED Android 6.0+
+* Download and Install the Rboard Theme Manager
+* Grant root and choose option for Module/Gboard (Gboard option should be used in case the module one doesn't)
+* Setting up the Rboard Theme Manager.
+* After you done the setting up, Go to the middle button with the arrow down called download and pick the theme packs you want to download and then click fab button to install
+* Apply Theme
+* Enjoy
 
 <div class="container-rboard">
+
       <div class="image-rboard">
             <img class="rboard-image" data-position="center center"/>
       </div>
@@ -133,39 +136,41 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
             <li style="padding: 0 0 0 0 !important;"><a href="#rboard-downloads" class="button special read-more" style="color: var(--btn-text) !important;">Get Rboard V3</a></li>
       </ul>
       </div>  
+
 </div>
 
 #### Features:
 
-- Downloading themes
-- Applying themes
-- Deleting themes
-- In-app App updater
-- Light/Dark for system theme switch (Android 10+)
-- Gboard flags import/export/edit
-- Gboard preferences import/export/edit
-- 3rd party theme repos support
-- System Click sounds customization
-- Theme/Sound preview
-- Widgets
-- Search for Themes/Sounds
-- Module-less option (less features but will work on Color OS)
-- Monet and blur (Android 12+)
-- Exporting and importing themes
+* Downloading themes
+* Applying themes
+* Deleting themes
+* In-app App updater
+* Light/Dark for system theme switch (Android 10+)
+* Gboard flags import/export/edit
+* Gboard preferences import/export/edit
+* 3rd party theme repos support
+* System Click sounds customization
+* Theme/Sound preview
+* Widgets
+* Search for Themes/Sounds
+* Module-less option (less features but will work on Color OS)
+* Monet and blur (Android 12+)
+* Exporting and importing themes
 
 #### Known bugs:
 
-- MIUI users have to reboot each time they download themes or do the same what Color OS does
-Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
-- App won't work properly if you don't have connection to github (Use VPN)
-- Crashes on stock nubia rom
-- Sounds doesn't work on non AOSP roms
+* MIUI users have to reboot each time they download themes or do the same what Color OS does
+  Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
+* App won't work properly if you don't have connection to github (Use VPN)
+* Crashes on stock nubia rom
+* Sounds doesn't work on non AOSP roms
 
 <a id="rboard-downloads"></a>
 
 #### Downloads:
 
 <div class="site-wrapper">
+
       <section id="rboard-download-section" class="tabs-wrapper">
 		<div class="tabs-container">
 			<div class="tabs-block">
@@ -236,7 +241,9 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
 	</div>
 
 #### Frequently Asked Questions:
+
 <div class="faq-container">
+
       <details class="faq-box" open>
         <summary class="faq-header">
           <ul class="ul-summary"><li>Does Rboard Theme Manager V3 work without ROOT?</li></ul>
@@ -347,19 +354,38 @@ Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
           </p>
         </div>
       </details>
+
 </div>
 
 #### Links:
 
-<ul class="actions" style="margin-bottom: 0 !important; ">
-
-      <li style="padding-bottom: 1em !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3" class="button" target="_blank">Github</a></li>
-      <li style="padding-bottom: 1em !important;"><a href="https://rboard.dev/rboard" class="button" target="_blank">Website</a></li>
-      <li style="padding-bottom: 1em !important;"><a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="button" target="_blank">XDA</a></li>
-      <li style="padding-bottom: 1em !important;"><a href="https://t.me/rkbdigboard" class="button" target="_blank">Telegram Channel</a></li>
-      <li style="padding-bottom: 1em !important;"><a href="https://t.me/gboardthemes" class="button" target="_blank">Telegram Group</a></li>
-
+<ul class="actions">
+   <li>
+      <a href="https://github.com/DerTyp7214/RboardThemeManagerV3" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
+      <span class="label">Github</span>
+      </a>
+   </li>
+   <li>
+      <a href="https://rboard.dev/rboard" class="icon alt fa-globe" target="_blank" rel="noopener noreferrer" aria-label="Website">
+      <span class="label">Website</span>
+      </a>
+   </li>
+   <li>
+      <a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="icon alt fa-message" target="_blank" rel="noopener noreferrer" aria-label="XDA Forum">
+      <span class="label">XDA Forum</span>
+      </a>
+   </li>
+   <li>
+      <a href="https://t.me/rkbdigboard" class="icon alt fa-telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
+      <span class="label">Telegram Channel</span>
+      </a>
+   </li>
+   <li>
+      <a href="https://t.me/gboardthemes" class="icon alt fa-telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
+      <span class="label">Telegram Group</span>
+      </a>
+   </li>
 </ul>
 
-<h4>License:</h4>
+#### License:
 Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="">LICENSE</a>
