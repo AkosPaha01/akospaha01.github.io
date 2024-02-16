@@ -25,11 +25,11 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                               <h4><b>DerTyp7214</b></h4>
                               <p>Lead Developer</p>
                               <ul class="icons actions card-button">
-                                    <li>
+                                    <!-- <li>
                                           <a href="https://dertyp7214.de/" class="icon alt fa-globe" target="_blank" rel="noopener noreferrer" aria-label="Website">
                                                 <span class="label">Website</span>
                                           </a>
-                                    </li>
+                                    </li> -->
                                     <li>
                                           <a href="https://github.com/DerTyp7214" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
                                                 <span class="label">Github</span>
@@ -365,11 +365,11 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
       <span class="label">Github</span>
       </a>
    </li>
-   <li>
+   <!-- <li>
       <a href="https://rboard.dev/rboard" class="icon alt fa-globe" target="_blank" rel="noopener noreferrer" aria-label="Website">
       <span class="label">Website</span>
       </a>
-   </li>
+   </li> -->
    <li>
       <a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="icon alt fa-message" target="_blank" rel="noopener noreferrer" aria-label="XDA Forum">
       <span class="label">XDA Forum</span>
