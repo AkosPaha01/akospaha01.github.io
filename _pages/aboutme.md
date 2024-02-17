@@ -10,6 +10,7 @@ image: /assets/images/og_image.png
 <div id="main" class="alt">
   <!-- One -->
   <section id="one">
+
     <div class="inner">
       <header class="major">
         <h2>About</h2>
@@ -17,10 +18,11 @@ image: /assets/images/og_image.png
       <p>My name is Akos Paha and I'm 22 years old, Manual and Automated Software Tester. I've been manual testing for a little over 7 years now and for about 1 year I've been automated testing in Python with Selenium (SeleniumBase framework). My main testing areas are website and mobile application testing, but I have knowledge in testing Mobile Operating Systems and many more.
       </p>
     </div>
+
   </section>
 
-  
   <div class="inner">
+
     <!-- <header class="major">
       <h2>Backstory</h2>
     </header>
@@ -126,9 +128,11 @@ image: /assets/images/og_image.png
           <h2>Hobbies</h2>
         </header>
         <p>
+
           - Testing website and applications<br/>
           - 3D Rendering<br/>
           <!-- - <a href="gboard-themes">Creating Google keyboard themes</a><br/> -->
+
           - Listening music<br />
           - Talking with friend<br />
           - <a href="https://www.instagram.com/akos_paha/" target="_blank">Photography</a><br/>
@@ -140,7 +144,9 @@ image: /assets/images/og_image.png
     </header>
     <p>
       <h3>Creating lots of Gboard Themes.</h3><br>
-      <a href="https://github.com/akospaha01" class="button" target="_blank">Github</a>
+      <a href="https://github.com/akospaha01" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
+            <span class="label">Github</span>
+        </a>
     </p>
     <p>
     <header class="major">
@@ -149,18 +155,45 @@ image: /assets/images/og_image.png
     <span class="image main"><img src="/assets/images/Banner_Rboard.png" style="border-radius: 24px;" alt="Rboard Theme Manager" /></span>
       <h4>Manager app for the "Gboard - the Google Keyboard".</h4>
       <ul class="actions">
-      <li><a href="https://github.com/DerTyp7214/RboardThemeManagerV3" class="button" target="_blank">Github</a></li>
-      <li><a href="https://rboard.dev/rboard" class="button" target="_blank">Website</a></li>
-      <li><a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="button" target="_blank">XDA</a></li>
+      <li>
+            <a href="https://github.com/DerTyp7214/RboardThemeManagerV3" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
+            <span class="label">Github</span>
+            </a>
+        </li>
+      <li>
+      <a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="icon alt fa-message" target="_blank" rel="noopener noreferrer" aria-label="XDA Forum">
+      <span class="label">XDA Forum</span>
+      </a>
+
+   </li>
+   <li>
+
+      <a href="https://t.me/rkbdigboard" class="icon alt fa-telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
+      <span class="label">Telegram Channel</span>
+      </a>
+
+   </li>
+   <li>
+
+      <a href="https://t.me/gboardthemes" class="icon alt fa-telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
+      <span class="label">Telegram Group</span>
+      </a>
+
+   </li>
+
       </ul>
     </p>
+
    <!--  <header class="major">
+
       <h2>Current Projects</h2>
     </header> -->
+
   </div>
 
   <!-- Two -->
   <!-- <section id="two" class="spotlights">
+
     <section>
       <a href="" class="image">
         <img
@@ -185,7 +218,9 @@ image: /assets/images/og_image.png
         </div>
       </div>
     </section>
+
   <section>
+
       <a href="" class="image">
         <img
           src="assets/images/kép.webp"
@@ -208,4 +243,5 @@ image: /assets/images/og_image.png
           </ul>
          </div>
       </div>
+
   </section> -->
