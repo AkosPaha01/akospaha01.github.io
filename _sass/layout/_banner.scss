@@ -47,9 +47,9 @@
 		> .inner {
 			@include vendor('transition', (
 				'opacity 0.75s ease',
-				'transform 0.5s ease-out',
-				'filter 0.5s ease',
-				'-webkit-filter 0.5s ease'
+				'transform 0.4s ease-out',
+				'filter 0.4s ease',
+				'-webkit-filter 0.4s ease'
 			));
 			padding: 0 !important;
 			position: relative;
