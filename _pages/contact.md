@@ -53,7 +53,7 @@ image: /assets/images/og_image.png
       </section>
       <section>
         <div class="contact-method">
-          <span class="icon alt fa-home"></span>
+          <span class="icon alt fa-house"></span>
           <h3>Address</h3>
           <span>
             {% if site.street_address %}

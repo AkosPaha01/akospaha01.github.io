@@ -33,7 +33,7 @@
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.85;
+			opacity: 0.75;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -46,7 +46,7 @@
 
 		> .inner {
 			@include vendor('transition', (
-				'opacity 1.25s ease',
+				'opacity 0.75s ease',
 				'transform 0.5s ease-out',
 				'filter 0.5s ease',
 				'-webkit-filter 0.5s ease'
