@@ -133,7 +133,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
             <h2 style="margin-bottom: 1.5rem !important">Hundreds of themes for <span class="highlight-text">Gboard</span></h2>
             <p>Rboard Theme Manager V3 includes tens of theme packs and hundreds of beautiful unique <strong><a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" target="_blank">"Gboard - the Google Keyboard"</a></strong> themes from different theme creators.</p>
       <ul class="actions card-button">
-            <li style="padding: 0 0 0 0 !important;"><a href="#rboard-downloads" class="button special read-more" style="color: var(--btn-text) !important;">Get Rboard V3</a></li>
+            <li style="padding: 0 0 0 0 !important;"><a href="#rboard-downloads" class="button special read-more icon fa-file-arrow-down" style="color: var(--btn-text) !important;">Get Rboard V3</a></li>
       </ul>
       </div>  
 
@@ -170,75 +170,75 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 #### Downloads:
 
 <div class="site-wrapper">
-
-      <section id="rboard-download-section" class="tabs-wrapper">
-		<div class="tabs-container">
-			<div class="tabs-block">
-				<div class="tabs">
-					<input type="radio" name="tabs" id="rboard-release" checked="checked" />
-					<label for="rboard-release">Release Builds</label>
-					<div class="tab">
-						<div class="container-fluid-download">
-                                          <div class="column-rboard">
-                                                <div class="card">
-                                                      <div class="container-card">
-                                                      <h4><b>Android 6 and Up</b></h4>
-                                                            <div id="rboardversion-a6-release-name" class="rboard-text">Latest Version Name: </div>
-                                                            <div id="rboardversion-a6-release-code" class="rboard-text">Latest Version Code: </div>                                                            <ul class="actions card-button">
-                                                                  <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible" class="button special read-more" target="_blank" style="color: var(--btn-text) !important;">A6+ Release</a></li>
-                                                            </ul>
-                                                      </div>
-                                                </div>
-                                          </div>
-                                          <div class="column-rboard">
-                                                <div class="card">
-                                                      <div class="container-card">
-                                                            <h4><b>Android 12 and Up</b></h4>
-                                                            <div id="rboardversion-a12-release-name" class="rboard-text">Latest Version Name: </div>
-                                                            <div id="rboardversion-a12-release-code" class="rboard-text">Latest Version Code: </div>                 
-                                                            <ul class="actions card-button">
-                                                                  <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest" class="button special read-more" target="_blank" style="color: var(--btn-text) !important;">A12+ Release</a></li>
-                                                            </ul>
-                                                      </div>
-                                                </div>
-                                          </div>  
-                                    </div>
-					</div>
-					<input type="radio" name="tabs" id="rboard-debug" />
-					<label for="rboard-debug">Debug Builds</label>
-					<div class="tab">
-						<div class="container-fluid-download">
-                                          <div class="column-rboard">
-                                                <div class="card">                                                                  
-                                                      <div class="container-card">
-                                                            <h4><b>Android 6 and Up</b></h4>
-                                                            <div id="rboardversion-a6-debug-name" class="rboard-text">Latest Version Name: </div>
-                                                            <div id="rboardversion-a6-debug-code" class="rboard-text">Latest Version Code: </div>
-                                                                  <ul class="actions card-button">
-                                                                        <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible-debug" class="button special read-more" target="_blank" style="color: var(--btn-text) !important;">A6+ Debug</a></li>
-                                                                  </ul>
-                                                            </div>
-                                                      </div>
-                                                </div>
-                                                <div class="column-rboard">
-                                                      <div class="card">
-                                                            <div class="container-card">
-                                                                  <h4><b>Android 12 and Up</b></h4>
-                                                                  <div id="rboardversion-a12-debug-name" class="rboard-text">Latest Version Name: </div>
-                                                                  <div id="rboardversion-a12-debug-code" class="rboard-text">Latest Version Code: </div>
-                                                                  <ul class="actions card-button">
-                                                                        <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-debug" class="button special read-more" target="_blank" style="color: var(--btn-text) !important;">A12+ Debug</a></li>
-                                                                  </ul>
-                                                            </div>
-                                                      </div>
-                                                </div>                                               
-                                          </div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-	</div>
+   <section id="rboard-download-section" class="tabs-wrapper">
+      <div class="tabs-container">
+         <div class="tabs-block">
+            <div class="tabs">
+               <input type="radio" name="tabs" id="rboard-release" checked="checked" />
+               <label for="rboard-release">Release Builds</label>
+               <div class="tab">
+                  <div class="container-fluid-download">
+                     <div class="column-rboard">
+                        <div class="card">
+                           <div class="container-card">
+                              <h4><b>Android 6 and Up</b></h4>
+                              <div id="rboardversion-a6-release-name" class="rboard-text">Latest Version Name: </div>
+                              <div id="rboardversion-a6-release-code" class="rboard-text">Latest Version Code: </div>
+                              <ul class="actions card-button">
+                                 <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible" class="button special read-more icon fa-github" target="_blank" style="color: var(--btn-text) !important;">A6+ Release</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="column-rboard">
+                        <div class="card">
+                           <div class="container-card">
+                              <h4><b>Android 12 and Up</b></h4>
+                              <div id="rboardversion-a12-release-name" class="rboard-text">Latest Version Name: </div>
+                              <div id="rboardversion-a12-release-code" class="rboard-text">Latest Version Code: </div>
+                              <ul class="actions card-button">
+                                 <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest" class="button special read-more icon fa-github" target="_blank" style="color: var(--btn-text) !important;">A12+ Release</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <input type="radio" name="tabs" id="rboard-debug" />
+               <label for="rboard-debug">Debug Builds</label>
+               <div class="tab">
+                  <div class="container-fluid-download">
+                     <div class="column-rboard">
+                        <div class="card">
+                           <div class="container-card">
+                              <h4><b>Android 6 and Up</b></h4>
+                              <div id="rboardversion-a6-debug-name" class="rboard-text">Latest Version Name: </div>
+                              <div id="rboardversion-a6-debug-code" class="rboard-text">Latest Version Code: </div>
+                              <ul class="actions card-button">
+                                 <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible-debug" class="button special read-more icon fa-github" target="_blank" style="color: var(--btn-text) !important;">A6+ Debug</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="column-rboard">
+                        <div class="card">
+                           <div class="container-card">
+                              <h4><b>Android 12 and Up</b></h4>
+                              <div id="rboardversion-a12-debug-name" class="rboard-text">Latest Version Name: </div>
+                              <div id="rboardversion-a12-debug-code" class="rboard-text">Latest Version Code: </div>
+                              <ul class="actions card-button">
+                                 <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-debug" class="button special read-more icon fa-github" target="_blank" style="color: var(--btn-text) !important;">A12+ Debug</a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+</div>
 
 #### Frequently Asked Questions:
 

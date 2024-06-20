@@ -1,0 +1,30 @@
+{
+  "config": {
+    "themes": [
+      {
+        "id": "1",
+        "name": "Material3 Packs",
+        "description": "The pack is based on Google's Default Material3 themes.",
+        "link": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Material3_Pack.zip",
+        "file_size": "136 KB",
+        "file_name": "Material3_Pack.zip"
+      },
+      {
+        "id": "2",
+        "name": "MPack Dark",
+        "description": "The pack is based on Google's Dynamic Monet themes.",
+        "link": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/MPack_Dark.zip",
+        "file_size": "842 KB",
+        "file_name": "MPack_Dark.zip"
+      },
+      {
+        "id": "3",
+        "name": "MPack Light",
+        "description": "The pack is based on Google's Dynamic Monet themes.",
+        "link": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/MPack_Light.zip",
+        "file_size": "782 KB",
+        "file_name": "MPack_Light.zip"
+      }
+      ]
+  }
+}
