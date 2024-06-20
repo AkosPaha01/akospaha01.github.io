@@ -4,7 +4,7 @@ title: Gboard Themes
 nav-menu: false
 tags: Gboards Themes Google Morethemes 
 description: Gboard Themes
-image: /assets/images/Banner_Rboard.png
+image: /assets/images/Banner_Rboard.webp
 ---
 
 <div id="main" class="alt">

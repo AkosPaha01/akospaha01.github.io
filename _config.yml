@@ -16,7 +16,7 @@ phone:
 logo: "/assets/images/logo.ico" # has to be a jpg image
 
 # homepage config
-tiles-count: 6
+tiles-count: 3
 post-tiles: true
 projects-tiles: true
 home-about: false

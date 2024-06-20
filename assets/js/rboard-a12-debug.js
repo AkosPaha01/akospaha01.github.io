@@ -1,4 +1,4 @@
-$.getJSON('/debug-output-metadata.json', function(data) {
+$.getJSON('../../assets/json/debug-output-metadata.json', function(data) {
         var versionName = data.elements[0].versionName;
         var versionCode = data.elements[0].versionCode;
         $("#rboardversion-a12-debug-name").append(versionName);
