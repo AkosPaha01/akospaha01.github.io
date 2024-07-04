@@ -5,12 +5,12 @@ title: Material3 Pack
 nav-menu: false
 tags: Gboards Themes Google Material3
 description: Material3 Themes
-image: /assets/images/material-3/material-3-image-desktop.png
+image: /assets/images/material-3/material-3-image-desktop.webp
 ---
 
 <div id="main" class="alt">
    <div class="inner">
-      <span class="image main material-3" style="margin-top: -2em !important;"></span>
+      <span class="image main material-3" alt="Material3 Pack" style="margin-top: -2em !important;"></span>
       <h3 >{{ page.description }}</h3>
       <p id="material-3-desc"></p>
       <div class="container-fluid-download">

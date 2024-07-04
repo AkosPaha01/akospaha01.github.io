@@ -8,7 +8,7 @@ permalink: /projects/:title/
 tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboard Custom Themes
 ---
 
-<span class="image main" ><img src="/assets/images/Banner_Rboard.webp" style="border-radius: 24px; " alt="Rboard Theme Manager" /></span>
+<span class="image main" ><img src="/assets/images/Banner_Rboard.webp" style="border-radius: 24px;" alt="Rboard Theme Manager" /></span>
 
 #### Info:
 
@@ -17,7 +17,6 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 #### Team:
 
 <div class="container-fluid">
-
             <div class="column-rboard">
                   <div class="card">
                         <img class="card-image" src="https://avatars.githubusercontent.com/u/37804065?v=4" alt="DerTyp7214">
@@ -51,7 +50,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
             </div>
             <div class="column-rboard">
                   <div class="card">
-                        <img class="card-image" src="https://avatars.githubusercontent.com/u/131550765?v=4" alt="AkosPaha">
+                        <img class="card-image" src="https://avatars.githubusercontent.com/u/131550765?v=4" alt="Akos Paha">
                         <div class="container-card">
                               <h4><b>Akos Paha</b></h4>
                               <p>Developer & Themer</p>
@@ -82,7 +81,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
             </div>
             <div class="column-rboard">
                   <div class="card">
-                        <img class="card-image" src="https://avatars.githubusercontent.com/u/22264125?v=4" alt="RadekBledowski">
+                        <img class="card-image" src="https://avatars.githubusercontent.com/u/22264125?v=4" alt="Radek Bledowski">
                         <div class="container-card">
                               <h4><b>Radek Bledowski</b></h4>
                               <p>Owner & Themer</p>
@@ -125,9 +124,8 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 * Enjoy
 
 <div class="container-rboard">
-
       <div class="image-rboard">
-            <img class="rboard-image" data-position="center center"/>
+            <img class="rboard-image" alt="Rboard Theme Manager" data-position="center center"/>
       </div>
       <div class="text-rboard">
             <h2 style="margin-bottom: 1.5rem !important">Hundreds of themes for <span class="highlight-text">Gboard</span></h2>
@@ -243,7 +241,6 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 #### Frequently Asked Questions:
 
 <div class="faq-container">
-
       <details class="faq-box" open>
         <summary class="faq-header">
           <ul class="ul-summary"><li>Does Rboard Theme Manager V3 work without ROOT?</li></ul>

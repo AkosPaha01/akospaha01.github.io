@@ -3,7 +3,7 @@ layout: page
 title: Contact
 nav-menu: true
 description: Contact
-image: /assets/images/og_image.png
+image: /assets/images/og_image.webp
 ---
 
 <!-- Contact -->

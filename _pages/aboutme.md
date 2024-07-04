@@ -3,7 +3,7 @@ layout: page
 title: About me
 nav-menu: true
 description: About me
-image: /assets/images/og_image.png
+image: /assets/images/og_image.webp
 ---
 
 <!-- Main -->

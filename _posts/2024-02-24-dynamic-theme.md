@@ -5,15 +5,80 @@ title: Monet Dark & Light Pack
 nav-menu: false
 tags: Gboards Themes Google Material3
 description: Monet Dark & Light Themes
-image: /assets/images/dynamic-d-l/dynamic-d-l-image-desktop.png
+image: /assets/images/dynamic-d-l/dynamic-d-l-image-desktop.webp
 ---
-
 <div id="main" class="alt">
    <div class="inner">
-      <span class="image main dynamic-d-l" style="margin-top: -2em !important;"></span>
+      <span class="image main dynamic-d-l" alt="Monet Dark & Light Pack" style="margin-top: -2em !important;"></span>
       <h3 >{{ page.description }}</h3>
       <p id="dynamic-d-l-desc"></p>
       <div class="site-wrapper">
+         <!-- <div class="container-rboard">
+            <div class="image-rboard">
+                  <div class="slideshow-container">
+                     <div class="mySlides fade">
+                        <img class="dynamic-d-l-aquamarine"  data-position="center center"  rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-aquamarine" style="width:100%">
+                     </div>
+                     <div class="mySlides fade">
+                        <img class="dynamic-d-l-cosmos_orange" data-position="center center"  rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-cosmos_orange" style="width:100%">
+                     </div>
+                     <div class="mySlides fade">
+                        <img class="dynamic-d-l-electric_blue" data-position="center center"  rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-electric_blue" style="width:100%">
+                     </div>
+                     <div class="mySlides fade">
+                        <img class="dynamic-d-l-gainsboro" data-position="center center"  rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-gainsboro" style="width:100%">
+                     </div>
+                     <div class="mySlides fade">
+                        <img class="dynamic-d-l-hawkes_blue" data-position="center center"  rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-hawkes_blue" style="width:100%">
+                     </div>
+                     <div class="mySlides fade">
+                        <img class="dynamic-d-l-onahau" data-position="center center"  rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-onahau" style="width:100%">
+                     </div>
+                     <div class="mySlides fade">
+                        <img class="dynamic-d-l-pale_pink" data-position="center center"  rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-pale_pink" style="width:100%">
+                     </div>
+                     <div class="mySlides fade">
+                        <img class="dynamic-d-l-patterns_blue" data-position="center center"  rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-patterns_blue" style="width:100%">
+                     </div>
+                     <div class="mySlides fade">
+                        <img class="dynamic-d-l-selago" data-position="center center"  rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-selago" style="width:100%">
+                     </div>
+                     <div class="mySlides fade">
+                        <img class="dynamic-d-l-soft_peach" data-position="center center"  rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-soft_peach" style="width:100%">
+                     </div>
+                     <div class="mySlides fade">
+                        <img class="dynamic-d-l-sulu_green" data-position="center center"  rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-sulu_green" style="width:100%">
+                     </div>
+                     <div class="mySlides fade">
+                        <img class="dynamic-d-l-texas_yellow" data-position="center center"  rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-texas_yellow" style="width:100%">
+                     </div>
+                     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                     <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                  </div>
+                  <br>
+                  <div style="text-align:center">
+                     <span class="dot" onclick="currentSlide(1)"></span>
+                     <span class="dot" onclick="currentSlide(2)"></span>
+                     <span class="dot" onclick="currentSlide(3)"></span>
+                     <span class="dot" onclick="currentSlide(4)"></span>
+                     <span class="dot" onclick="currentSlide(5)"></span>
+                     <span class="dot" onclick="currentSlide(6)"></span>
+                     <span class="dot" onclick="currentSlide(7)"></span>
+                     <span class="dot" onclick="currentSlide(8)"></span>
+                     <span class="dot" onclick="currentSlide(9)"></span>
+                     <span class="dot" onclick="currentSlide(10)"></span>
+                     <span class="dot" onclick="currentSlide(11)"></span>
+                     <span class="dot" onclick="currentSlide(12)"></span>
+                  </div>
+            </div>
+            <div class="text-rboard">
+               <h2 style="margin-bottom: 1.5rem !important">Hundreds of themes for <span class="highlight-text">Gboard</span></h2>
+               <p>Rboard Theme Manager V3 includes tens of theme packs and hundreds of beautiful unique <strong><a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" target="_blank">"Gboard - the Google Keyboard"</a></strong> themes from different theme creators.</p>
+               <ul class="actions card-button">
+                  <li style="padding: 0 0 0 0 !important;"><a href="#rboard-downloads" class="button special read-more icon fa-file-arrow-down" style="color: var(--btn-text) !important;">Get Rboard V3</a></li>
+               </ul>
+            </div>
+         </div> -->
          <section id="rboard-download-section" class="tabs-wrapper">
             <div class="tabs-container">
                <div class="tabs-block">
@@ -89,7 +154,5 @@ image: /assets/images/dynamic-d-l/dynamic-d-l-image-desktop.png
       </div>
    </div>
 </div>
-
-
 <h4>License:</h4>
 Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>

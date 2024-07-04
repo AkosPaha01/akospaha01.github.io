@@ -4,8 +4,8 @@
   "description": "[![Deploy Jekyll site to Pages](https://github.com/AkosPaha01/akospaha01.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/AkosPaha01/akospaha01.github.io/actions/workflows/jekyll.yml)",
   "main": "index.js",
   "devDependencies": {
-    "@playwright/test": "^1.44.1",
-    "@types/node": "^20.14.6"
+    "@playwright/test": "^1.45.1",
+    "@types/node": "^20.14.9"
   },
   "scripts": {},
   "keywords": [],

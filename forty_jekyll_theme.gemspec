@@ -15,5 +15,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "liquid", "~> 5.5.0"
   spec.add_development_dependency "safe_yaml", "~> 1.0.5"
   spec.add_development_dependency "jekyll", "~> 4.3.3"
-  spec.add_development_dependency "bundler", "~> 2.5.13"
+  spec.add_development_dependency "bundler", "~> 2.5.14"
 end
