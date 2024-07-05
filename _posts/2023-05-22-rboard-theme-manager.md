@@ -12,7 +12,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 
 #### Info:
 
-> Rboard Theme Manager V3 is a theme manager for the <a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" target="_blank">"Gboard - the Google Keyboard"</a>.<br>
+> Rboard Theme Manager V3 is a theme manager for the <a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" class="highlight-text" target="_blank">"Gboard - the Google Keyboard"</a><br>
 
 #### Team:
 
@@ -129,7 +129,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
       </div>
       <div class="text-rboard">
             <h2 style="margin-bottom: 1.5rem !important">Hundreds of themes for <span class="highlight-text">Gboard</span></h2>
-            <p>Rboard Theme Manager V3 includes tens of theme packs and hundreds of beautiful unique <strong><a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" target="_blank">"Gboard - the Google Keyboard"</a></strong> themes from different theme creators.</p>
+            <p>Rboard Theme Manager V3 includes tens of theme packs and hundreds of beautiful unique <strong><a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" class="highlight-text" target="_blank">"Gboard - the Google Keyboard"</a></strong> themes from different theme creators.</p>
       <ul class="actions card-button">
             <li style="padding: 0 0 0 0 !important;"><a href="#rboard-downloads" class="button special read-more icon fa-file-arrow-down" style="color: var(--btn-text) !important;">Get Rboard V3</a></li>
       </ul>
@@ -337,7 +337,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
         <div class="faq-content">
           <p>
             If you have problem with Rboard Theme Manager V3 not loading use <strong>VPN</strong>.
-            <a href="https://twitter.com/squeal/status/1609515053237309448" target="_blank">India blocked GitHub</a> and Gitlab and this is where we are hosting everything Rboard related.
+            <a href="https://twitter.com/squeal/status/1609515053237309448" class="highlight-text" target="_blank">India blocked GitHub</a> and Gitlab and this is where we are hosting everything Rboard related.
           </p>
         </div>
       </details>
@@ -385,4 +385,4 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 </ul>
 
 #### License:
-Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="">LICENSE</a>
+Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>

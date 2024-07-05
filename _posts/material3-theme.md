@@ -8,7 +8,7 @@ description: Material3 Themes
 image: /assets/images/material-3/material-3-image-desktop.webp
 ---
 
-<div id="main" class="alt">
+<div id="main" class="alt" style="border-bottom: solid 0px var(--border) !important;">
    <div class="inner">
       <span class="image main material-3" alt="Material3 Pack" style="margin-top: -2em !important;"></span>
       <h3 >{{ page.description }}</h3>
@@ -45,4 +45,4 @@ image: /assets/images/material-3/material-3-image-desktop.webp
 </div>
 
 <h4>License:</h4>
-Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
+Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
