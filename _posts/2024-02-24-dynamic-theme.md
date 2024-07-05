@@ -17,40 +17,40 @@ image: /assets/images/dynamic-d-l/dynamic-d-l-image-desktop.webp
             <div class="image-rboard">
                   <div class="slideshow-container">
                      <div class="mySlides fade">
-                        <img class="dynamic-d-l-1"  data-position="center center" rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-1" style="width:100%">
+                        <img class="dynamic-d-l-1"  data-position="center center" rel="preload" as="image" loading="lazy" alt="dynamic-d-l-1" style="width:100%">
                      </div>
                      <div class="mySlides fade">
-                        <img class="dynamic-d-l-2" data-position="center center" rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-2" style="width:100%">
+                        <img class="dynamic-d-l-2" data-position="center center" rel="preload" as="image" loading="lazy" alt="dynamic-d-l-2" style="width:100%">
                      </div>
                      <div class="mySlides fade">
-                        <img class="dynamic-d-l-3" data-position="center center" rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-3" style="width:100%">
+                        <img class="dynamic-d-l-3" data-position="center center" rel="preload" as="image" loading="lazy" alt="dynamic-d-l-3" style="width:100%">
                      </div>
                      <div class="mySlides fade">
-                        <img class="dynamic-d-l-4" data-position="center center" rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-4" style="width:100%">
+                        <img class="dynamic-d-l-4" data-position="center center" rel="preload" as="image" loading="lazy" alt="dynamic-d-l-4" style="width:100%">
                      </div>
                      <div class="mySlides fade">
-                        <img class="dynamic-d-l-5" data-position="center center" rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-5" style="width:100%">
+                        <img class="dynamic-d-l-5" data-position="center center" rel="preload" as="image" loading="lazy" alt="dynamic-d-l-5" style="width:100%">
                      </div>
                      <div class="mySlides fade">
-                        <img class="dynamic-d-l-6" data-position="center center" rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-6" style="width:100%">
+                        <img class="dynamic-d-l-6" data-position="center center" rel="preload" as="image" loading="lazy" alt="dynamic-d-l-6" style="width:100%">
                      </div>
                      <div class="mySlides fade">
-                        <img class="dynamic-d-l-7" data-position="center center" rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-7" style="width:100%">
+                        <img class="dynamic-d-l-7" data-position="center center" rel="preload" as="image" loading="lazy" alt="dynamic-d-l-7" style="width:100%">
                      </div>
                      <div class="mySlides fade">
-                        <img class="dynamic-d-l-8" data-position="center center" rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-8" style="width:100%">
+                        <img class="dynamic-d-l-8" data-position="center center" rel="preload" as="image" loading="lazy" alt="dynamic-d-l-8" style="width:100%">
                      </div>
                      <div class="mySlides fade">
-                        <img class="dynamic-d-l-9" data-position="center center" rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-9" style="width:100%">
+                        <img class="dynamic-d-l-9" data-position="center center" rel="preload" as="image" loading="lazy" alt="dynamic-d-l-9" style="width:100%">
                      </div>
                      <div class="mySlides fade">
-                        <img class="dynamic-d-l-10" data-position="center center" rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-10" style="width:100%">
+                        <img class="dynamic-d-l-10" data-position="center center" rel="preload" as="image" loading="lazy" alt="dynamic-d-l-10" style="width:100%">
                      </div>
                      <div class="mySlides fade">
-                        <img class="dynamic-d-l-11" data-position="center center" rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-11" style="width:100%">
+                        <img class="dynamic-d-l-11" data-position="center center" rel="preload" as="image" loading="lazy" alt="dynamic-d-l-11" style="width:100%">
                      </div>
                      <!-- <div class="mySlides fade">
-                        <img class="dynamic-d-l-12" data-position="center center" rel="prefetch" as="image" loading="lazy" alt="dynamic-d-l-12" style="width:100%">
+                        <img class="dynamic-d-l-12" data-position="center center" rel="preload" as="image" loading="lazy" alt="dynamic-d-l-12" style="width:100%">
                      </div> -->
                      <a class="icon alt fa-caret-left prev" onclick="plusSlides(-1)"></a>
                      <a class="icon alt fa-caret-right next" onclick="plusSlides(1)"></a>
