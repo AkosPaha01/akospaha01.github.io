@@ -91,6 +91,6 @@ test.describe('Test', async() => {
    const response =  await request.get('../../assets/json/release-output-metadata.json')
    const data = await response.json()
 
-   expect(data.elements[0].versionCode).toBe(392000)
+   expect(data.elements[0].versionCode).toBe(393000)
   });
 })
