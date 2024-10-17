@@ -3,7 +3,7 @@ layout: page
 title: Contact
 nav-menu: true
 description: Contact
-image: /assets/images/og_image.png
+image: /assets/images/og_image.webp
 ---
 
 <!-- Contact -->
@@ -39,7 +39,7 @@ image: /assets/images/og_image.png
     <section class="split">
       <section>
         <div class="contact-method">
-          <span class="icon alt fa-envelope"></span>
+          <span class="icon alt fa-at"></span>
           <h3>Email</h3>
           <a href="mailto:{{ site.email }}">{{ site.email }}</a>
         </div>
@@ -53,7 +53,7 @@ image: /assets/images/og_image.png
       </section>
       <section>
         <div class="contact-method">
-          <span class="icon alt fa-house"></span>
+          <span class="icon alt fa-location-dot"></span>
           <h3>Address</h3>
           <span>
             {% if site.street_address %}

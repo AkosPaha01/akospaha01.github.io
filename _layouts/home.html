@@ -13,7 +13,7 @@
     {% include header.html %}
 
     <!-- Banner -->
-    <section id="banner" class="major">
+    <section id="banner" alt="Banner Image" class="major">
         <div class="inner">
             <header class="major">
                 <h1>{{ site.landing-title }}</h1>
@@ -38,24 +38,24 @@
             </div>
         {% endif %}
 
-                <!-- recent posts tiles -->
-        <!-- {% if site.post-tiles == true %}
-            <div class="inner">
-                <header class="major">
-                    <h2>Recent Posts</h2>
-                </header>
-            </div>
-            {% include posts-tiles.html %}
-            <div class="extra">
-                <a href="{{ site.url }}/blog" class="button">View All posts</a>
-            </div>
-        {% endif %} -->
+      <!-- recent posts tiles -->
+      {% if site.post-tiles == true %}
+      <div class="inner">
+        <header class="major">
+          <h2>Recent Posts</h2>
+        </header>
+      </div>
+      {% include posts-tiles.html %}
+      <div class="extra">
+        <a href="{{ site.url }}/blog" class="button">View All</a>
+      </div>
+      {% endif %}
 
         <!-- recent projects tiles -->
         {% if site.projects-tiles == true %}
             <div class="inner">
                 <header class="major">
-                    <h2>Projects</h2>
+                    <h2>Recent Projects</h2>
                 </header>
             </div>
             {% include projects-tiles.html %}
@@ -98,7 +98,7 @@
         <section class="split">
           <section>
             <div class="contact-method">
-              <span class="icon alt fa-envelope"></span>
+              <span class="icon alt fa-at"></span>
               <h3>Email</h3>
               <a href="mailto:{{ site.email }}">{{ site.email }}</a>
             </div>
@@ -112,7 +112,7 @@
           </section>
           <section>
             <div class="contact-method">
-              <span class="icon alt fa-house"></span>
+              <span class="icon alt fa-location-dot"></span>
               <h3>Address</h3>
               <span>
                 {% if site.street_address %}

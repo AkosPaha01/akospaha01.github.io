@@ -82,4 +82,15 @@ test.describe('Test', async() => {
 
     await expect(page).toHaveTitle(title_rmv3);
   });
+
+  test('Read RboardV3 JSON Data', async ({ page, request }) => {
+    await page.goto('/projects/rboard-theme-manager', {
+      waitUntil: 'networkidle',
+    });
+
+   const response =  await request.get('../../assets/json/release-output-metadata.json')
+   const data = await response.json()
+
+   expect(data.elements[0].versionCode).toBe(393000)
+  });
 })

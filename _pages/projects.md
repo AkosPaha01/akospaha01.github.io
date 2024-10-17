@@ -4,7 +4,7 @@ title: Projects
 landing-title: "Projects"
 nav-menu: false
 description: Projects
-image: /assets/images/og_image.png
+image: /assets/images/og_image.webp
 author: null
 show_tile: false
 ---

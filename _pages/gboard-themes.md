@@ -4,7 +4,7 @@ title: Gboard Themes
 nav-menu: false
 tags: Gboards Themes Google Morethemes 
 description: Gboard Themes
-image: /assets/images/Banner_Rboard.png
+image: /assets/images/Banner_Rboard.webp
 ---
 
 <div id="main" class="alt">
@@ -71,7 +71,7 @@ image: /assets/images/Banner_Rboard.png
         </div>
     </div>
 <br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
 <div id="logo_pack">
 <h1>Latest Release:</h1>
     <div class="row 200%">
@@ -106,7 +106,7 @@ image: /assets/images/Banner_Rboard.png
         </div>
     </div>
 <br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	 
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	 
 <div id="exclusive4">
 <h1>Previous Release:</h1>
     <div class="row 200%">
@@ -144,7 +144,7 @@ image: /assets/images/Banner_Rboard.png
         </div>
     </div>
 <br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	 
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	 
 <div id="minecraft">
 <h1>Previous Release:</h1>
     <div class="row 200%">
@@ -179,7 +179,7 @@ image: /assets/images/Banner_Rboard.png
         </div>
     </div>
 <br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
 <div id="exclusive3">
 <h1>Previous Release:</h1>
     <div class="row 200%">
@@ -216,7 +216,7 @@ image: /assets/images/Banner_Rboard.png
         </div>
     </div>
 <br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	       
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	       
 <div id="exclusive2">
 <h1>Previous Release:</h1>
     <div class="row 200%">
@@ -253,7 +253,7 @@ image: /assets/images/Banner_Rboard.png
         </div>
     </div>
 <br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
 <div id="arctic">
 <h1>Older Release:</h1>
     <div class="row 200%">
@@ -290,7 +290,7 @@ image: /assets/images/Banner_Rboard.png
         </div>
     </div>
 <br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
 <div id="nightlight">
 <h1>Older Release:</h1>
     <div class="row 200%">
@@ -327,7 +327,7 @@ image: /assets/images/Banner_Rboard.png
         </div>
     </div>
 <br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <div id="exclusive">
 <h1>Older Release:</h1>
     <div class="row 200%">
@@ -366,7 +366,7 @@ image: /assets/images/Banner_Rboard.png
         </div>
     </div>
 <br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <div id="borderless">
 <h1>Older Release:</h1>
     <div class="row 200%">
@@ -402,7 +402,7 @@ image: /assets/images/Banner_Rboard.png
         </div>
     </div>
 <br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <div id="pitchblack">
 <h1>Older Release:</h1>
     <div class="row 200%">
@@ -438,7 +438,7 @@ image: /assets/images/Banner_Rboard.png
         </div>
     </div>
 <br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	  
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	  
 <div id="feather">
 <h1>Older Release:</h1>
     <div class="row 200%">
@@ -475,7 +475,7 @@ image: /assets/images/Banner_Rboard.png
         </div>
     </div>
 <br><br> 
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	      
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	      
 <div id="darkgrey">
 <h1>Older Release:</h1>
 </div>
@@ -512,7 +512,7 @@ image: /assets/images/Banner_Rboard.png
         </div>
     </div>
 <br><br>
-<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <div id="dracula">
 <h1>Older Release:</h1>
     <div class="row 200%">
@@ -555,7 +555,7 @@ image: /assets/images/Banner_Rboard.png
             </ul>
         </div>
     </div>
-<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <div id="desaturated">
 <h1>Older Release:</h1>
     <div class="row 200%">
@@ -592,7 +592,7 @@ image: /assets/images/Banner_Rboard.png
             </ul>
         </div>
     </div>
-<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
@@ -626,7 +626,7 @@ image: /assets/images/Banner_Rboard.png
             </ul>
         </div>
     </div>
-<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
+<br><br> <h4>License:</h4> Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>	    
 <h1>Older Release:</h1>
     <div class="row 200%">
         <div class="6u 12u$(medium)">
@@ -890,4 +890,4 @@ image: /assets/images/Banner_Rboard.png
         </div>
     </div>
 <h4>License:</h4>
-Licensed Under The GNU GPL version 3, For more info read <a target="_blank" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
+Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>

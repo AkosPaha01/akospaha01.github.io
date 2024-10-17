@@ -4,16 +4,16 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "de.dertyp7214.rboardthememanager",
-  "variantName": "release",
+  "applicationId": "de.dertyp7214.rboardthememanager.debug",
+  "variantName": "debug",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 392000,
-      "versionName": "3.9.2",
-      "outputFile": "app-release-unsigned.apk"
+      "versionCode": 394000,
+      "versionName": "3.9.4",
+      "outputFile": "app-debug.apk"
     }
   ],
   "elementType": "File"
