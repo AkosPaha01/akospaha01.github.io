@@ -25,22 +25,22 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                               <p>Lead Developer</p>
                               <ul class="icons actions card-button">
                                     <!-- <li>
-                                          <a href="https://dertyp7214.de/" class="icon alt fa-globe" target="_blank" rel="noopener noreferrer" aria-label="Website">
+                                          <a href="https://dertyp7214.de/" class="icon alt fa fa-globe" target="_blank" rel="noopener noreferrer" aria-label="Website">
                                                 <span class="label">Website</span>
                                           </a>
                                     </li> -->
                                     <li>
-                                          <a href="https://github.com/DerTyp7214" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
+                                          <a href="https://github.com/DerTyp7214" class="icon alt fa fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
                                                 <span class="label">Github</span>
                                           </a>
                                     </li>
                                     <li>
-                                          <a href="https://www.linkedin.com/in/dertyp7214" class="icon alt fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                                          <a href="https://www.linkedin.com/in/dertyp7214" class="icon alt fa fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                                                 <span class="label">LinkedIn</span>
                                           </a>
                                     </li>
                                     <li>
-                                          <a href="https://twitter.com/DerTyp7214" class="icon alt fa-x-twitter" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+                                          <a href="https://twitter.com/DerTyp7214" class="icon alt fa fa-x-twitter" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
                                                 <span class="label">Twitter</span>
                                           </a>
                                     </li>
@@ -56,22 +56,22 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                               <p>Developer & Themer</p>
                                <ul class="icons actions card-button">
                                     <li>
-                                          <a href="https://github.com/akospaha01" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
+                                          <a href="https://github.com/akospaha01" class="icon alt fa fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
                                                 <span class="label">Github</span>
                                           </a>
                                     </li>
                                     <li>
-                                          <a href="https://www.instagram.com/akos_paha" class="icon alt fa fa-instagram" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                                          <a href="https://www.instagram.com/akos_paha" class="icon alt fa fa fa-instagram" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
                                                 <span class="label">Instagram</span>
                                           </a>
                                     </li>
                                     <li>
-                                          <a href="https://www.linkedin.com/in/akos-paha" class="icon alt fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                                          <a href="https://www.linkedin.com/in/akos-paha" class="icon alt fa fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                                                 <span class="label">LinkedIn</span>
                                           </a>
                                     </li>
                                     <li>
-                                          <a href="https://t.me/akospaha" class="icon alt fa-telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
+                                          <a href="https://t.me/akospaha" class="icon alt fa fa-telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
                                                 <span class="label">Telegram</span>
                                           </a>
                                     </li>
@@ -87,22 +87,22 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                               <p>Owner & Themer</p>
                               <ul class="icons actions card-button">
                                     <li>
-                                          <a href="https://dribbble.com/RKBDI" class="icon alt fa-dribbble" target="_blank" rel="noopener noreferrer" aria-label="Dribbble">
+                                          <a href="https://dribbble.com/RKBDI" class="icon alt fa fa fa-dribbble" target="_blank" rel="noopener noreferrer" aria-label="Dribbble">
                                                 <span class="label">Dribbble</span>
                                           </a>
                                     </li>
                                     <li>
-                                          <a href="https://github.com/RadekBledowski" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
+                                          <a href="https://github.com/RadekBledowski" class="icon alt fa fa fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
                                                 <span class="label">Github</span>
                                           </a>
                                     </li>
                                     <li>
-                                          <a href="https://t.me/rkbdi" class="icon alt fa fa-telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
+                                          <a href="https://t.me/rkbdi" class="icon alt fa fa fa-telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
                                                 <span class="label">Telegram</span>
                                           </a>
                                     </li>
                                     <li>
-                                          <a href="https://twitter.com/RKBDI" class="icon alt fa-x-twitter" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+                                          <a href="https://twitter.com/RKBDI" class="icon alt fa fa fa-x-twitter" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
                                                 <span class="label">Twitter</span>
                                           </a>
                                     </li>
@@ -131,7 +131,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
             <h2 style="margin-bottom: 1.5rem !important">Hundreds of themes for <span class="highlight-text">Gboard</span></h2>
             <p>Rboard Theme Manager V3 includes tens of theme packs and hundreds of beautiful unique <strong><a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" class="highlight-text" target="_blank">"Gboard - the Google Keyboard"</a></strong> themes from different theme creators.</p>
       <ul class="actions card-button">
-            <li style="padding: 0 0 0 0 !important;"><a href="#rboard-downloads" class="button special read-more icon fa-file-arrow-down" style="color: var(--btn-text) !important;">Get Rboard V3</a></li>
+            <li style="padding: 0 0 0 0 !important;"><a href="#rboard-downloads" class="button special read-more icon fa fa-file-arrow-down" style="color: var(--btn-text) !important; padding: 1rem !important; height: auto !important;">Get Rboard V3</a></li>
       </ul>
       </div>  
 
@@ -183,7 +183,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                               <div id="rboardversion-a6-release-name" class="rboard-text">Latest Version Name: </div>
                               <div id="rboardversion-a6-release-code" class="rboard-text">Latest Version Code: </div>
                               <ul class="actions card-button">
-                                 <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible" class="button special read-more icon fa-github" target="_blank" style="color: var(--btn-text) !important;">A6+ Release</a></li>
+                                 <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible" class="button special read-more icon fa fa-github" target="_blank" style="color: var(--btn-text) !important; padding: 1rem !important; height: auto !important;">A6+ Release</a></li>
                               </ul>
                            </div>
                         </div>
@@ -195,7 +195,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                               <div id="rboardversion-a12-release-name" class="rboard-text">Latest Version Name: </div>
                               <div id="rboardversion-a12-release-code" class="rboard-text">Latest Version Code: </div>
                               <ul class="actions card-button">
-                                 <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest" class="button special read-more icon fa-github" target="_blank" style="color: var(--btn-text) !important;">A12+ Release</a></li>
+                                 <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest" class="button special read-more icon fa fa-github" target="_blank" style="color: var(--btn-text) !important; padding: 1rem !important; height: auto !important;">A12+ Release</a></li>
                               </ul>
                            </div>
                         </div>
@@ -213,7 +213,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                               <div id="rboardversion-a6-debug-name" class="rboard-text">Latest Version Name: </div>
                               <div id="rboardversion-a6-debug-code" class="rboard-text">Latest Version Code: </div>
                               <ul class="actions card-button">
-                                 <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible-debug" class="button special read-more icon fa-github" target="_blank" style="color: var(--btn-text) !important;">A6+ Debug</a></li>
+                                 <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-rCompatible-debug" class="button special read-more icon fa fa-github" target="_blank" style="color: var(--btn-text) !important; padding: 1rem !important; height: auto !important;">A6+ Debug</a></li>
                               </ul>
                            </div>
                         </div>
@@ -225,7 +225,7 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
                               <div id="rboardversion-a12-debug-name" class="rboard-text">Latest Version Name: </div>
                               <div id="rboardversion-a12-debug-code" class="rboard-text">Latest Version Code: </div>
                               <ul class="actions card-button">
-                                 <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-debug" class="button special read-more icon fa-github" target="_blank" style="color: var(--btn-text) !important;">A12+ Debug</a></li>
+                                 <li style="padding: 0 0 0 0 !important;"><a href="https://github.com/DerTyp7214/RboardThemeManagerV3/releases/latest-debug" class="button special read-more icon fa fa-github" target="_blank" style="color: var(--btn-text) !important; padding: 1rem !important; height: auto !important;">A12+ Debug</a></li>
                               </ul>
                            </div>
                         </div>
@@ -358,27 +358,27 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 
 <ul class="actions">
    <li>
-      <a href="https://github.com/DerTyp7214/RboardThemeManagerV3" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
+      <a href="https://github.com/DerTyp7214/RboardThemeManagerV3" class="icon alt fa fa-github" target="_blank" rel="noopener noreferrer" aria-label="Github">
       <span class="label">Github</span>
       </a>
    </li>
    <!-- <li>
-      <a href="https://rboard.dev/rboard" class="icon alt fa-globe" target="_blank" rel="noopener noreferrer" aria-label="Website">
+      <a href="https://rboard.dev/rboard" class="icon alt fa fa-globe" target="_blank" rel="noopener noreferrer" aria-label="Website">
       <span class="label">Website</span>
       </a>
    </li> -->
    <li>
-      <a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="icon alt fa-message" target="_blank" rel="noopener noreferrer" aria-label="XDA Forum">
+      <a href="https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/" class="icon alt fa fa-message" target="_blank" rel="noopener noreferrer" aria-label="XDA Forum">
       <span class="label">XDA Forum</span>
       </a>
    </li>
    <li>
-      <a href="https://t.me/rkbdigboard" class="icon alt fa-telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
+      <a href="https://t.me/rkbdigboard" class="icon alt fa fa-telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
       <span class="label">Telegram Channel</span>
       </a>
    </li>
    <li>
-      <a href="https://t.me/gboardthemes" class="icon alt fa-telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
+      <a href="https://t.me/gboardthemes" class="icon alt fa fa-telegram" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
       <span class="label">Telegram Group</span>
       </a>
    </li>

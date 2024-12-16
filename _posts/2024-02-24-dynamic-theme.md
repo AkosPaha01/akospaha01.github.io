@@ -52,8 +52,8 @@ image: /assets/images/dynamic-d-l/dynamic-d-l-image-desktop.webp
                      <!-- <div class="mySlides fade">
                         <img class="dynamic-d-l-12" data-position="center center" rel="preload" as="image" loading="lazy" alt="dynamic-d-l-12" style="width:100%">
                      </div> -->
-                     <a class="icon alt fa-caret-left prev" onclick="plusSlides(-1)"></a>
-                     <a class="icon alt fa-caret-right next" onclick="plusSlides(1)"></a>
+                     <a class="icon alt fa fa-caret-left prev" onclick="plusSlides(-1)"></a>
+                     <a class="icon alt fa fa-caret-right next" onclick="plusSlides(1)"></a>
                   </div>
                   <br>
                   <div style="text-align:center">
@@ -75,7 +75,7 @@ image: /assets/images/dynamic-d-l/dynamic-d-l-image-desktop.webp
                <h2 style="margin-bottom: 1.5rem !important">Hundreds of themes for <span class="highlight-text">Gboard</span></h2>
                <p>Rboard Theme Manager V3 includes tens of theme packs and hundreds of beautiful unique <strong><a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" class="highlight-text" target="_blank">"Gboard - the Google Keyboard"</a></strong> themes from different theme creators.</p>
                <ul class="actions card-button">
-                  <li style="padding: 0 0 0 0 !important;"><a href="#rboard-downloads" class="button special read-more icon fa-file-arrow-down" style="color: var(--btn-text) !important;">Get Rboard V3</a></li>
+                  <li style="padding: 0 0 0 0 !important;"><a href="#rboard-downloads" class="button special read-more icon fa fa-file-arrow-down" style="color: var(--btn-text) !important; padding: 1rem !important; height: auto !important;">Get Rboard V3</a></li>
                </ul>
             </div>
          </div>
@@ -95,7 +95,7 @@ image: /assets/images/dynamic-d-l/dynamic-d-l-image-desktop.webp
                                     <div id="dynamic-d-file_size" class="rboard-text">File Size: </div>
                                     <ul class="actions card-button">
                                        <li style="padding: 0 0 0 0 !important;">
-                                          <a id="dynamic-d-link" class="button special read-more icon fa-github" target="_blank" style="color: var(--btn-text) !important;">Github</a>
+                                          <a id="dynamic-d-link" class="button special read-more icon fa fa-github" target="_blank" style="color: var(--btn-text) !important; padding: 1rem !important; height: auto !important;">Github</a>
                                        </li>
                                     </ul>
                                  </div>
@@ -108,7 +108,7 @@ image: /assets/images/dynamic-d-l/dynamic-d-l-image-desktop.webp
                                     <div id="rboardversion-a6-release-name" class="rboard-text">Latest Version Name: </div>
                                     <div id="rboardversion-a6-release-code" class="rboard-text">Latest Version Code: </div>
                                     <ul class="actions card-button">
-                                       <li style="padding: 0 0 0 0 !important;"><a href="/projects/rboard-theme-manager/#rboard-downloads" class="button special read-more icon fa-file-arrow-down" target="_blank" style="color: var(--btn-text) !important;">Rboard V3</a></li>
+                                       <li style="padding: 0 0 0 0 !important;"><a href="/projects/rboard-theme-manager/#rboard-downloads" class="button special read-more icon fa fa-file-arrow-down" target="_blank" style="color: var(--btn-text) !important; padding: 1rem !important; height: auto !important;">Rboard V3</a></li>
                                     </ul>
                                  </div>
                               </div>
@@ -127,7 +127,7 @@ image: /assets/images/dynamic-d-l/dynamic-d-l-image-desktop.webp
                                     <div id="dynamic-l-file_size" class="rboard-text">File Size: </div>
                                     <ul class="actions card-button">
                                        <li style="padding: 0 0 0 0 !important;">
-                                          <a id="dynamic-l-link" class="button special read-more icon fa-github" target="_blank" style="color: var(--btn-text) !important;">Github</a>
+                                          <a id="dynamic-l-link" class="button special read-more icon fa fa-github" target="_blank" style="color: var(--btn-text) !important; padding: 1rem !important; height: auto !important;">Github</a>
                                        </li>
                                     </ul>
                                  </div>
@@ -140,7 +140,7 @@ image: /assets/images/dynamic-d-l/dynamic-d-l-image-desktop.webp
                                     <div id="rboardversion-a12-release-name" class="rboard-text">Latest Version Name: </div>
                                     <div id="rboardversion-a12-release-code" class="rboard-text">Latest Version Code: </div>
                                     <ul class="actions card-button">
-                                       <li style="padding: 0 0 0 0 !important;"><a href="/projects/rboard-theme-manager/#rboard-downloads" class="button special read-more icon fa-file-arrow-down" target="_blank" style="color: var(--btn-text) !important;">Rboard V3</a></li>
+                                       <li style="padding: 0 0 0 0 !important;"><a href="/projects/rboard-theme-manager/#rboard-downloads" class="button special read-more icon fa fa-file-arrow-down" target="_blank" style="color: var(--btn-text) !important; padding: 1rem !important; height: auto !important;">Rboard V3</a></li>
                                     </ul>
                                  </div>
                               </div>

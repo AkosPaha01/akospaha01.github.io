@@ -54,6 +54,8 @@ $size: (
 		--accent5: #0b46d0;
 		--accent6: #0bd067;
 		--btn-text: rgb(255 255 255);
+		--fa-style-family: 'Open Sans', sans-serif,;
+		--fa-style: 600;
 	};
 	}
 	@mixin dark-appearance {
@@ -83,6 +85,8 @@ $size: (
 		--accent5: #8ea9e8;
 		--accent6: #87c5a4;		
 		--btn-text: rgb(25 16 0);
+		--fa-style-family: 'Open Sans', sans-serif,;
+		--fa-style: 600;
 	};
 	}
 	html[data-theme="dark"] {
