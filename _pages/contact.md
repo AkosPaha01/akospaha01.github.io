@@ -39,21 +39,21 @@ image: /assets/images/og_image.webp
     <section class="split">
       <section>
         <div class="contact-method">
-          <span class="icon alt fa-at"></span>
+          <span class="icon alt fa-brands fa-at"></span>
           <h3>Email</h3>
           <a href="mailto:{{ site.email }}">{{ site.email }}</a>
         </div>
       </section>
       <section>
         <div class="contact-method">
-          <span class="icon alt fa-instagram"></span>
+          <span class="icon alt fa-brands fa-instagram"></span>
           <h3>Instagram</h3>
-          <span><a href="{{ site.socials.Instagram }}">{{ site.socials.Instagram | split: '/' | last | capitalize }}</a></span>
+          <span><a href="{{ site.socials.Instagram }}">{{ site.socials.Instagram | split: '/' | last }}</a></span>
         </div>
       </section>
       <section>
         <div class="contact-method">
-          <span class="icon alt fa-location-dot"></span>
+          <span class="icon alt fa-brands fa-location-dot"></span>
           <h3>Address</h3>
           <span>
             {% if site.street_address %}
