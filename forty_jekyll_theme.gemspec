@@ -13,6 +13,9 @@ Gem::Specification.new do |spec|
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
   
   spec.add_development_dependency "liquid", "~> 5.6.0"
+  spec.add_development_dependency "logger", '~> 1.6.5'
+  spec.add_development_dependency "base64", '~> 0.2.0'
+  spec.add_development_dependency "csv", '~> 3.3.2'
   spec.add_development_dependency "safe_yaml", "~> 1.0.5"
   spec.add_development_dependency "jekyll", "~> 4.3.4"
   spec.add_development_dependency "bundler", "~> 2.6.2"
