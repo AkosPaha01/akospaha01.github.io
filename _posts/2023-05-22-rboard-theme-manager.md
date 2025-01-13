@@ -385,4 +385,4 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 </ul>
 
 #### License:
-Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/AkosPaha/akospaha.github.io/blob/master/LICENSE.md">LICENSE</a>
+Licensed Under The GNU GPL version 3, For more info read <a target="_blank" class="highlight-text" href="https://github.com/DerTyp7214/RboardThemeManagerV3/blob/staging/LICENSE">LICENSE</a>

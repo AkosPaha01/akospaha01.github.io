@@ -198,6 +198,8 @@ body {
 
 .card-p:hover {
   background-color: var(--accent1);
+  transition: border-radius 0.5s cubic-bezier(0.2, 0, 0, 1),
+      background-color 0.5s cubic-bezier(0.2, 0, 0, 1);
 }
 
 .card-p {
@@ -205,8 +207,8 @@ body {
   text-align: center;
   background-color: var(--bg);
   border-radius: 24px;
-  transition: border-radius 0.3s cubic-bezier(0.2, 0, 0, 1),
-    background-color 0.3s cubic-bezier(0.2, 0, 0, 1);
+  transition: border-radius 0.5s cubic-bezier(0.2, 0, 0, 1),
+    background-color 0.5s cubic-bezier(0.2, 0, 0, 1);
 }
 
 .p-card {
