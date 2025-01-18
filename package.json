@@ -5,7 +5,7 @@
   "main": "index.js",
   "devDependencies": {
     "@playwright/test": "^1.49.1",
-    "@types/node": "^22.10.2"
+    "@types/node": "^22.10.7"
   },
   "scripts": {},
   "keywords": [],
