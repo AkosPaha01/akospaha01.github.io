@@ -4,14 +4,14 @@
   "description": "[![Deploy Jekyll site to Pages](https://github.com/AkosPaha01/akospaha01.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/AkosPaha01/akospaha01.github.io/actions/workflows/jekyll.yml)",
   "main": "index.js",
   "devDependencies": {
-    "@playwright/test": "^1.49.1",
-    "@types/node": "^22.10.7"
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.0"
   },
   "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "npm": "^11.0.0"
+    "npm": "^11.1.0"
   }
 }
