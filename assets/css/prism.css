@@ -1,12 +1,5 @@
-/* PrismJS 1.29.0
+/* PrismJS 1.30.0
 https://prismjs.com/download.html#themes=prism-okaidia&languages=markup+css+clike+javascript+bash+c+cpp+dart+git+java+latex+python+sass+scss+vim&plugins=match-braces */
-
-/**
- * okaidia theme for JavaScript, CSS and HTML
- * Loosely based on Monokai textmate theme by http://www.monokai.nl/
- * @author ocodia
- */
-
 code[class*=language-],
 pre[class*=language-] {
   color: #f8f8f2;
