@@ -1,17 +1,17 @@
 {
   "name": "akospaha01.github.io",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "description": "[![Deploy Jekyll site to Pages](https://github.com/AkosPaha01/akospaha01.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/AkosPaha01/akospaha01.github.io/actions/workflows/jekyll.yml)",
   "main": "index.js",
   "devDependencies": {
-    "@playwright/test": "^1.51.1",
-    "@types/node": "^22.13.13"
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.1"
   },
   "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "npm": "^11.2.0"
+    "npm": "^11.3.0"
   }
 }
