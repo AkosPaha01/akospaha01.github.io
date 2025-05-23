@@ -18,5 +18,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "csv", '~> 3.3.4'
   spec.add_development_dependency "safe_yaml", "~> 1.0.5"
   spec.add_development_dependency "jekyll", "~> 4.4.1"
-  spec.add_development_dependency "bundler", "~> 2.6.8"
+  spec.add_development_dependency "bundler", "~> 2.6.9"
 end
