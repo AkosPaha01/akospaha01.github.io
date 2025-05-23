@@ -11,4 +11,4 @@ gem 'base64', '~> 0.2.0'
 gem 'csv', '~> 3.3.4'
 gem "webrick", "~> 1.9.1"
 gem 'wdm', '>= 0.2.0'
-gem 'google-protobuf', '4.31.0.rc.1'
+gem 'google-protobuf', '4.31.0'
