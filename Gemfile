@@ -7,8 +7,8 @@ group :jekyll_plugins do
 end
 
 gem 'logger', '~> 1.7.0'
-gem 'base64', '~> 0.2.0'
-gem 'csv', '~> 3.3.4'
+gem 'base64', '~> 0.3.0'
+gem 'csv', '~> 3.3.5'
 gem "webrick", "~> 1.9.1"
 gem 'wdm', '>= 0.2.0'
-gem 'google-protobuf', '4.31.0'
+gem 'google-protobuf', '4.31.1'
