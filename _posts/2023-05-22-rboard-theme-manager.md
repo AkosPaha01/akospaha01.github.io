@@ -143,25 +143,19 @@ tags: Rboard Theme Manager Gboard Themes Google Morethemes Gboardkeyboard Keyboa
 * Applying themes
 * Deleting themes
 * In-app App updater
-* Light/Dark for system theme switch (Android 10+)
 * Gboard flags import/export/edit
 * Gboard preferences import/export/edit
 * 3rd party theme repos support
-* System Click sounds customization
-* Theme/Sound preview
+* Theme preview
 * Widgets
-* Search for Themes/Sounds
-* Module-less option (less features but will work on Color OS)
+* Search for Themes
 * Monet and blur (Android 12+)
 * Exporting and importing themes
 
 #### Known bugs:
 
-* MIUI users have to reboot each time they download themes or do the same what Color OS does
-  Color OS, Realme OS needs to turn off "Use Magisk" in settings to get it working
 * App won't work properly if you don't have connection to github (Use VPN)
 * Crashes on stock nubia rom
-* Sounds doesn't work on non AOSP roms
 
 <a id="rboard-downloads"></a>
 
